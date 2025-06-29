@@ -517,3 +517,17 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [29Jun2025 21:27:28.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ¡
 [29Jun2025 21:27:31.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> jevin ?
 [29Jun2025 21:29:25.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Local Brewery]
+[29Jun2025 21:37:51.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 10.142757209481715,0.0,0.10464894885330978
+[29Jun2025 21:37:55.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[29Jun2025 21:37:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[29Jun2025 21:40:07.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:65260] logged in with entity id 30666 at (-2201.1181498719047, 66.9375, 1737.4027529128389)
+[29Jun2025 21:40:07.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[29Jun2025 21:41:34.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=25, z=173} BlockPos{x=-50, y=24, z=173}
+[29Jun2025 21:41:34.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=25, z=173} BlockPos{x=-50, y=24, z=173}
+[29Jun2025 21:41:34.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=25, z=173} BlockPos{x=-50, y=24, z=173}
+[29Jun2025 21:45:01.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -5.450721379321749,-1.0,8.467881062926153
+[29Jun2025 21:45:07.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[29Jun2025 21:45:07.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[29Jun2025 21:45:59.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:49729] logged in with entity id 33191 at (-2173.091910461843, 63.0, 1752.8403026290796)
+[29Jun2025 21:45:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[29Jun2025 21:46:09.740] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7839b475[id=<null>,name=CHUCHIxXD,properties={},legacy=false] (/100.115.86.32:51721) lost connection: Disconnected
