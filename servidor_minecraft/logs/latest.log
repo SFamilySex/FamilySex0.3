@@ -503,3 +503,17 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [29Jun2025 20:55:52.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Gone Bananas!]
 [29Jun2025 21:04:29.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Soul Magic]
 [29Jun2025 21:05:08.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Disenchanter]
+[29Jun2025 21:17:31.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[29Jun2025 21:17:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[29Jun2025 21:23:33.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[29Jun2025 21:23:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[29Jun2025 21:23:34.034] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 21:24:17.784] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39e7d458[id=<null>,name=elpepe,properties={},legacy=false] (/100.71.192.84:55723) lost connection: Disconnected
+[29Jun2025 21:24:47.134] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1de74652[id=<null>,name=elpepe,properties={},legacy=false] (/100.71.192.84:55846): Took too long to log in
+[29Jun2025 21:24:47.135] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1de74652[id=<null>,name=elpepe,properties={},legacy=false] (/100.71.192.84:55846) lost connection: Took too long to log in
+[29Jun2025 21:24:47.185] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 21:27:09.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:64905] logged in with entity id 26659 at (-2207.0082964980247, 67.0, 1744.5108023453479)
+[29Jun2025 21:27:09.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[29Jun2025 21:27:28.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ¡
+[29Jun2025 21:27:31.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> jevin ?
+[29Jun2025 21:29:25.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Local Brewery]
