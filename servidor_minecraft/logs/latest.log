@@ -503,3 +503,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [29Jun2025 19:59:25.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
 [29Jun2025 20:03:22.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:63233] logged in with entity id 7685 at (5294.400542928286, 104.0, 242.959673130663)
 [29Jun2025 20:03:22.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[29Jun2025 20:04:01.363] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[29Jun2025 20:04:01.368] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[29Jun2025 20:04:24.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[29Jun2025 20:04:24.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[29Jun2025 20:04:24.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Umvuthi, the Sunbird
+[29Jun2025 20:07:45.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:63330] logged in with entity id 9610 at (5311.926420075675, 96.0, 200.76366593524926)
+[29Jun2025 20:07:45.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[29Jun2025 20:11:56.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:59435] logged in with entity id 12409 at (-256.8833651465455, 71.0, 1164.804222064669)
+[29Jun2025 20:11:56.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[29Jun2025 20:12:13.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[29Jun2025 20:12:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
