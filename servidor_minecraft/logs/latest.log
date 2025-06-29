@@ -531,3 +531,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [29Jun2025 21:45:59.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:49729] logged in with entity id 33191 at (-2173.091910461843, 63.0, 1752.8403026290796)
 [29Jun2025 21:45:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [29Jun2025 21:46:09.740] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7839b475[id=<null>,name=CHUCHIxXD,properties={},legacy=false] (/100.115.86.32:51721) lost connection: Disconnected
+[29Jun2025 21:46:23.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIxXD[/100.115.86.32:51730] logged in with entity id 33465 at (-253.17981495636894, 65.0, 1168.5476399462236)
+[29Jun2025 21:46:23.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD joined the game

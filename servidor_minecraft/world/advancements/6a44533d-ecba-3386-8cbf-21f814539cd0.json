@@ -2732,21 +2732,39 @@
     },
     "done": true
   },
-  "paraglider:root": {
+  "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
-      "crafting_table": "2025-06-29 00:30:39 +0000"
+      "has_blue_wool": "2025-06-28 22:52:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "aether:recipes/combat/blue_cape_blue_wool": {
     "criteria": {
-      "has_bone_meal": "2025-06-29 02:16:52 +0000"
+      "has_blue_wool": "2025-06-28 22:52:41 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
-      "from_undead": "2025-06-28 23:27:02 +0000"
+      "has_blue_wool": "2025-06-28 22:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-28 22:52:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 22:55:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 22:55:04 +0000"
     },
     "done": true
   },
@@ -2762,9 +2780,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
+  "tombstone:recipes/from_grave_dust": {
     "criteria": {
-      "has_stripped_logs": "2025-06-28 23:08:17 +0000"
+      "has_ingredient": "2025-06-28 22:55:26 +0000"
     },
     "done": true
   },
@@ -2780,69 +2798,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-06-28 22:52:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-06-28 22:55:04 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/blue_cape_blue_wool": {
-    "criteria": {
-      "has_blue_wool": "2025-06-28 22:52:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2025-06-28 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-28 23:08:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-06-28 22:52:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-06-28 22:55:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-06-28 23:04:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
-    "criteria": {
-      "has_log": "2025-06-29 01:30:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-06-29 02:16:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_hoe_repairing": {
-    "criteria": {
-      "has_stone_hoe": "2025-06-29 01:58:54 +0000"
     },
     "done": true
   },
@@ -2858,27 +2816,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-06-29 00:43:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-06-28 23:04:22 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/parabolic_antenna": {
-    "criteria": {
-      "has_ender_pearl": "2025-06-29 00:12:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-06-28 23:24:17 +0000"
     },
     "done": true
   },
@@ -2900,21 +2840,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-28 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-06-28 23:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-06-28 23:24:26 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "banana": "2025-06-29 00:30:07 +0000"
+      "from_undead": "2025-06-28 23:27:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
     "criteria": {
-      "has_blue_wool": "2025-06-28 22:52:41 +0000"
+      "has_ender_pearl": "2025-06-29 00:12:10 +0000"
     },
     "done": true
   },
@@ -2924,9 +2882,39 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-06-29 00:30:07 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-06-29 00:30:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-29 00:30:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-29 00:43:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
       "has_golden_boots": "2025-06-29 00:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 01:30:19 +0000"
     },
     "done": true
   },
@@ -2936,9 +2924,27 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "aether:recipes/tools/stone_hoe_repairing": {
     "criteria": {
-      "crafting_table": "2025-06-29 00:30:39 +0000"
+      "has_stone_hoe": "2025-06-29 01:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-29 02:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-29 02:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-29 21:52:01 +0000"
     },
     "done": true
   },
