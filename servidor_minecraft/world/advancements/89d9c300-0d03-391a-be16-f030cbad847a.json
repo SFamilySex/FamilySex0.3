@@ -6814,15 +6814,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/ride_submarine": {
+  "alexscaves:alexscaves/mussel": {
     "criteria": {
-      "ride_a_boat_with_a_goat": "2025-06-29 05:52:30 +0000"
+      "mussel": "2025-06-29 05:45:59 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/tomb_raider": {
+  "alexscaves:alexscaves/defeat_mine_guardian": {
     "criteria": {
-      "coded_trigger": "2025-06-29 07:21:32 +0000"
+      "killed": "2025-06-29 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-06-29 05:52:30 +0000"
     },
     "done": true
   },
@@ -6832,19 +6838,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/marine_snow": {
-    "criteria": {
-      "marine_snow": "2025-06-29 07:08:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-06-29 05:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-06-29 05:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-06-29 05:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_copper": "2025-06-29 05:53:44 +0000"
     },
@@ -6856,45 +6868,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2025-06-29 06:08:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-06-29 05:53:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_mine_guardian": {
-    "criteria": {
-      "killed": "2025-06-29 05:48:54 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2025-06-29 06:06:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "tombstone:adventure/mutual_aid": {
     "criteria": {
-      "has_glowstone": "2025-06-29 06:12:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
-    "criteria": {
-      "has_oxidized_copper": "2025-06-29 05:53:44 +0000"
+      "coded_trigger": "2025-06-29 06:08:08 +0000"
     },
     "done": true
   },
@@ -6907,6 +6889,66 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-06-29 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-06-29 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-06-29 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-06-29 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-29 06:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-06-29 06:20:45 +0000"
     },
     "done": true
   },
@@ -6924,41 +6966,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-06-29 06:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper": "2025-06-29 05:53:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-06-29 06:42:40 +0000"
     },
     "done": false
-  },
-  "alexscaves:alexscaves/mussel": {
-    "criteria": {
-      "mussel": "2025-06-29 05:45:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_weathered_cut_copper_slab": "2025-06-29 06:20:45 +0000"
-    },
-    "done": true
   },
   "alexscaves:alexscaves/repair_submarine": {
     "criteria": {
@@ -6966,27 +6978,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting": {
+  "alexscaves:alexscaves/marine_snow": {
     "criteria": {
-      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
+      "marine_snow": "2025-06-29 07:08:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+  "tombstone:adventure/tomb_raider": {
     "criteria": {
-      "has_oxidized_cut_copper": "2025-06-29 06:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_honeycomb": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-06-29 06:15:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-06-29 06:10:42 +0000"
+      "coded_trigger": "2025-06-29 07:21:32 +0000"
     },
     "done": true
   },
