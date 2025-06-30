@@ -7122,12 +7122,6 @@
     },
     "done": true
   },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2025-06-30 03:11:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-30 02:59:32 +0000"
@@ -7176,15 +7170,21 @@
     },
     "done": true
   },
-  "aether:enter_aether": {
-    "criteria": {
-      "enter_aether": "2025-06-30 03:11:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-30 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-06-30 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-06-30 03:11:00 +0000"
     },
     "done": true
   },
