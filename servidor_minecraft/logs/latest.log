@@ -491,3 +491,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Jun2025 02:20:42.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:50491] logged in with entity id 14542 at (-251.9320363150508, 65.0, 1167.538707976355)
 [30Jun2025 02:20:42.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
 [30Jun2025 02:21:14.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[30Jun2025 02:23:21.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Jun2025 02:27:25.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=20, z=-190} BlockPos{x=212, y=20, z=-190}
+[30Jun2025 02:27:45.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=-198} BlockPos{x=203, y=10, z=-197}
+[30Jun2025 02:27:46.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=13, z=-197} BlockPos{x=203, y=11, z=-199}
