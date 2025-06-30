@@ -486,3 +486,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Jun2025 01:59:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
 [30Jun2025 02:06:16.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:54025] logged in with entity id 7971 at (261.62752502024597, 5.0, -131.66903389855395)
 [30Jun2025 02:06:16.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[30Jun2025 02:16:51.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:60148] logged in with entity id 12202 at (-258.4867911712392, 65.0, 1165.0183496211987)
+[30Jun2025 02:16:51.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[30Jun2025 02:20:42.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:50491] logged in with entity id 14542 at (-251.9320363150508, 65.0, 1167.538707976355)
+[30Jun2025 02:20:42.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[30Jun2025 02:21:14.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
