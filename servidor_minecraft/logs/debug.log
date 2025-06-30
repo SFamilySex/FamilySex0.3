@@ -3638,3 +3638,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Jun2025 01:43:38.786] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHummingbird['Hummingbird'/1335, l='ServerLevel[world]', x=-2354.23, y=84.71, z=1793.77]
 [30Jun2025 01:46:32.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jun2025 01:46:32.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 01:51:32.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 01:51:32.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 01:56:32.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 01:56:32.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 01:59:53.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[30Jun2025 01:59:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
