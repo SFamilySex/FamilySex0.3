@@ -518,3 +518,30 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Jun2025 02:41:33.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
 [30Jun2025 02:41:33.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
 [30Jun2025 02:41:33.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
+[30Jun2025 02:42:53.573] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[30Jun2025 02:42:53.620] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[30Jun2025 02:43:00.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell off some vines
+[30Jun2025 02:43:00.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[30Jun2025 02:43:12.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[30Jun2025 02:44:17.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=16, z=-181} BlockPos{x=164, y=13, z=-178}
+[30Jun2025 02:46:18.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[30Jun2025 02:48:08.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=16, z=-197} BlockPos{x=210, y=15, z=-198}
+[30Jun2025 02:48:08.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=16, z=-197} BlockPos{x=210, y=15, z=-198}
+[30Jun2025 02:48:08.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=16, z=-197} BlockPos{x=210, y=15, z=-198}
+[30Jun2025 02:48:08.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=16, z=-197} BlockPos{x=210, y=15, z=-198}
+[30Jun2025 02:48:08.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=16, z=-197} BlockPos{x=210, y=15, z=-198}
+[30Jun2025 02:48:09.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=18, z=-198} BlockPos{x=209, y=14, z=-196}
+[30Jun2025 02:48:09.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=18, z=-198} BlockPos{x=209, y=14, z=-196}
+[30Jun2025 02:48:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Voluntary Exile]
+[30Jun2025 02:49:21.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=20, z=-145} BlockPos{x=209, y=17, z=-151}
+[30Jun2025 02:49:21.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=20, z=-145} BlockPos{x=209, y=17, z=-151}
+[30Jun2025 02:49:21.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=20, z=-145} BlockPos{x=209, y=17, z=-151}
+[30Jun2025 02:49:56.997] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[30Jun2025 02:49:56.999] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[30Jun2025 02:50:07.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
+[30Jun2025 02:50:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[30Jun2025 02:51:03.293] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[30Jun2025 02:51:03.296] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[30Jun2025 02:51:45.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[30Jun2025 02:51:47.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[30Jun2025 02:51:47.396] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
