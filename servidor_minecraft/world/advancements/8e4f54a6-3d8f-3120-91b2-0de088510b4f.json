@@ -5742,5 +5742,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "boots": "2025-06-30 22:46:30 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

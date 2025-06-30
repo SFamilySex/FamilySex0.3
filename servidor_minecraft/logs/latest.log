@@ -489,3 +489,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Jun2025 22:38:29.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD moved too quickly! -9.772486153122088,0.20999999999999375,10.854370216226698
 [30Jun2025 22:39:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the weather to clear]
 [30Jun2025 22:39:16.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
+[30Jun2025 22:51:22.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[30Jun2025 22:51:22.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[30Jun2025 22:51:22.497] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2025 22:52:06.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49193] logged in with entity id 4980 at (-249.45051206625317, 66.875, 1162.4589315915132)
+[30Jun2025 22:52:06.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[30Jun2025 22:52:15.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> me saco alv
+[30Jun2025 22:52:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
+[30Jun2025 22:55:48.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
