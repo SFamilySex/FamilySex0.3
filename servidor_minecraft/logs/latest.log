@@ -495,3 +495,26 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Jun2025 02:27:25.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=20, z=-190} BlockPos{x=212, y=20, z=-190}
 [30Jun2025 02:27:45.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=-198} BlockPos{x=203, y=10, z=-197}
 [30Jun2025 02:27:46.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=13, z=-197} BlockPos{x=203, y=11, z=-199}
+[30Jun2025 02:34:56.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=13, z=-230} BlockPos{x=163, y=12, z=-231}
+[30Jun2025 02:35:08.598] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[30Jun2025 02:35:08.614] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[30Jun2025 02:35:15.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Witch using magic
+[30Jun2025 02:36:56.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[30Jun2025 02:36:56.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[30Jun2025 02:37:04.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=188, y=12, z=-215} BlockPos{x=188, y=13, z=-215}
+[30Jun2025 02:37:05.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=12, z=-217} BlockPos{x=190, y=12, z=-218}
+[30Jun2025 02:37:05.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=12, z=-217} BlockPos{x=190, y=12, z=-218}
+[30Jun2025 02:37:05.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=12, z=-217} BlockPos{x=190, y=12, z=-218}
+[30Jun2025 02:37:09.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=187, y=15, z=-214} BlockPos{x=187, y=14, z=-214}
+[30Jun2025 02:37:56.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=13, z=-202} BlockPos{x=180, y=12, z=-201}
+[30Jun2025 02:38:08.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=189, y=12, z=-169} BlockPos{x=189, y=14, z=-168}
+[30Jun2025 02:38:08.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=189, y=12, z=-169} BlockPos{x=189, y=14, z=-168}
+[30Jun2025 02:41:12.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:50783] logged in with entity id 29857 at (-257.3083938854657, 71.0, 1165.1781021300815)
+[30Jun2025 02:41:12.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[30Jun2025 02:41:33.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
+[30Jun2025 02:41:33.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
+[30Jun2025 02:41:33.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
+[30Jun2025 02:41:33.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
+[30Jun2025 02:41:33.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
+[30Jun2025 02:41:33.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
+[30Jun2025 02:41:33.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=14, z=-169} BlockPos{x=155, y=14, z=-169}
