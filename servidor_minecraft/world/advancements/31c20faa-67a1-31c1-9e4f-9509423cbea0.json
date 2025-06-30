@@ -5932,5 +5932,17 @@
     },
     "done": true
   },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-06-30 03:09:25 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-06-30 03:09:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

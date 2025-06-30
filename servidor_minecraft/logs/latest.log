@@ -545,3 +545,45 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Jun2025 02:51:45.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [30Jun2025 02:51:47.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
 [30Jun2025 02:51:47.396] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[30Jun2025 02:52:04.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[30Jun2025 02:52:06.276] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[30Jun2025 02:52:06.322] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[30Jun2025 02:52:21.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[30Jun2025 02:53:25.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=159, y=18, z=-78} BlockPos{x=160, y=18, z=-78}
+[30Jun2025 03:05:03.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:64664] logged in with entity id 49772 at (5311.188346891482, 95.5625, 208.51464765652)
+[30Jun2025 03:05:03.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[30Jun2025 03:05:15.462] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[30Jun2025 03:05:15.467] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[30Jun2025 03:05:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[30Jun2025 03:05:32.485] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[30Jun2025 03:05:32.487] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[30Jun2025 03:06:06.036] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[30Jun2025 03:06:06.041] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[30Jun2025 03:06:32.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Misterchuwa
+[30Jun2025 03:06:41.647] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[30Jun2025 03:06:41.684] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[30Jun2025 03:07:23.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[30Jun2025 03:07:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh fell off some vines
+[30Jun2025 03:08:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -291.500000, 57.500000, 1168.500000]
+[30Jun2025 03:08:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Hostile Paradise]
+[30Jun2025 03:09:25.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Hostile Paradise]
+[30Jun2025 03:09:51.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of HEISENBERGXD) moved too quickly! -0.02411500069496242,-320.32085315271524,-0.015583750449195577
+[30Jun2025 03:09:51.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of HEISENBERGXD) moved too quickly! -0.04605965195986528,-320.57085315271524,-0.029764963766638175
+[30Jun2025 03:09:51.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of HEISENBERGXD) moved too quickly! -0.06605965195984709,-320.82085315271524,-0.042639963766532674
+[30Jun2025 03:09:51.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to elpepe]
+[30Jun2025 03:09:54.739] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[30Jun2025 03:09:54.750] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[30Jun2025 03:10:05.136] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[30Jun2025 03:10:05.139] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[30Jun2025 03:10:06.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by HEISENBERGXD
+[30Jun2025 03:10:06.740] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[30Jun2025 03:10:13.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Misterchuwa
+[30Jun2025 03:10:13.183] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[30Jun2025 03:10:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Hostile Paradise]
+[30Jun2025 03:10:49.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[30Jun2025 03:10:49.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[30Jun2025 03:11:00.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Hostile Paradise]
+[30Jun2025 03:11:46.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Misterchuwa) moved too quickly! -0.288389792840519,-320.32487227664024,-0.05397402558151043
+[30Jun2025 03:11:46.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Misterchuwa) moved too quickly! -0.5972997210815834,-320.57487227664024,-0.07444243783015736
+[30Jun2025 03:11:51.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:51201] logged in with entity id 53789 at (-267.0, 70.0, 1152.5)
+[30Jun2025 03:11:51.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
