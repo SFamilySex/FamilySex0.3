@@ -5706,15 +5706,21 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-29 03:48:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_sword_repairing": {
     "criteria": {
       "has_netherite_sword": "2025-06-29 03:58:30 +0000"
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "netherite_armor": "2025-06-29 03:48:04 +0000"
+      "has_enchanted_golden_apple": "2025-06-29 04:06:28 +0000"
     },
     "done": true
   },
@@ -5733,12 +5739,6 @@
   "aether:regen_stone": {
     "criteria": {
       "regen_stone": "2025-06-29 04:38:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-29 04:06:28 +0000"
     },
     "done": true
   },

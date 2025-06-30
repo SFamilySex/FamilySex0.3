@@ -6470,6 +6470,12 @@
     },
     "done": true
   },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-06-30 04:11:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/golden_aercloud_enchanting": {
     "criteria": {
       "has_cold_aercloud": "2025-06-30 03:14:02 +0000"
