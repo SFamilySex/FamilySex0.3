@@ -523,3 +523,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Jun2025 23:38:01.800] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
 [30Jun2025 23:38:01.802] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
 [30Jun2025 23:38:14.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to Misterchuwa]
+[30Jun2025 23:41:19.449] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[30Jun2025 23:41:19.453] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[30Jun2025 23:43:20.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[30Jun2025 23:43:20.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
