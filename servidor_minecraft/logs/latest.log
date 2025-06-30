@@ -484,3 +484,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Jun2025 01:43:38.786] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHummingbird['Hummingbird'/1335, l='ServerLevel[world]', x=-2354.23, y=84.71, z=1793.77]
 [30Jun2025 01:59:53.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
 [30Jun2025 01:59:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[30Jun2025 02:06:16.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:54025] logged in with entity id 7971 at (261.62752502024597, 5.0, -131.66903389855395)
+[30Jun2025 02:06:16.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
