@@ -5792,15 +5792,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-01 00:44:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-01 00:25:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-07-01 00:27:09 +0000"
     },
     "done": true
   },
@@ -5810,9 +5810,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_bookshelf": "2025-07-01 00:27:09 +0000"
+      "voluntary_exile": "2025-07-01 00:44:58 +0000"
     },
     "done": true
   },
