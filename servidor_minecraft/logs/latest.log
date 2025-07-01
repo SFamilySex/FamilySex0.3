@@ -496,3 +496,22 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [01Jul2025 00:24:44.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
 [01Jul2025 00:26:31.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
 [01Jul2025 00:27:35.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
+[01Jul2025 00:34:45.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[01Jul2025 00:34:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[01Jul2025 00:34:45.624] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 00:37:08.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Freedom Intensifies]
+[01Jul2025 00:37:21.273] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6b1e0006[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50140): Took too long to log in
+[01Jul2025 00:37:21.274] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b1e0006[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50140) lost connection: Took too long to log in
+[01Jul2025 00:37:21.318] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 00:39:46.366] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4e2a8d93[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50146): Took too long to log in
+[01Jul2025 00:39:46.367] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e2a8d93[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50146) lost connection: Took too long to log in
+[01Jul2025 00:39:46.415] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 00:40:02.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50151] logged in with entity id 5882 at (-264.11180229964623, 64.5, 1161.6958636085353)
+[01Jul2025 00:40:02.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 00:41:50.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
+[01Jul2025 00:41:57.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
+[01Jul2025 00:41:57.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
+[01Jul2025 00:41:58.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
+[01Jul2025 00:41:58.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
+[01Jul2025 00:41:58.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
+[01Jul2025 00:41:58.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
