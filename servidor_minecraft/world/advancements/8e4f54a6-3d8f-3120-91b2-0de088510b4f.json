@@ -5848,6 +5848,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-07-01 04:06:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_sword_repairing": {
     "criteria": {
       "has_zanite_sword": "2025-07-01 03:40:30 +0000"
@@ -5931,6 +5937,12 @@
   "aether:valkyrie_loot": {
     "criteria": {
       "valkyrie_chestplate": "2025-07-01 03:53:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dreadbow": {
+    "criteria": {
+      "dreadbow": "2025-07-01 04:00:23 +0000"
     },
     "done": true
   },
