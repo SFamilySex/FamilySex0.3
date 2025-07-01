@@ -593,3 +593,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [01Jul2025 21:38:56.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
 [01Jul2025 21:38:56.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
 [01Jul2025 21:51:36.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Ant Farm]
+[01Jul2025 22:10:59.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49838] logged in with entity id 27435 at (-257.59469946361696, 65.0, 1165.1466984996223)
+[01Jul2025 22:10:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 22:18:28.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [The Parrots and the Bats]
