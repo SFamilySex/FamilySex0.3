@@ -5743,18 +5743,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-06-30 23:35:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "interact_vallumraptor": "2025-06-30 23:25:33 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
       "boots": "2025-06-30 22:46:30 +0000"
@@ -5767,9 +5755,51 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "interact_vallumraptor": "2025-06-30 23:25:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-30 23:35:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2025-07-01 00:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-01 00:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-01 00:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-01 00:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-01 00:25:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-07-01 00:27:09 +0000"
     },
     "done": true
   },

@@ -1,23 +1,23 @@
-[30Jun2025 22:29:14.208] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[30Jun2025 22:29:14.213] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[30Jun2025 22:29:18.482] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[30Jun2025 22:29:18.607] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/FamilySex0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[30Jun2025 22:29:19.129] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jun2025 22:29:19.131] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jun2025 22:29:19.171] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jun2025 22:29:19.173] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jun2025 22:29:19.753] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[30Jun2025 22:29:19.756] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/FamilySex0.3/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
-[30Jun2025 22:29:19.757] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[30Jun2025 22:29:23.640] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[30Jun2025 22:29:23.860] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[30Jun2025 22:29:23.862] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[30Jun2025 22:29:24.171] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Jun2025 22:29:25.373] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
-[30Jun2025 22:29:26.439] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[30Jun2025 22:29:26.439] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[30Jun2025 22:29:26.835] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[30Jun2025 22:29:27.493] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[01Jul2025 00:21:58.673] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[01Jul2025 00:21:58.679] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[01Jul2025 00:22:00.309] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01Jul2025 00:22:00.376] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/FamilySex0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[01Jul2025 00:22:00.833] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jul2025 00:22:00.834] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jul2025 00:22:00.837] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jul2025 00:22:00.838] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jul2025 00:22:01.284] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[01Jul2025 00:22:01.285] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/FamilySex0.3/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[01Jul2025 00:22:01.286] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[01Jul2025 00:22:04.459] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Jul2025 00:22:04.631] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[01Jul2025 00:22:04.633] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01Jul2025 00:22:04.873] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Jul2025 00:22:05.731] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
+[01Jul2025 00:22:06.838] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[01Jul2025 00:22:06.838] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[01Jul2025 00:22:07.154] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[01Jul2025 00:22:07.564] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
@@ -47,488 +47,452 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[30Jun2025 22:29:35.964] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[01Jul2025 00:22:15.646] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[30Jun2025 22:29:36.696] [modloading-worker-0/INFO] [Easy NPC/]: Initializing Easy NPC (Forge) ...
-[30Jun2025 22:29:36.702] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Debug Manager ...
-[30Jun2025 22:29:36.707] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Detected debug log level for Easy NPC with ALL!
-[30Jun2025 22:29:36.708] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Adjusting log level for Easy NPC from ALL to INFO, for performance reasons!
-[30Jun2025 22:29:36.709] [modloading-worker-0/INFO] [Easy NPC/]: [Debug Manager] Add new logger config for Easy NPC with level INFO ...
-[30Jun2025 22:29:36.710] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Constants ...
-[30Jun2025 22:29:36.715] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Configuration ...
-[30Jun2025 22:29:36.723] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Updated configuration path to /workspaces/FamilySex0.3/servidor_minecraft/config/easy_npc
-[30Jun2025 22:29:36.723] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering common configuration ...
-[30Jun2025 22:29:36.729] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Render Entity Type Support Configuration
+[01Jul2025 00:22:16.267] [modloading-worker-0/INFO] [Easy NPC/]: Initializing Easy NPC (Forge) ...
+[01Jul2025 00:22:16.270] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Debug Manager ...
+[01Jul2025 00:22:16.274] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Detected debug log level for Easy NPC with ALL!
+[01Jul2025 00:22:16.274] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Adjusting log level for Easy NPC from ALL to INFO, for performance reasons!
+[01Jul2025 00:22:16.275] [modloading-worker-0/INFO] [Easy NPC/]: [Debug Manager] Add new logger config for Easy NPC with level INFO ...
+[01Jul2025 00:22:16.277] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Constants ...
+[01Jul2025 00:22:16.279] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Configuration ...
+[01Jul2025 00:22:16.282] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Updated configuration path to /workspaces/FamilySex0.3/servidor_minecraft/config/easy_npc
+[01Jul2025 00:22:16.282] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering common configuration ...
+[01Jul2025 00:22:16.302] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Render Entity Type Support Configuration
 
  Please note that this configuration file only includes confirmed entity types.
  If an entity type is not listed here, it doesn't mean it's automatically supported or unsupported!
  is up to date: {minecraft:giant=true, dannys_expansion:mundane_slime=false, botania:pool_minecart=false, botania:ender_air=false, minecraft:end_crystal=false, simple_mobs:rumble=false, minecraft:experience_bottle=false, minecraft:glow_squid=true, minecraft:trader_llama=true, orcz:decaystrikecustom=false, simple_mobs:staff_usage=false, minecraft:horse=true, the_bumblezone:purple_spike_entity=false, minecraft:llama=true, minecraft:husk=true, minecraft:cave_spider=true, minecraft:enderman=true, minecraft:dolphin=true, frostiful:freezing_wind=false, minecraft:shulker_bullet=false, simple_mobs:projecttest=false, minecraft:donkey=true, minecraft:area_effect_cloud=false, minecraft:ghast=false, frostiful:packed_snowball=false, twigs:pebble=false, handcrafted:fancy_painting=false, moretotems:summoned_zombie=false, minecraft:piglin_brute=true, minecraft:creeper=true, minecraft:glow_item_frame=false, minecraft:bee=true, botania:mana_storm=false, minecraft:illusioner=true, minecraft:player=false, minecraft:wither_skull=false, minecraft:mooshroom=true, smallships:galley=false, create:stationary_contraption=false, minecraft:eye_of_ender=false, minecraft:villager=true, ad_astra:tier_1_rocket=false, botania:magic_landmine=false, minecraft:stray=true, smallships:cog=false, minecraft:falling_block=false, minecraft:drowned=true, minecraft:axolotl=true, botania:doppleganger=false, botania:flame_ring=false, botania:ender_air_bottle=false, minecraft:tnt=false, ae2:tiny_tnt_primed=false, botania:magic_missile=false, create:crafting_blueprint=false, create:contraption=false, minecraft:strider=true, smallships:brigg=false, minecraft:guardian=true, minecraft:parrot=true, minecraft:arrow=false, lootr:lootr_minecart=false, the_bumblezone:pollen_puff=false, minecraft:chest_minecart=false, minecraft:wither=true, minecraft:ender_pearl=false, create:super_glue=false, minecraft:wandering_trader=true, handcrafted:seat=false, simple_mobs:dragon_smoke=false, minecraft:wither_skeleton=true, botania:thorn_chakram=false, minecraft:iron_golem=true, botania:pixie=false, dummmmmmy:target_dummy=false, minecraft:elder_guardian=true, graveyard:skull=false, minecraft:mule=true, the_bumblezone:bee_stinger=false, the_bumblezone:thrown_stinger_spear=false, minecraft:armor_stand=false, aquamirae:pillagers_patrol=false, minecraft:vindicator=true, botania:mana_burst=false, minecraft:evoker=true, minecraft:slime=false, minecraft:leash_knot=false, botania:babylon_weapon=false, minecraft:pufferfish=true, terraform:boat=false, swampier_swamps:swamp_gas=false, minecraft:experience_orb=false, ad_astra:tier_3_rocket=false, minecraft:fox=true, botania:thrown_item=false, the_bumblezone:cosmic_crystal_entity=false, graveyard:ghouling=false, botania:player_mover=false, minecraft:silverfish=true, minecraft:endermite=true, minecraft:firework_rocket=false, minecraft:chicken=true, minecraft:zombie=true, the_bumblezone:sentry_watcher=false, minecraft:spawner_minecart=false, botania:spark=false, botania:falling_star=false, minecraft:hoglin=true, minecraft:boat=false, minecraft:trident=false, friendsandfoes:player_illusion=false, minecraft:polar_bear=true, minecraft:phantom=false, ad_astra:tier_4_rocket=false, minecraft:zombified_piglin=true, minecraft:witch=true, ad_astra:tier_2_rocket=false, minecraft:pig=true, minecraft:turtle=true, moretotems:summoned_bee=false, minecraft:sheep=true, minecraft:ender_dragon=false, minecraft:goat=true, minecraft:item_frame=false, create:carriage_contraption=false, minecraft:vex=true, minecraft:minecart=false, minecraft:item=false, minecraft:dragon_fireball=false, minecraft:cod=true, minecraft:skeleton=true, ad_astra:space_painting=false, create:seat=false, simple_mobs:staff_interact=false, minecraft:ravager=true, minecraft:squid=true, minecraft:skeleton_horse=true, minecraft:cow=true, minecraft:potion=false, ad_astra:lander=false, minecraft:salmon=true, minecraft:snow_golem=true, minecraft:shulker=true, friendsandfoes:ice_chunk=false, minecraft:hopper_minecart=false, the_bumblezone:honey_crystal_shard=false, simple_mobs:lightning_spear=false, minecraft:rabbit=true, minecraft:painting=false, minecraft:pillager=true, the_bumblezone:electric_ring_entity=false, minecraft:zoglin=true, minecraft:lightning_bolt=false, frostiful:frost_spell=false, minecraft:fishing_bobber=false, minecraft:tnt_minecart=false, simple_mobs:ground_spike=false, minecraft:command_block_minecart=false, minecraft:bat=false, the_bumblezone:dirt_pellet=false, minecraft:fireball=false, minecraft:llama_spit=false, minecraft:furnace_minecart=false, minecraft:evoker_fangs=false, minecraft:piglin=true, minecraft:snowball=false, minecraft:spectral_arrow=false, orcz:wither_strikeringcustom=false, simple_mobs:elemental_chain=false, minecraft:blaze=true, ad_astra:ice_spit=false, techreborn:nuke=false, minecraft:egg=false, minecraft:zombie_horse=true, minecraft:magma_cube=false, minecraft:small_fireball=false, frostiful:thrown_icicle=false, minecraft:spider=true, ad_astra:tier_1_rover=false, minecraft:marker=false, majruszsdifficulty:cursed_armor=false, minecraft:text_display=false, farmersdelight:rotten_tomato=false, minecraft:cat=true, armourers_workshop:mannequin=false, create:gantry_contraption=false, minecraft:tropical_fish=true, botania:corporea_spark=false, minecraft:ocelot=true, minecraft:wolf=true, minecraft:panda=true, minecraft:zombie_villager=true}
-[30Jun2025 22:29:36.733] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering server configuration ...
-[30Jun2025 22:29:36.734] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Common Data Files ...
-[30Jun2025 22:29:36.737] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Common data folders ...
-[30Jun2025 22:29:36.737] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Data Serializers ...
-[30Jun2025 22:29:36.937] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ActionEventSet with id 28
-[30Jun2025 22:29:36.940] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomAttributes with id 29
-[30Jun2025 22:29:36.940] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DialogDataSet with id 30
-[30Jun2025 22:29:36.940] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DisplayAttributeSet with id 31
-[30Jun2025 22:29:36.941] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer EntityAttributes with id 32
-[30Jun2025 22:29:36.941] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer MerchantOffers with id 33
-[30Jun2025 22:29:36.944] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ModelPose with id 34
-[30Jun2025 22:29:36.944] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ObjectiveDataSet with id 35
-[30Jun2025 22:29:36.945] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomPosition with id 36
-[30Jun2025 22:29:36.945] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer Profession with id 37
-[30Jun2025 22:29:36.945] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer RenderDataSet with id 38
-[30Jun2025 22:29:36.945] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomRotation with id 39
-[30Jun2025 22:29:36.945] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomScale with id 40
-[30Jun2025 22:29:36.945] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SkinDataEntry with id 41
-[30Jun2025 22:29:36.946] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SoundDataSet with id 42
-[30Jun2025 22:29:36.946] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:UUID with id 43
-[30Jun2025 22:29:36.946] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:String with id 44
-[30Jun2025 22:29:36.948] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer TradingDataSet with id 45
-[30Jun2025 22:29:36.948] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer UUID with id 46
-[30Jun2025 22:29:36.948] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compatibility Handler ...
-[30Jun2025 22:29:36.950] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compat Handler ...
-[30Jun2025 22:29:36.954] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Epic Fight mod with id 'epicfight' loaded: false
-[30Jun2025 22:29:36.954] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Cobblemon mod with id 'cobblemon' loaded: false
-[30Jun2025 22:29:36.956] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Command Argument Types ...
-[30Jun2025 22:29:36.960] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Types ...
-[30Jun2025 22:29:36.978] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks ...
-[30Jun2025 22:29:36.985] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks Entity Types ...
-[30Jun2025 22:29:36.987] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Items ...
-[30Jun2025 22:29:37.009] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Types ...
-[30Jun2025 22:29:37.044] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Handler ...
-[30Jun2025 22:29:37.059] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
-[30Jun2025 22:29:37.069] [modloading-worker-0/INFO] [Easy NPC/]: Registering server network handler for Server -> Client messages.
-[30Jun2025 22:29:37.070] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Client Network Message Handler ...
-[30Jun2025 22:29:38.221] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[30Jun2025 22:29:38.221] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[30Jun2025 22:29:39.152] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[30Jun2025 22:29:39.436] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[30Jun2025 22:29:39.467] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[30Jun2025 22:29:39.468] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[30Jun2025 22:29:39.469] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[30Jun2025 22:29:39.469] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[30Jun2025 22:29:39.472] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[30Jun2025 22:29:39.474] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[30Jun2025 22:29:39.475] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[30Jun2025 22:29:39.475] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[30Jun2025 22:29:39.476] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[30Jun2025 22:29:39.477] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[30Jun2025 22:29:39.480] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[30Jun2025 22:29:39.477] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[30Jun2025 22:29:39.481] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[30Jun2025 22:29:46.155] [main/INFO] [Easy NPC/]: - Registering Synched Attack Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.155] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
-[30Jun2025 22:29:46.155] [main/INFO] [Easy NPC/]: - Registering Synched Attribute Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[30Jun2025 22:29:46.156] [main/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
-[30Jun2025 22:29:46.156] [main/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
-[30Jun2025 22:29:46.157] [main/INFO] [Easy NPC/]: - Registering Synched Navigation Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
-[30Jun2025 22:29:46.157] [main/INFO] [Easy NPC/]: - Registering Synched Owner Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
-[30Jun2025 22:29:46.157] [main/INFO] [Easy NPC/]: - Registering Synched Profession Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
-[30Jun2025 22:29:46.158] [main/INFO] [Easy NPC/]: - Registering Synched Render Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.158] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
-[30Jun2025 22:29:46.158] [main/INFO] [Easy NPC/]: - Registering Synched Skin Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.158] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
-[30Jun2025 22:29:46.158] [main/INFO] [Easy NPC/]: - Registering Synched Sound Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.159] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
-[30Jun2025 22:29:46.159] [main/INFO] [Easy NPC/]: - Registering Synched Trading Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.159] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:29:46.159] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:29:46.159] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:29:46.159] [main/INFO] [Easy NPC/]: - Registering Synched Variant Data for EasyNPCBaseEntity.
-[30Jun2025 22:29:46.160] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
-[30Jun2025 22:29:46.160] [main/INFO] [Easy NPC/]: - Registering Synched Model Data for EasyNPCBaseModelEntity.
-[30Jun2025 22:29:46.160] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.160] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.161] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.161] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.161] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.161] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.161] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.162] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.162] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.162] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[30Jun2025 22:29:46.162] [main/INFO] [Easy NPC/]: - Registering Synched Model Position Data for EasyNPCBaseModelEntity.
-[30Jun2025 22:29:46.162] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[30Jun2025 22:29:46.163] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[30Jun2025 22:29:46.163] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[30Jun2025 22:29:46.163] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[30Jun2025 22:29:46.163] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[30Jun2025 22:29:46.163] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[30Jun2025 22:29:46.164] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[30Jun2025 22:29:46.164] [main/INFO] [Easy NPC/]: - Registering Synched Model Rotation Data for EasyNPCBaseModelEntity.
-[30Jun2025 22:29:46.164] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[30Jun2025 22:29:46.164] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[30Jun2025 22:29:46.165] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[30Jun2025 22:29:46.165] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[30Jun2025 22:29:46.165] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[30Jun2025 22:29:46.165] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[30Jun2025 22:29:46.165] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[30Jun2025 22:29:46.166] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[30Jun2025 22:29:46.166] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[30Jun2025 22:29:46.166] [main/INFO] [Easy NPC/]: - Registering Synched Model Visibility Data for EasyNPCBaseModelEntity.
-[30Jun2025 22:29:46.166] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.166] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.167] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.167] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.167] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.167] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.168] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.168] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.168] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.168] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.168] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[30Jun2025 22:29:46.169] [main/INFO] [Easy NPC/]: - Registering Synched Scale Data for EasyNPCBaseModelEntity.
-[30Jun2025 22:29:46.169] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
-[30Jun2025 22:29:46.169] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
-[30Jun2025 22:29:46.169] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
-[30Jun2025 22:29:46.299] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[30Jun2025 22:29:47.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[30Jun2025 22:29:47.123] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler for net.minecraftforge.network.simple.SimpleChannel@5d10edaf with version 23
-[30Jun2025 22:29:47.124] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
-[30Jun2025 22:29:47.125] [main/INFO] [Easy NPC/]: Registering network messages for BOTH side ...
-[30Jun2025 22:29:47.126] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message ExportClientPresetMessage with easy_npc:preset_export_client (0)
-[30Jun2025 22:29:47.127] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message OpenMenuCallbackMessage with easy_npc:open_menu_callback_message (1)
-[30Jun2025 22:29:47.128] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message SyncDataMessage with easy_npc:sync_data (2)
-[30Jun2025 22:29:47.129] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message AddOrUpdateObjectiveMessage with easy_npc:add_objective (3)
-[30Jun2025 22:29:47.130] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeActionEventMessage with easy_npc:change_action_event (4)
-[30Jun2025 22:29:47.132] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeAdvancedTradingMessage with easy_npc:change_advanced_trading (5)
-[30Jun2025 22:29:47.133] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeBasicTradingMessage with easy_npc:change_basic_trading (6)
-[30Jun2025 22:29:47.135] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeCombatAttributeMessage with easy_npc:change_combat_attribute (7)
-[30Jun2025 22:29:47.137] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeDisplayAttributeMessage with easy_npc:change_display_attribute (8)
-[30Jun2025 22:29:47.139] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityAttributeMessage with easy_npc:change_entity_attribute (9)
-[30Jun2025 22:29:47.140] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityBaseAttributeMessage with easy_npc:change_entity_base_attribute (10)
-[30Jun2025 22:29:47.141] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEnvironmentalAttributeMessage with easy_npc:change_environmental_attribute (11)
-[30Jun2025 22:29:47.142] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeInteractionAttributeMessage with easy_npc:change_interaction_attribute (12)
-[30Jun2025 22:29:47.143] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelEquipmentVisibilityMessage with easy_npc:change_model_equipment_visibility (13)
-[30Jun2025 22:29:47.144] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelLockRotationMessage with easy_npc:change_model_lock_rotation (14)
-[30Jun2025 22:29:47.145] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPoseMessage with easy_npc:change_model_pose (15)
-[30Jun2025 22:29:47.151] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPositionMessage with easy_npc:change_model_position (16)
-[30Jun2025 22:29:47.152] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelRotationMessage with easy_npc:change_model_rotation (17)
-[30Jun2025 22:29:47.157] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelVisibilityMessage with easy_npc:change_model_visibility (18)
-[30Jun2025 22:29:47.159] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeMovementAttributeMessage with easy_npc:change_movement_attribute (19)
-[30Jun2025 22:29:47.160] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeNameMessage with easy_npc:change_name (20)
-[30Jun2025 22:29:47.161] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePoseMessage with easy_npc:change_pose (21)
-[30Jun2025 22:29:47.162] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePositionMessage with easy_npc:change_position (22)
-[30Jun2025 22:29:47.163] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeProfessionMessage with easy_npc:change_profession (23)
-[30Jun2025 22:29:47.165] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeRendererMessage with easy_npc:change_renderer (24)
-[30Jun2025 22:29:47.166] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeScaleMessage with easy_npc:change_scale (25)
-[30Jun2025 22:29:47.167] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSkinMessage with easy_npc:change_skin (26)
-[30Jun2025 22:29:47.169] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSpawnerSettingMessage with easy_npc:change_spawner_settings (27)
-[30Jun2025 22:29:47.173] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeTradingTypeMessage with easy_npc:change_trading_type (28)
-[30Jun2025 22:29:47.174] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteActionEventMessage with easy_npc:trigger_action_event (29)
-[30Jun2025 22:29:47.175] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteDialogButtonActionMessage with easy_npc:dialog_button_action (30)
-[30Jun2025 22:29:47.179] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportPresetMessage with easy_npc:export_preset (31)
-[30Jun2025 22:29:47.183] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportWorldPresetMessage with easy_npc:export_world_preset (32)
-[30Jun2025 22:29:47.185] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ImportPresetMessage with easy_npc:import_preset (33)
-[30Jun2025 22:29:47.186] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEditorMessage with easy_npc:open_action_data_editor (34)
-[30Jun2025 22:29:47.189] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEntryEditorMessage with easy_npc:open_action_data_entry_editor (35)
-[30Jun2025 22:29:47.190] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenConfigurationMessage with easy_npc:open_configuration_screen (36)
-[30Jun2025 22:29:47.195] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogButtonEditorMessage with easy_npc:open_dialog_button_editor (37)
-[30Jun2025 22:29:47.196] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogEditorMessage with easy_npc:open_dialog_editor (38)
-[30Jun2025 22:29:47.200] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenMenuMessage with easy_npc:open_menu_message (39)
-[30Jun2025 22:29:47.201] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogTextEditorMessage with easy_npc:open_dialog_text_editor (40)
-[30Jun2025 22:29:47.202] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogButtonMessage with easy_npc:remove_dialog_button (41)
-[30Jun2025 22:29:47.204] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogMessage with easy_npc:remove_dialog (42)
-[30Jun2025 22:29:47.208] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveNPCMessage with easy_npc:remove_npc (43)
-[30Jun2025 22:29:47.208] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveObjectiveMessage with easy_npc:remove_objective (44)
-[30Jun2025 22:29:47.209] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RequestDataSyncMessage with easy_npc:request_data_sync (45)
-[30Jun2025 22:29:47.214] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RespawnNPCMessage with easy_npc:respawn_npc (46)
-[30Jun2025 22:29:47.217] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogButtonMessage with easy_npc:save_dialog_button (47)
-[30Jun2025 22:29:47.220] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogMessage with easy_npc:save_dialog (48)
-[30Jun2025 22:29:47.221] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogSetMessage with easy_npc:save_dialog_set (49)
-[30Jun2025 22:29:47.334] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[30Jun2025 22:29:47.335] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[30Jun2025 22:29:47.335] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[30Jun2025 22:29:47.335] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[30Jun2025 22:29:47.335] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[30Jun2025 22:29:47.335] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[30Jun2025 22:29:47.336] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[30Jun2025 22:29:47.336] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[30Jun2025 22:29:47.337] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[30Jun2025 22:29:47.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
-[30Jun2025 22:29:47.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[30Jun2025 22:29:47.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[30Jun2025 22:29:47.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[30Jun2025 22:29:47.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[30Jun2025 22:29:47.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Jun2025 22:29:47.457] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[30Jun2025 22:29:47.458] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[30Jun2025 22:29:47.462] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[30Jun2025 22:29:47.462] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[30Jun2025 22:29:47.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[30Jun2025 22:29:47.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[30Jun2025 22:29:47.568] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[30Jun2025 22:29:47.580] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[30Jun2025 22:29:47.594] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[30Jun2025 22:29:47.595] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[30Jun2025 22:29:47.597] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
-[30Jun2025 22:29:47.600] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[30Jun2025 22:29:47.648] [main/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[30Jun2025 22:29:48.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[30Jun2025 22:29:48.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[30Jun2025 22:29:48.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[30Jun2025 22:29:48.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[30Jun2025 22:29:48.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.0
-[30Jun2025 22:29:48.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[30Jun2025 22:29:48.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
-[30Jun2025 22:29:48.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[30Jun2025 22:29:48.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[30Jun2025 22:29:51.775] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Jun2025 22:29:54.677] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
-[30Jun2025 22:29:54.677] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
-[30Jun2025 22:30:06.464] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC /easy_npc commands for Easy NPC ...
-[30Jun2025 22:30:06.644] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[30Jun2025 22:30:08.717] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[30Jun2025 22:30:08.960] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 19 recipes
-[30Jun2025 22:30:09.230] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3301 advancements
-[30Jun2025 22:30:09.453] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Loading exposure lenses:
-[30Jun2025 22:30:09.454] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
-[30Jun2025 22:30:09.463] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 18 curio slots
-[30Jun2025 22:30:09.469] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
-[30Jun2025 22:30:12.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[30Jun2025 22:30:12.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Jun2025 22:30:12.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Jun2025 22:30:12.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Jun2025 22:30:12.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Jun2025 22:30:12.349] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[30Jun2025 22:30:12.510] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[30Jun2025 22:30:12.511] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[30Jun2025 22:30:12.511] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[30Jun2025 22:30:12.511] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[30Jun2025 22:30:12.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Jun2025 22:30:14.385] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Allay['entity.easy_npc.allay'/331, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.390] [Server thread/INFO] [Easy NPC/]: Register default handler for Allay['entity.easy_npc.allay'/331, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
-[30Jun2025 22:30:14.396] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Cat['entity.easy_npc.cat'/332, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.402] [Server thread/INFO] [Easy NPC/]: Register default handler for Cat['entity.easy_npc.cat'/332, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant BLACK ...
-[30Jun2025 22:30:14.404] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Chicken['entity.easy_npc.chicken'/333, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.406] [Server thread/INFO] [Easy NPC/]: Register default handler for Chicken['entity.easy_npc.chicken'/333, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WHITE ...
-[30Jun2025 22:30:14.407] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.drowned'/334, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.413] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.drowned'/334, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DROWNED ...
-[30Jun2025 22:30:14.414] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.evoker'/335, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.416] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.evoker'/335, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant EVOKER_CROSSED_ARMS ...
-[30Jun2025 22:30:14.420] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Fairy['entity.easy_npc.fairy'/336, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.422] [Server thread/INFO] [Easy NPC/]: Register default handler for Fairy['entity.easy_npc.fairy'/336, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant GREEN ...
-[30Jun2025 22:30:14.425] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.horse'/337, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.426] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.horse'/337, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WHITE ...
-[30Jun2025 22:30:14.427] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/338, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.431] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/338, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
-[30Jun2025 22:30:14.434] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/339, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.438] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/339, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
-[30Jun2025 22:30:14.439] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/340, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.441] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/340, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
-[30Jun2025 22:30:14.444] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.illusioner'/341, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.447] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.illusioner'/341, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ILLUSIONER_CROSSED_ARMS ...
-[30Jun2025 22:30:14.448] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for IronGolem['entity.easy_npc.iron_golem'/342, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.450] [Server thread/INFO] [Easy NPC/]: Register default handler for IronGolem['entity.easy_npc.iron_golem'/342, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant IRON_GOLEM ...
-[30Jun2025 22:30:14.451] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Orc['entity.easy_npc.orc'/343, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.453] [Server thread/INFO] [Easy NPC/]: Register default handler for Orc['entity.easy_npc.orc'/343, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
-[30Jun2025 22:30:14.455] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Orc['entity.easy_npc.orc_warrior'/344, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.456] [Server thread/INFO] [Easy NPC/]: Register default handler for Orc['entity.easy_npc.orc_warrior'/344, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WARRIOR ...
-[30Jun2025 22:30:14.459] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Pig['entity.easy_npc.pig'/345, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.460] [Server thread/INFO] [Easy NPC/]: Register default handler for Pig['entity.easy_npc.pig'/345, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
-[30Jun2025 22:30:14.461] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin'/346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.464] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin'/346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PIGLIN ...
-[30Jun2025 22:30:14.466] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin_brute'/347, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.469] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin_brute'/347, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PIGLIN_BRUTE ...
-[30Jun2025 22:30:14.477] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for PiglinRaw.
-[30Jun2025 22:30:14.480] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
-[30Jun2025 22:30:14.484] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for PiglinRaw.
-[30Jun2025 22:30:14.484] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[30Jun2025 22:30:14.486] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for PiglinRaw.
-[30Jun2025 22:30:14.486] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
-[30Jun2025 22:30:14.487] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for PiglinRaw.
-[30Jun2025 22:30:14.487] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
-[30Jun2025 22:30:14.488] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for PiglinRaw.
-[30Jun2025 22:30:14.489] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
-[30Jun2025 22:30:14.490] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for PiglinRaw.
-[30Jun2025 22:30:14.491] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
-[30Jun2025 22:30:14.495] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for PiglinRaw.
-[30Jun2025 22:30:14.496] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
-[30Jun2025 22:30:14.496] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for PiglinRaw.
-[30Jun2025 22:30:14.496] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
-[30Jun2025 22:30:14.496] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for PiglinRaw.
-[30Jun2025 22:30:14.497] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
-[30Jun2025 22:30:14.498] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for PiglinRaw.
-[30Jun2025 22:30:14.498] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
-[30Jun2025 22:30:14.499] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for PiglinRaw.
-[30Jun2025 22:30:14.500] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:30:14.505] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:30:14.505] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:30:14.506] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for PiglinRaw.
-[30Jun2025 22:30:14.506] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
-[30Jun2025 22:30:14.507] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for PiglinRaw['entity.easy_npc.piglin_raw'/348, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.645] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin_zombified'/349, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.646] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin_zombified'/349, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIFIED_PIGLIN ...
-[30Jun2025 22:30:14.646] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.pillager'/350, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.649] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.pillager'/350, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PILLAGER ...
-[30Jun2025 22:30:14.650] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/351, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.651] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/351, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
-[30Jun2025 22:30:14.652] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.skeleton_horse'/352, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.653] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.skeleton_horse'/352, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
-[30Jun2025 22:30:14.653] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for SkeletonRaw.
-[30Jun2025 22:30:14.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
-[30Jun2025 22:30:14.654] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for SkeletonRaw.
-[30Jun2025 22:30:14.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[30Jun2025 22:30:14.654] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for SkeletonRaw.
-[30Jun2025 22:30:14.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
-[30Jun2025 22:30:14.655] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for SkeletonRaw.
-[30Jun2025 22:30:14.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
-[30Jun2025 22:30:14.655] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for SkeletonRaw.
-[30Jun2025 22:30:14.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
-[30Jun2025 22:30:14.655] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for SkeletonRaw.
-[30Jun2025 22:30:14.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
-[30Jun2025 22:30:14.656] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for SkeletonRaw.
-[30Jun2025 22:30:14.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
-[30Jun2025 22:30:14.656] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for SkeletonRaw.
-[30Jun2025 22:30:14.662] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
-[30Jun2025 22:30:14.663] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for SkeletonRaw.
-[30Jun2025 22:30:14.663] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
-[30Jun2025 22:30:14.663] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for SkeletonRaw.
-[30Jun2025 22:30:14.663] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
-[30Jun2025 22:30:14.664] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for SkeletonRaw.
-[30Jun2025 22:30:14.664] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:30:14.664] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:30:14.665] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:30:14.665] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for SkeletonRaw.
-[30Jun2025 22:30:14.670] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
-[30Jun2025 22:30:14.674] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for SkeletonRaw['entity.easy_npc.skeleton_raw'/353, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.681] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.stray'/354, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.682] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.stray'/354, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STRAY ...
-[30Jun2025 22:30:14.684] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Villager['Default (None)'/355, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.684] [Server thread/INFO] [Easy NPC/]: Register default handler for Villager['Default (None)'/355, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
-[30Jun2025 22:30:14.685] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.vindicator'/356, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.685] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.vindicator'/356, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant VINDICATOR_CROSSED_ARMS ...
-[30Jun2025 22:30:14.686] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/357, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.690] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/357, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
-[30Jun2025 22:30:14.691] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Wolf['entity.easy_npc.wolf'/358, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.697] [Server thread/INFO] [Easy NPC/]: Register default handler for Wolf['entity.easy_npc.wolf'/358, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
-[30Jun2025 22:30:14.703] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.zombie'/359, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.704] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.zombie'/359, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIE ...
-[30Jun2025 22:30:14.704] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.zombie_horse'/360, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.708] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.zombie_horse'/360, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIE ...
-[30Jun2025 22:30:14.709] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for ZombieRaw.
-[30Jun2025 22:30:14.712] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
-[30Jun2025 22:30:14.713] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for ZombieRaw.
-[30Jun2025 22:30:14.713] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[30Jun2025 22:30:14.713] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for ZombieRaw.
-[30Jun2025 22:30:14.715] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
-[30Jun2025 22:30:14.718] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for ZombieRaw.
-[30Jun2025 22:30:14.718] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
-[30Jun2025 22:30:14.718] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for ZombieRaw.
-[30Jun2025 22:30:14.719] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
-[30Jun2025 22:30:14.720] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for ZombieRaw.
-[30Jun2025 22:30:14.720] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
-[30Jun2025 22:30:14.722] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for ZombieRaw.
-[30Jun2025 22:30:14.724] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
-[30Jun2025 22:30:14.725] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for ZombieRaw.
-[30Jun2025 22:30:14.725] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
-[30Jun2025 22:30:14.725] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for ZombieRaw.
-[30Jun2025 22:30:14.725] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
-[30Jun2025 22:30:14.725] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for ZombieRaw.
-[30Jun2025 22:30:14.725] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
-[30Jun2025 22:30:14.726] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for ZombieRaw.
-[30Jun2025 22:30:14.728] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:30:14.728] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:30:14.731] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[30Jun2025 22:30:14.731] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for ZombieRaw.
-[30Jun2025 22:30:14.732] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
-[30Jun2025 22:30:14.732] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for ZombieRaw['entity.easy_npc.zombie_raw'/361, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.743] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for ZombieVillager['Default (None)'/362, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
-[30Jun2025 22:30:14.743] [Server thread/INFO] [Easy NPC/]: Register default handler for ZombieVillager['Default (None)'/362, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
-[30Jun2025 22:30:18.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Jun2025 22:30:22.447] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:22.503] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:22.545] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:22.576] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:22.588] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:22.605] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:22.611] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:22.612] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:22.922] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:23.792] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:23.878] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:24.839] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:24.876] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:25.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:26.624] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:26.624] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:26.873] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 22:30:27.373] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[30Jun2025 22:30:27.878] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
-[30Jun2025 22:30:28.117] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9244 ms
-[30Jun2025 22:30:28.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.592s)! For help, type "help"
-[30Jun2025 22:30:28.263] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[30Jun2025 22:30:28.270] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Server is starting Events ...
-[30Jun2025 22:30:28.271] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Server data folders ...
-[30Jun2025 22:30:28.271] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Pose data folders ...
-[30Jun2025 22:30:28.272] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC custom pose data ...
-[30Jun2025 22:30:28.278] [Server thread/WARN] [Easy NPC/]: Skin model pose file /workspaces/FamilySex0.3/servidor_minecraft/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json already exists, skipping copy!
-[30Jun2025 22:30:28.287] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC custom poses from /workspaces/FamilySex0.3/servidor_minecraft/config/easy_npc/pose ...
-[30Jun2025 22:30:28.288] [Server thread/INFO] [Easy NPC/]: Found custom pose file /workspaces/FamilySex0.3/servidor_minecraft/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json ...
-[30Jun2025 22:30:28.299] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/crouching with Animation{name='Crouching', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -4.2, 0.0], rotation=[-7.5, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -3.2, 0.0], rotation=[20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -3.2, 1.0], rotation=[40.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -3.2, 1.0], rotation=[40.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, 0.0, 4.0], rotation=[-25.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, 0.0, 3.0], rotation=[-10.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
-[30Jun2025 22:30:28.300] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/standing with Animation{name='Standing', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
-[30Jun2025 22:30:28.300] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/sitting with Animation{name='Sitting', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -10.5, 0.0], rotation=[0.0, 0.0, -2.5], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -10.5, 0.0], rotation=null, scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -10.5, 0.0], rotation=[-35.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -10.5, 0.0], rotation=[-35.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, 15.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, -10.5, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
-[30Jun2025 22:30:28.301] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/chilling with Animation{name='Chilling', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -12.5, 2.0], rotation=[-2.5, 0.0, 2.5], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -12.25, 3.0], rotation=[-20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -12.5, 2.0], rotation=[17.5, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -12.5, 2.0], rotation=[20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, 15.0, -5.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, -10.0, 0.75], rotation=[-90.0, -10.5, 5.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
-[30Jun2025 22:30:28.301] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/rest with Animation{name='Rest', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -12.0, 0.0], rotation=[5.0, 0.0, 5.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -12.0, 0.0], rotation=[0.0, 0.0, 2.5], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[-1.0, -11.0, 0.0], rotation=[-75.0, -30.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -12.0, 0.0], rotation=[-52.5, -5.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[-3.0, -2.0, -2.0], rotation=[-32.5, -20.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[6.75, -10.0, 0.0], rotation=[-90.0, 40.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
-[30Jun2025 22:30:28.302] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Backup data folders ...
-[30Jun2025 22:30:28.321] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[30Jun2025 22:30:56.198] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[30Jun2025 22:30:56.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:58704] logged in with entity id 703 at (-258.2716407839264, 65.0, 1164.0625511159033)
-[30Jun2025 22:30:56.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
-[30Jun2025 22:30:58.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
-[30Jun2025 22:37:36.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49156] logged in with entity id 2101 at (-260.57499998807907, 66.0, 1169.4376336578177)
-[30Jun2025 22:37:36.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[30Jun2025 22:38:29.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD moved too quickly! -5.210219188605976,0.29999999999999716,41.72428464083896
-[30Jun2025 22:38:29.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD moved too quickly! -9.772486153122088,0.20999999999999375,10.854370216226698
-[30Jun2025 22:39:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the weather to clear]
-[30Jun2025 22:39:16.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[30Jun2025 22:51:22.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[30Jun2025 22:51:22.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[30Jun2025 22:51:22.497] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[30Jun2025 22:52:06.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49193] logged in with entity id 4980 at (-249.45051206625317, 66.875, 1162.4589315915132)
-[30Jun2025 22:52:06.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[30Jun2025 22:52:15.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> me saco alv
-[30Jun2025 22:52:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
-[30Jun2025 22:55:48.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
-[30Jun2025 23:12:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [In Memoriam]
-[30Jun2025 23:14:55.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Gemstone of Familiar] to CHUCHIXD]
-[30Jun2025 23:19:04.511] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
-[30Jun2025 23:19:04.516] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
-[30Jun2025 23:19:26.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[30Jun2025 23:19:39.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> laggggggggggggg
-[30Jun2025 23:23:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
-[30Jun2025 23:24:42.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
-[30Jun2025 23:25:17.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [Clever Girl]
-[30Jun2025 23:25:33.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Life Finds A Way]
-[30Jun2025 23:30:10.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[30Jun2025 23:30:10.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[30Jun2025 23:30:27.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49601] logged in with entity id 13009 at (-268.07053980930317, 64.0, 1158.051982352838)
-[30Jun2025 23:30:27.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[30Jun2025 23:30:59.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[30Jun2025 23:30:59.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[30Jun2025 23:31:31.200] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1a6e6d62[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49604): Took too long to log in
-[30Jun2025 23:31:31.201] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a6e6d62[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49604) lost connection: Took too long to log in
-[30Jun2025 23:31:31.249] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[30Jun2025 23:32:15.397] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20dc11dd[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49606) lost connection: Disconnected
-[30Jun2025 23:33:49.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49620] logged in with entity id 13606 at (-268.07053980930317, 64.0, 1158.051982352838)
-[30Jun2025 23:33:49.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[30Jun2025 23:35:55.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [Fortuitous Militia]
-[30Jun2025 23:38:01.800] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
-[30Jun2025 23:38:01.802] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
-[30Jun2025 23:38:14.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to Misterchuwa]
-[30Jun2025 23:41:19.449] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
-[30Jun2025 23:41:19.453] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
-[30Jun2025 23:43:20.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[30Jun2025 23:43:20.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[30Jun2025 23:52:55.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Vine Lasso] to CHUCHIXD]
-[30Jun2025 23:52:56.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Vine Lasso] to CHUCHIXD]
-[30Jun2025 23:52:56.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Vine Lasso] to CHUCHIXD]
-[30Jun2025 23:53:02.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Vine Lasso] to CHUCHIXD]
-[30Jun2025 23:53:07.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Vine Lasso] to CHUCHIXD]
+[01Jul2025 00:22:16.308] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering server configuration ...
+[01Jul2025 00:22:16.309] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Common Data Files ...
+[01Jul2025 00:22:16.310] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Common data folders ...
+[01Jul2025 00:22:16.311] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Data Serializers ...
+[01Jul2025 00:22:16.471] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ActionEventSet with id 28
+[01Jul2025 00:22:16.472] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomAttributes with id 29
+[01Jul2025 00:22:16.472] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DialogDataSet with id 30
+[01Jul2025 00:22:16.472] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DisplayAttributeSet with id 31
+[01Jul2025 00:22:16.472] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer EntityAttributes with id 32
+[01Jul2025 00:22:16.473] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer MerchantOffers with id 33
+[01Jul2025 00:22:16.473] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ModelPose with id 34
+[01Jul2025 00:22:16.474] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ObjectiveDataSet with id 35
+[01Jul2025 00:22:16.476] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomPosition with id 36
+[01Jul2025 00:22:16.476] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer Profession with id 37
+[01Jul2025 00:22:16.476] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer RenderDataSet with id 38
+[01Jul2025 00:22:16.479] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomRotation with id 39
+[01Jul2025 00:22:16.479] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomScale with id 40
+[01Jul2025 00:22:16.479] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SkinDataEntry with id 41
+[01Jul2025 00:22:16.480] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SoundDataSet with id 42
+[01Jul2025 00:22:16.480] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:UUID with id 43
+[01Jul2025 00:22:16.480] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:String with id 44
+[01Jul2025 00:22:16.480] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer TradingDataSet with id 45
+[01Jul2025 00:22:16.481] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer UUID with id 46
+[01Jul2025 00:22:16.483] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compatibility Handler ...
+[01Jul2025 00:22:16.487] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compat Handler ...
+[01Jul2025 00:22:16.488] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Epic Fight mod with id 'epicfight' loaded: false
+[01Jul2025 00:22:16.488] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Cobblemon mod with id 'cobblemon' loaded: false
+[01Jul2025 00:22:16.488] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Command Argument Types ...
+[01Jul2025 00:22:16.490] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Types ...
+[01Jul2025 00:22:16.503] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks ...
+[01Jul2025 00:22:16.509] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks Entity Types ...
+[01Jul2025 00:22:16.509] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Items ...
+[01Jul2025 00:22:16.521] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Types ...
+[01Jul2025 00:22:16.543] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Handler ...
+[01Jul2025 00:22:16.552] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[01Jul2025 00:22:16.555] [modloading-worker-0/INFO] [Easy NPC/]: Registering server network handler for Server -> Client messages.
+[01Jul2025 00:22:16.558] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Client Network Message Handler ...
+[01Jul2025 00:22:17.539] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[01Jul2025 00:22:17.540] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[01Jul2025 00:22:18.430] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[01Jul2025 00:22:18.865] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01Jul2025 00:22:18.904] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[01Jul2025 00:22:18.909] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[01Jul2025 00:22:18.910] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[01Jul2025 00:22:18.910] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[01Jul2025 00:22:18.910] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[01Jul2025 00:22:18.912] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[01Jul2025 00:22:18.913] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[01Jul2025 00:22:18.914] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[01Jul2025 00:22:18.915] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[01Jul2025 00:22:18.919] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[01Jul2025 00:22:18.919] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[01Jul2025 00:22:18.938] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[01Jul2025 00:22:18.938] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[01Jul2025 00:22:24.258] [main/INFO] [Easy NPC/]: - Registering Synched Attack Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.258] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[01Jul2025 00:22:24.259] [main/INFO] [Easy NPC/]: - Registering Synched Attribute Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.259] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[01Jul2025 00:22:24.259] [main/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.259] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[01Jul2025 00:22:24.259] [main/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.260] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[01Jul2025 00:22:24.260] [main/INFO] [Easy NPC/]: - Registering Synched Navigation Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.260] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[01Jul2025 00:22:24.260] [main/INFO] [Easy NPC/]: - Registering Synched Owner Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.260] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[01Jul2025 00:22:24.260] [main/INFO] [Easy NPC/]: - Registering Synched Profession Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.261] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[01Jul2025 00:22:24.261] [main/INFO] [Easy NPC/]: - Registering Synched Render Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.261] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[01Jul2025 00:22:24.261] [main/INFO] [Easy NPC/]: - Registering Synched Skin Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.261] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[01Jul2025 00:22:24.261] [main/INFO] [Easy NPC/]: - Registering Synched Sound Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.261] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[01Jul2025 00:22:24.262] [main/INFO] [Easy NPC/]: - Registering Synched Trading Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.262] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:24.262] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:24.262] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:24.262] [main/INFO] [Easy NPC/]: - Registering Synched Variant Data for EasyNPCBaseEntity.
+[01Jul2025 00:22:24.263] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[01Jul2025 00:22:24.263] [main/INFO] [Easy NPC/]: - Registering Synched Model Data for EasyNPCBaseModelEntity.
+[01Jul2025 00:22:24.263] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.264] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.264] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.264] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.264] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.265] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.265] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.265] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.265] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.265] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[01Jul2025 00:22:24.265] [main/INFO] [Easy NPC/]: - Registering Synched Model Position Data for EasyNPCBaseModelEntity.
+[01Jul2025 00:22:24.266] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[01Jul2025 00:22:24.266] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[01Jul2025 00:22:24.266] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[01Jul2025 00:22:24.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[01Jul2025 00:22:24.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[01Jul2025 00:22:24.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[01Jul2025 00:22:24.269] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[01Jul2025 00:22:24.270] [main/INFO] [Easy NPC/]: - Registering Synched Model Rotation Data for EasyNPCBaseModelEntity.
+[01Jul2025 00:22:24.270] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[01Jul2025 00:22:24.271] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[01Jul2025 00:22:24.271] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[01Jul2025 00:22:24.271] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[01Jul2025 00:22:24.271] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[01Jul2025 00:22:24.272] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[01Jul2025 00:22:24.272] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[01Jul2025 00:22:24.272] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[01Jul2025 00:22:24.273] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[01Jul2025 00:22:24.273] [main/INFO] [Easy NPC/]: - Registering Synched Model Visibility Data for EasyNPCBaseModelEntity.
+[01Jul2025 00:22:24.273] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.274] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.274] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.275] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.275] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.276] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.276] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.277] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.277] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.278] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.278] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[01Jul2025 00:22:24.279] [main/INFO] [Easy NPC/]: - Registering Synched Scale Data for EasyNPCBaseModelEntity.
+[01Jul2025 00:22:24.279] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[01Jul2025 00:22:24.280] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[01Jul2025 00:22:24.280] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[01Jul2025 00:22:24.422] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[01Jul2025 00:22:25.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[01Jul2025 00:22:25.296] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler for net.minecraftforge.network.simple.SimpleChannel@29b83831 with version 23
+[01Jul2025 00:22:25.299] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[01Jul2025 00:22:25.299] [main/INFO] [Easy NPC/]: Registering network messages for BOTH side ...
+[01Jul2025 00:22:25.301] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message ExportClientPresetMessage with easy_npc:preset_export_client (0)
+[01Jul2025 00:22:25.304] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message OpenMenuCallbackMessage with easy_npc:open_menu_callback_message (1)
+[01Jul2025 00:22:25.306] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message SyncDataMessage with easy_npc:sync_data (2)
+[01Jul2025 00:22:25.311] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message AddOrUpdateObjectiveMessage with easy_npc:add_objective (3)
+[01Jul2025 00:22:25.316] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeActionEventMessage with easy_npc:change_action_event (4)
+[01Jul2025 00:22:25.318] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeAdvancedTradingMessage with easy_npc:change_advanced_trading (5)
+[01Jul2025 00:22:25.323] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeBasicTradingMessage with easy_npc:change_basic_trading (6)
+[01Jul2025 00:22:25.329] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeCombatAttributeMessage with easy_npc:change_combat_attribute (7)
+[01Jul2025 00:22:25.333] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeDisplayAttributeMessage with easy_npc:change_display_attribute (8)
+[01Jul2025 00:22:25.336] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityAttributeMessage with easy_npc:change_entity_attribute (9)
+[01Jul2025 00:22:25.338] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityBaseAttributeMessage with easy_npc:change_entity_base_attribute (10)
+[01Jul2025 00:22:25.342] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEnvironmentalAttributeMessage with easy_npc:change_environmental_attribute (11)
+[01Jul2025 00:22:25.344] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeInteractionAttributeMessage with easy_npc:change_interaction_attribute (12)
+[01Jul2025 00:22:25.345] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelEquipmentVisibilityMessage with easy_npc:change_model_equipment_visibility (13)
+[01Jul2025 00:22:25.346] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelLockRotationMessage with easy_npc:change_model_lock_rotation (14)
+[01Jul2025 00:22:25.350] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPoseMessage with easy_npc:change_model_pose (15)
+[01Jul2025 00:22:25.352] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPositionMessage with easy_npc:change_model_position (16)
+[01Jul2025 00:22:25.354] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelRotationMessage with easy_npc:change_model_rotation (17)
+[01Jul2025 00:22:25.355] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelVisibilityMessage with easy_npc:change_model_visibility (18)
+[01Jul2025 00:22:25.357] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeMovementAttributeMessage with easy_npc:change_movement_attribute (19)
+[01Jul2025 00:22:25.359] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeNameMessage with easy_npc:change_name (20)
+[01Jul2025 00:22:25.360] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePoseMessage with easy_npc:change_pose (21)
+[01Jul2025 00:22:25.361] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePositionMessage with easy_npc:change_position (22)
+[01Jul2025 00:22:25.362] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeProfessionMessage with easy_npc:change_profession (23)
+[01Jul2025 00:22:25.364] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeRendererMessage with easy_npc:change_renderer (24)
+[01Jul2025 00:22:25.370] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeScaleMessage with easy_npc:change_scale (25)
+[01Jul2025 00:22:25.372] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSkinMessage with easy_npc:change_skin (26)
+[01Jul2025 00:22:25.374] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSpawnerSettingMessage with easy_npc:change_spawner_settings (27)
+[01Jul2025 00:22:25.376] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeTradingTypeMessage with easy_npc:change_trading_type (28)
+[01Jul2025 00:22:25.380] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteActionEventMessage with easy_npc:trigger_action_event (29)
+[01Jul2025 00:22:25.381] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteDialogButtonActionMessage with easy_npc:dialog_button_action (30)
+[01Jul2025 00:22:25.384] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportPresetMessage with easy_npc:export_preset (31)
+[01Jul2025 00:22:25.393] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportWorldPresetMessage with easy_npc:export_world_preset (32)
+[01Jul2025 00:22:25.397] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ImportPresetMessage with easy_npc:import_preset (33)
+[01Jul2025 00:22:25.411] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEditorMessage with easy_npc:open_action_data_editor (34)
+[01Jul2025 00:22:25.412] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEntryEditorMessage with easy_npc:open_action_data_entry_editor (35)
+[01Jul2025 00:22:25.416] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenConfigurationMessage with easy_npc:open_configuration_screen (36)
+[01Jul2025 00:22:25.417] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogButtonEditorMessage with easy_npc:open_dialog_button_editor (37)
+[01Jul2025 00:22:25.419] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogEditorMessage with easy_npc:open_dialog_editor (38)
+[01Jul2025 00:22:25.420] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenMenuMessage with easy_npc:open_menu_message (39)
+[01Jul2025 00:22:25.424] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogTextEditorMessage with easy_npc:open_dialog_text_editor (40)
+[01Jul2025 00:22:25.425] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogButtonMessage with easy_npc:remove_dialog_button (41)
+[01Jul2025 00:22:25.430] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogMessage with easy_npc:remove_dialog (42)
+[01Jul2025 00:22:25.431] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveNPCMessage with easy_npc:remove_npc (43)
+[01Jul2025 00:22:25.433] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveObjectiveMessage with easy_npc:remove_objective (44)
+[01Jul2025 00:22:25.439] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RequestDataSyncMessage with easy_npc:request_data_sync (45)
+[01Jul2025 00:22:25.445] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RespawnNPCMessage with easy_npc:respawn_npc (46)
+[01Jul2025 00:22:25.446] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogButtonMessage with easy_npc:save_dialog_button (47)
+[01Jul2025 00:22:25.447] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogMessage with easy_npc:save_dialog (48)
+[01Jul2025 00:22:25.448] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogSetMessage with easy_npc:save_dialog_set (49)
+[01Jul2025 00:22:25.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[01Jul2025 00:22:25.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[01Jul2025 00:22:25.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[01Jul2025 00:22:25.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[01Jul2025 00:22:25.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[01Jul2025 00:22:25.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Jul2025 00:22:25.575] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[01Jul2025 00:22:25.580] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[01Jul2025 00:22:25.580] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[01Jul2025 00:22:25.580] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[01Jul2025 00:22:25.580] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[01Jul2025 00:22:25.580] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[01Jul2025 00:22:25.581] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[01Jul2025 00:22:25.581] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[01Jul2025 00:22:25.581] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[01Jul2025 00:22:25.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[01Jul2025 00:22:25.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[01Jul2025 00:22:25.698] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01Jul2025 00:22:25.699] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01Jul2025 00:22:25.702] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01Jul2025 00:22:25.703] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01Jul2025 00:22:25.783] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[01Jul2025 00:22:25.795] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[01Jul2025 00:22:25.811] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[01Jul2025 00:22:25.812] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[01Jul2025 00:22:25.813] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
+[01Jul2025 00:22:25.815] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[01Jul2025 00:22:25.844] [main/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[01Jul2025 00:22:26.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[01Jul2025 00:22:26.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[01Jul2025 00:22:26.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[01Jul2025 00:22:26.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01Jul2025 00:22:26.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.0
+[01Jul2025 00:22:26.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[01Jul2025 00:22:26.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[01Jul2025 00:22:26.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[01Jul2025 00:22:26.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[01Jul2025 00:22:30.187] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Jul2025 00:22:33.052] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[01Jul2025 00:22:33.052] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FamilySex0.3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[01Jul2025 00:22:46.616] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC /easy_npc commands for Easy NPC ...
+[01Jul2025 00:22:46.775] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[01Jul2025 00:22:48.795] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[01Jul2025 00:22:48.988] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 19 recipes
+[01Jul2025 00:22:49.291] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3301 advancements
+[01Jul2025 00:22:49.438] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Loading exposure lenses:
+[01Jul2025 00:22:49.440] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[01Jul2025 00:22:49.461] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 18 curio slots
+[01Jul2025 00:22:49.470] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
+[01Jul2025 00:22:52.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01Jul2025 00:22:52.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Jul2025 00:22:52.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Jul2025 00:22:52.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Jul2025 00:22:52.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Jul2025 00:22:52.428] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Jul2025 00:22:52.579] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Jul2025 00:22:52.580] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Jul2025 00:22:52.580] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Jul2025 00:22:52.581] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Jul2025 00:22:52.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Jul2025 00:22:53.859] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Allay['entity.easy_npc.allay'/331, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.863] [Server thread/INFO] [Easy NPC/]: Register default handler for Allay['entity.easy_npc.allay'/331, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[01Jul2025 00:22:53.866] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Cat['entity.easy_npc.cat'/332, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.867] [Server thread/INFO] [Easy NPC/]: Register default handler for Cat['entity.easy_npc.cat'/332, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant BLACK ...
+[01Jul2025 00:22:53.868] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Chicken['entity.easy_npc.chicken'/333, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.872] [Server thread/INFO] [Easy NPC/]: Register default handler for Chicken['entity.easy_npc.chicken'/333, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WHITE ...
+[01Jul2025 00:22:53.875] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.drowned'/334, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.876] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.drowned'/334, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DROWNED ...
+[01Jul2025 00:22:53.878] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.evoker'/335, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.879] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.evoker'/335, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant EVOKER_CROSSED_ARMS ...
+[01Jul2025 00:22:53.880] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Fairy['entity.easy_npc.fairy'/336, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.883] [Server thread/INFO] [Easy NPC/]: Register default handler for Fairy['entity.easy_npc.fairy'/336, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant GREEN ...
+[01Jul2025 00:22:53.884] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.horse'/337, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.885] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.horse'/337, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WHITE ...
+[01Jul2025 00:22:53.888] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/338, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.890] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/338, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[01Jul2025 00:22:53.893] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/339, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.897] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/339, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[01Jul2025 00:22:53.898] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/340, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.900] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/340, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[01Jul2025 00:22:53.901] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.illusioner'/341, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.902] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.illusioner'/341, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ILLUSIONER_CROSSED_ARMS ...
+[01Jul2025 00:22:53.903] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for IronGolem['entity.easy_npc.iron_golem'/342, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.904] [Server thread/INFO] [Easy NPC/]: Register default handler for IronGolem['entity.easy_npc.iron_golem'/342, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant IRON_GOLEM ...
+[01Jul2025 00:22:53.906] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Orc['entity.easy_npc.orc'/343, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.915] [Server thread/INFO] [Easy NPC/]: Register default handler for Orc['entity.easy_npc.orc'/343, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[01Jul2025 00:22:53.919] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Orc['entity.easy_npc.orc_warrior'/344, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.920] [Server thread/INFO] [Easy NPC/]: Register default handler for Orc['entity.easy_npc.orc_warrior'/344, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WARRIOR ...
+[01Jul2025 00:22:53.926] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Pig['entity.easy_npc.pig'/345, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.927] [Server thread/INFO] [Easy NPC/]: Register default handler for Pig['entity.easy_npc.pig'/345, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[01Jul2025 00:22:53.928] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin'/346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.928] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin'/346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PIGLIN ...
+[01Jul2025 00:22:53.934] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin_brute'/347, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:53.935] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin_brute'/347, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PIGLIN_BRUTE ...
+[01Jul2025 00:22:53.935] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for PiglinRaw.
+[01Jul2025 00:22:53.936] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[01Jul2025 00:22:53.936] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for PiglinRaw.
+[01Jul2025 00:22:53.937] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[01Jul2025 00:22:53.937] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for PiglinRaw.
+[01Jul2025 00:22:53.937] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[01Jul2025 00:22:53.939] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for PiglinRaw.
+[01Jul2025 00:22:53.940] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[01Jul2025 00:22:53.941] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for PiglinRaw.
+[01Jul2025 00:22:53.941] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[01Jul2025 00:22:53.941] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for PiglinRaw.
+[01Jul2025 00:22:53.942] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[01Jul2025 00:22:53.943] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for PiglinRaw.
+[01Jul2025 00:22:53.945] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[01Jul2025 00:22:53.945] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for PiglinRaw.
+[01Jul2025 00:22:53.945] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[01Jul2025 00:22:53.946] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for PiglinRaw.
+[01Jul2025 00:22:53.946] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[01Jul2025 00:22:53.949] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for PiglinRaw.
+[01Jul2025 00:22:53.949] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[01Jul2025 00:22:53.951] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for PiglinRaw.
+[01Jul2025 00:22:53.951] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:53.952] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:53.952] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:53.952] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for PiglinRaw.
+[01Jul2025 00:22:53.953] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[01Jul2025 00:22:53.956] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for PiglinRaw['entity.easy_npc.piglin_raw'/348, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.172] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin_zombified'/349, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.174] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin_zombified'/349, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIFIED_PIGLIN ...
+[01Jul2025 00:22:54.176] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.pillager'/350, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.178] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.pillager'/350, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PILLAGER ...
+[01Jul2025 00:22:54.180] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/351, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.181] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/351, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[01Jul2025 00:22:54.188] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.skeleton_horse'/352, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.189] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.skeleton_horse'/352, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[01Jul2025 00:22:54.190] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for SkeletonRaw.
+[01Jul2025 00:22:54.190] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[01Jul2025 00:22:54.191] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for SkeletonRaw.
+[01Jul2025 00:22:54.192] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[01Jul2025 00:22:54.192] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for SkeletonRaw.
+[01Jul2025 00:22:54.194] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[01Jul2025 00:22:54.195] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for SkeletonRaw.
+[01Jul2025 00:22:54.195] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[01Jul2025 00:22:54.196] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for SkeletonRaw.
+[01Jul2025 00:22:54.196] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[01Jul2025 00:22:54.197] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for SkeletonRaw.
+[01Jul2025 00:22:54.199] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[01Jul2025 00:22:54.199] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for SkeletonRaw.
+[01Jul2025 00:22:54.199] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[01Jul2025 00:22:54.200] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for SkeletonRaw.
+[01Jul2025 00:22:54.200] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[01Jul2025 00:22:54.201] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for SkeletonRaw.
+[01Jul2025 00:22:54.201] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[01Jul2025 00:22:54.202] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for SkeletonRaw.
+[01Jul2025 00:22:54.202] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[01Jul2025 00:22:54.203] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for SkeletonRaw.
+[01Jul2025 00:22:54.203] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:54.203] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:54.204] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:54.204] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for SkeletonRaw.
+[01Jul2025 00:22:54.205] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[01Jul2025 00:22:54.206] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for SkeletonRaw['entity.easy_npc.skeleton_raw'/353, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.209] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.stray'/354, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.210] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.stray'/354, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STRAY ...
+[01Jul2025 00:22:54.213] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Villager['Default (None)'/355, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.215] [Server thread/INFO] [Easy NPC/]: Register default handler for Villager['Default (None)'/355, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[01Jul2025 00:22:54.217] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.vindicator'/356, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.218] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.vindicator'/356, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant VINDICATOR_CROSSED_ARMS ...
+[01Jul2025 00:22:54.219] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/357, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.219] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/357, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[01Jul2025 00:22:54.220] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Wolf['entity.easy_npc.wolf'/358, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.221] [Server thread/INFO] [Easy NPC/]: Register default handler for Wolf['entity.easy_npc.wolf'/358, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[01Jul2025 00:22:54.222] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.zombie'/359, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.222] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.zombie'/359, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIE ...
+[01Jul2025 00:22:54.223] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.zombie_horse'/360, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.224] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.zombie_horse'/360, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIE ...
+[01Jul2025 00:22:54.224] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for ZombieRaw.
+[01Jul2025 00:22:54.224] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[01Jul2025 00:22:54.225] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for ZombieRaw.
+[01Jul2025 00:22:54.225] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[01Jul2025 00:22:54.226] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for ZombieRaw.
+[01Jul2025 00:22:54.227] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[01Jul2025 00:22:54.228] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for ZombieRaw.
+[01Jul2025 00:22:54.229] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[01Jul2025 00:22:54.229] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for ZombieRaw.
+[01Jul2025 00:22:54.229] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[01Jul2025 00:22:54.229] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for ZombieRaw.
+[01Jul2025 00:22:54.229] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[01Jul2025 00:22:54.229] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for ZombieRaw.
+[01Jul2025 00:22:54.230] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[01Jul2025 00:22:54.230] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for ZombieRaw.
+[01Jul2025 00:22:54.230] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[01Jul2025 00:22:54.231] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for ZombieRaw.
+[01Jul2025 00:22:54.232] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[01Jul2025 00:22:54.233] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for ZombieRaw.
+[01Jul2025 00:22:54.236] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[01Jul2025 00:22:54.236] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for ZombieRaw.
+[01Jul2025 00:22:54.237] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:54.237] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:54.240] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[01Jul2025 00:22:54.240] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for ZombieRaw.
+[01Jul2025 00:22:54.240] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[01Jul2025 00:22:54.241] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for ZombieRaw['entity.easy_npc.zombie_raw'/361, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.243] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for ZombieVillager['Default (None)'/362, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[01Jul2025 00:22:54.246] [Server thread/INFO] [Easy NPC/]: Register default handler for ZombieVillager['Default (None)'/362, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[01Jul2025 00:22:58.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Jul2025 00:23:01.929] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Jul2025 00:23:03.264] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Jul2025 00:23:05.958] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:05.995] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.024] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.032] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.035] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.043] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.051] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.059] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.060] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.060] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.061] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.069] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.116] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.179] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:06.197] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:08.322] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:08.323] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:08.323] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:08.324] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:08.634] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 00:23:09.135] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[01Jul2025 00:23:09.636] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[01Jul2025 00:23:10.076] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11443 ms
+[01Jul2025 00:23:10.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.478s)! For help, type "help"
+[01Jul2025 00:23:10.187] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Jul2025 00:23:10.193] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Server is starting Events ...
+[01Jul2025 00:23:10.193] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Server data folders ...
+[01Jul2025 00:23:10.196] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Pose data folders ...
+[01Jul2025 00:23:10.198] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC custom pose data ...
+[01Jul2025 00:23:10.208] [Server thread/WARN] [Easy NPC/]: Skin model pose file /workspaces/FamilySex0.3/servidor_minecraft/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json already exists, skipping copy!
+[01Jul2025 00:23:10.216] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC custom poses from /workspaces/FamilySex0.3/servidor_minecraft/config/easy_npc/pose ...
+[01Jul2025 00:23:10.218] [Server thread/INFO] [Easy NPC/]: Found custom pose file /workspaces/FamilySex0.3/servidor_minecraft/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json ...
+[01Jul2025 00:23:10.224] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/crouching with Animation{name='Crouching', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -4.2, 0.0], rotation=[-7.5, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -3.2, 0.0], rotation=[20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -3.2, 1.0], rotation=[40.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -3.2, 1.0], rotation=[40.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, 0.0, 4.0], rotation=[-25.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, 0.0, 3.0], rotation=[-10.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[01Jul2025 00:23:10.225] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/standing with Animation{name='Standing', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[01Jul2025 00:23:10.225] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/sitting with Animation{name='Sitting', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -10.5, 0.0], rotation=[0.0, 0.0, -2.5], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -10.5, 0.0], rotation=null, scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -10.5, 0.0], rotation=[-35.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -10.5, 0.0], rotation=[-35.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, 15.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, -10.5, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[01Jul2025 00:23:10.226] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/chilling with Animation{name='Chilling', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -12.5, 2.0], rotation=[-2.5, 0.0, 2.5], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -12.25, 3.0], rotation=[-20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -12.5, 2.0], rotation=[17.5, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -12.5, 2.0], rotation=[20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, 15.0, -5.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, -10.0, 0.75], rotation=[-90.0, -10.5, 5.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[01Jul2025 00:23:10.226] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/rest with Animation{name='Rest', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -12.0, 0.0], rotation=[5.0, 0.0, 5.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -12.0, 0.0], rotation=[0.0, 0.0, 2.5], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[-1.0, -11.0, 0.0], rotation=[-75.0, -30.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -12.0, 0.0], rotation=[-52.5, -5.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[-3.0, -2.0, -2.0], rotation=[-32.5, -20.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[6.75, -10.0, 0.0], rotation=[-90.0, 40.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[01Jul2025 00:23:10.227] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Backup data folders ...
+[01Jul2025 00:23:10.228] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-07-01 at /workspaces/FamilySex0.3/servidor_minecraft/easy_npc/backup ...
+[01Jul2025 00:23:10.244] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[01Jul2025 00:23:35.912] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[01Jul2025 00:23:36.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:54055] logged in with entity id 703 at (-300.97315483920164, 66.80984940805052, 1157.5154531933542)
+[01Jul2025 00:23:36.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[01Jul2025 00:23:38.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[01Jul2025 00:24:02.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHummingbird['Hummingbird'/979, l='ServerLevel[world]', x=-79.74, y=67.32, z=1165.00]
+[01Jul2025 00:24:02.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Rabbit['Rabbit'/981, l='ServerLevel[world]', x=-79.98, y=62.32, z=1031.37]
+[01Jul2025 00:24:44.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49978] logged in with entity id 1156 at (-248.12695082672244, 66.0, 1166.6926024459895)
+[01Jul2025 00:24:44.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 00:26:31.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
+[01Jul2025 00:27:35.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
