@@ -592,3 +592,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [01Jul2025 21:38:39.868] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [01Jul2025 21:38:56.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
 [01Jul2025 21:38:56.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[01Jul2025 21:51:36.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Ant Farm]
