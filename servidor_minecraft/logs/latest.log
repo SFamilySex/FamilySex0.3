@@ -515,3 +515,22 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [01Jul2025 00:41:58.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
 [01Jul2025 00:41:58.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
 [01Jul2025 00:41:58.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Lead] to CHUCHIXD]
+[01Jul2025 00:42:47.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[01Jul2025 00:44:58.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Voluntary Exile]
+[01Jul2025 00:45:17.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[01Jul2025 00:45:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[01Jul2025 00:46:04.412] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c7587db[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50185) lost connection: Timed out
+[01Jul2025 00:47:14.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50245] logged in with entity id 7762 at (-252.8714662847938, 72.0, 1125.0723476695116)
+[01Jul2025 00:47:14.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 00:48:29.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[01Jul2025 00:48:29.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[01Jul2025 00:48:48.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Receive Sun's Blessing] to CHUCHIXD]
+[01Jul2025 00:49:02.765] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a8cd1bf[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50258) lost connection: Disconnected
+[01Jul2025 00:49:23.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50260] logged in with entity id 8150 at (-264.4286583601218, 64.0, 1157.251247605092)
+[01Jul2025 00:49:23.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 00:49:34.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> rr
+[01Jul2025 00:49:40.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ee
+[01Jul2025 00:51:24.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[01Jul2025 00:51:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[01Jul2025 00:51:24.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:49437] logged in with entity id 8565 at (-278.2972229183171, 92.0, 1046.5315500470633)
+[01Jul2025 00:51:24.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
