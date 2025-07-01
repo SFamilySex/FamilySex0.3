@@ -5816,6 +5816,73 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-07-01 03:42:43 +0000",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-07-01 03:44:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-01 03:41:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword_repairing": {
+    "criteria": {
+      "has_zanite_sword": "2025-07-01 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-07-01 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_silence_armor_trim_smithing_template": "2025-07-01 03:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-01 03:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
   "aether:obsidian_armor": {
     "criteria": {
       "obsidian_boots": "2025-07-01 03:37:42 +0000",
@@ -5823,6 +5890,61 @@
       "obsidian_leggings": "2025-07-01 03:37:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-01 03:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2025-07-01 03:39:56 +0000",
+      "tunic": "2025-07-01 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-01 03:42:15 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
