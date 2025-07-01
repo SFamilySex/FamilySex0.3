@@ -571,3 +571,24 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [01Jul2025 21:12:13.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
 [01Jul2025 21:12:43.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
 [01Jul2025 21:14:20.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
+[01Jul2025 21:24:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Heliomancer]
+[01Jul2025 21:26:46.471] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[01Jul2025 21:26:46.473] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[01Jul2025 21:26:54.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[01Jul2025 21:27:29.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[01Jul2025 21:27:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -266.500000, 64.500000, 1167.500000]
+[01Jul2025 21:28:24.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2208.500000, 67.500000, 1751.500000]
+[01Jul2025 21:30:00.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -266.500000, 64.500000, 1167.500000]
+[01Jul2025 21:30:04.978] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[01Jul2025 21:30:04.980] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[01Jul2025 21:30:54.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[01Jul2025 21:36:39.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -237.500000, 64.500000, 1176.500000]
+[01Jul2025 21:36:58.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2233.500000, 67.500000, 1752.500000]
+[01Jul2025 21:37:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -240.500000, 64.500000, 1183.500000]
+[01Jul2025 21:37:54.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2230.500000, 67.500000, 1755.500000]
+[01Jul2025 21:38:17.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -264.500000, 64.500000, 1170.500000]
+[01Jul2025 21:38:35.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[01Jul2025 21:38:39.866] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[01Jul2025 21:38:39.868] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[01Jul2025 21:38:56.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[01Jul2025 21:38:56.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
