@@ -582,3 +582,28 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [01Jul2025 01:11:22.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
 [01Jul2025 01:12:22.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50427] logged in with entity id 16169 at (-257.59469946361696, 65.0, 1165.1466984996223)
 [01Jul2025 01:12:22.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 01:12:37.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[01Jul2025 01:12:37.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[01Jul2025 01:13:05.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50435] logged in with entity id 16382 at (-257.59469946361696, 65.0, 1165.1466984996223)
+[01Jul2025 01:13:05.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 01:13:26.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[01Jul2025 01:13:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[01Jul2025 01:14:21.121] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6294b504[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50445) lost connection: Disconnected
+[01Jul2025 01:14:37.018] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b57e987[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50448) lost connection: Disconnected
+[01Jul2025 01:18:49.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of CHUCHIxXD) moved wrongly! 0.30627001407640364
+[01Jul2025 01:18:49.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of CHUCHIxXD) moved wrongly! 0.7461515689350335
+[01Jul2025 01:20:42.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:51460] logged in with entity id 19309 at (-257.59469946361696, 65.0, 1165.1466984996223)
+[01Jul2025 01:20:42.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 01:21:09.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[01Jul2025 01:21:09.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[01Jul2025 01:21:13.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of CHUCHIxXD) moved wrongly! 0.281433952582006
+[01Jul2025 01:21:13.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of CHUCHIxXD) moved wrongly! 0.7169398946076626
+[01Jul2025 01:21:13.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of CHUCHIxXD) moved wrongly! 0.4017526777970488
+[01Jul2025 01:21:13.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of CHUCHIxXD) moved wrongly! 0.8598253933762408
+[01Jul2025 01:21:14.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of CHUCHIxXD) moved wrongly! 1.3101568942136055
+[01Jul2025 01:21:37.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:51468] logged in with entity id 20039 at (-257.59469946361696, 65.0, 1165.1466984996223)
+[01Jul2025 01:21:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 01:22:10.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[01Jul2025 01:22:10.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[01Jul2025 01:22:27.521] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c327a9d[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:51472) lost connection: Disconnected
+[01Jul2025 01:22:32.817] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9a64ba6[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:51473) lost connection: Disconnected
