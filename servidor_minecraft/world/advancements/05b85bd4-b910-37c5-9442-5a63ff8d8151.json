@@ -6572,6 +6572,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_the_recipe": "2025-07-02 02:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-07-02 00:14:36 +0000"
