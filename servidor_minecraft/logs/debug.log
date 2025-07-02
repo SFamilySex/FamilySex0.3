@@ -4539,3 +4539,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jul2025 00:29:18.443] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=44acc803-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
 [02Jul2025 00:29:28.792] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=d600e8a2-0000-0000-0000-000000000000, length=41, extra={valid=false}}, startingAt=0, player=null}
 [02Jul2025 00:29:53.844] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=d600e8a2-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[02Jul2025 00:33:05.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 00:33:05.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 00:33:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has completed the challenge [Village Defender]
+[02Jul2025 00:34:03.690] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751416443681
+[02Jul2025 00:34:03.879] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751416443867
+[02Jul2025 00:34:03.879] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751416443867
+[02Jul2025 00:35:30.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -7.8346086728847695,-0.27251889079158786,-6.673237022796911
+[02Jul2025 00:35:39.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 8.06843190753807,-2.3100651179649816,-7.685845694540603
+[02Jul2025 00:37:11.993] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751416631981
+[02Jul2025 00:38:05.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 00:38:05.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 00:43:05.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 00:43:05.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

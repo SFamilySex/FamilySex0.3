@@ -41,3 +41,6 @@
 [02Jul2025 00:16:39.082] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [02Jul2025 00:16:39.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [02Jul2025 00:16:39.280] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jul2025 00:33:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has completed the challenge [Village Defender]
+[02Jul2025 00:35:30.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -7.8346086728847695,-0.27251889079158786,-6.673237022796911
+[02Jul2025 00:35:39.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 8.06843190753807,-2.3100651179649816,-7.685845694540603
