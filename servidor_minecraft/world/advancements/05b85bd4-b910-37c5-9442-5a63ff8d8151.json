@@ -6482,6 +6482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-02 02:33:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
       "has_reinforced_cobblestone": "2025-07-02 00:42:19 +0000"
@@ -6527,6 +6533,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
     "criteria": {
       "has_block": "2025-07-02 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-02 02:33:08 +0000"
     },
     "done": true
   },
@@ -6581,6 +6593,12 @@
   "securitycraft:recipes/building_blocks/furnace_mine": {
     "criteria": {
       "has_the_recipe": "2025-07-02 02:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-02 02:33:08 +0000"
     },
     "done": true
   },
