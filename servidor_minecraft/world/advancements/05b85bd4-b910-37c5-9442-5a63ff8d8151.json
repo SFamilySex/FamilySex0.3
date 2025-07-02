@@ -6482,81 +6482,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-02 02:33:08 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobblestone": "2025-07-02 00:42:19 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2025-07-02 00:14:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
-    "criteria": {
-      "has_block": "2025-07-02 00:42:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-02 03:06:01 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobblestone": "2025-07-02 00:42:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_stone": {
-    "criteria": {
-      "has_item": "2025-07-02 00:42:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-07-02 01:23:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_oak_button": {
-    "criteria": {
-      "has_block": "2025-07-02 02:44:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-07-02 02:58:09 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
-    "criteria": {
-      "has_block": "2025-07-02 00:42:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
-    "criteria": {
-      "has_block": "2025-07-02 00:42:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-02 02:33:08 +0000"
     },
     "done": true
   },
@@ -6572,9 +6500,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_gravel": "2025-07-02 02:33:01 +0000"
+      "has_white_wool": "2025-07-02 00:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 00:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-07-02 00:26:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-07-02 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-07-02 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-07-02 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-07-02 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-07-02 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-07-02 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-07-02 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-07-02 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-02 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-02 01:23:51 +0000"
     },
     "done": true
   },
@@ -6590,6 +6590,42 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_the_recipe": "2025-07-02 02:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-02 02:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-02 02:33:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-02 02:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-02 02:33:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-07-02 02:44:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
     "criteria": {
       "has_block": "2025-07-02 02:44:00 +0000"
@@ -6602,57 +6638,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobblestone": "2025-07-02 00:42:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-07-02 01:23:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-07-02 00:14:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/furnace_mine": {
-    "criteria": {
-      "has_the_recipe": "2025-07-02 02:07:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-07-02 02:33:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-07-02 00:14:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
     "criteria": {
       "has_block": "2025-07-02 02:44:00 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_lever": {
+  "tombstone:adventure/village_defender": {
     "criteria": {
-      "has_cobble": "2025-07-02 00:42:19 +0000"
+      "coded_trigger": "2025-07-02 02:58:09 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_shovel_repairing": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_diamond_shovel": "2025-07-02 00:26:21 +0000"
+      "voluntary_exile": "2025-07-02 03:06:01 +0000"
     },
     "done": true
   },

@@ -90,3 +90,17 @@
 [02Jul2025 03:20:10.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
 [02Jul2025 03:24:37.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:53737] logged in with entity id 126274 at (-2246.355720617548, 75.0, 1694.3867909676947)
 [02Jul2025 03:24:37.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[02Jul2025 03:25:43.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to HEISENBERGXD]
+[02Jul2025 03:26:59.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to JAGlitsh]
+[02Jul2025 03:33:27.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HEISENBERGXD> e
+[02Jul2025 03:33:44.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HEISENBERGXD> qaaaw
+[02Jul2025 03:41:25.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to HEISENBERGXD]
+[02Jul2025 03:43:25.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Enchanter]
+[02Jul2025 03:47:49.132] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[02Jul2025 03:47:49.141] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[02Jul2025 03:48:07.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Cachalot Whale
+[02Jul2025 03:48:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[02Jul2025 03:51:36.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to HEISENBERGXD]
+[02Jul2025 04:00:34.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to HEISENBERGXD]
+[02Jul2025 04:00:35.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[02Jul2025 04:00:35.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
