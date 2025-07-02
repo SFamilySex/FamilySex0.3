@@ -139,3 +139,12 @@
 [02Jul2025 04:25:13.669] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
 [02Jul2025 04:25:13.672] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
 [02Jul2025 04:25:49.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[02Jul2025 04:27:06.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to HEISENBERGXD]
+[02Jul2025 04:27:30.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[02Jul2025 04:27:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to HEISENBERGXD]
+[02Jul2025 04:29:58.819] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[02Jul2025 04:29:58.822] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[02Jul2025 04:31:31.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[02Jul2025 04:31:31.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[02Jul2025 04:31:34.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[02Jul2025 04:31:34.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
