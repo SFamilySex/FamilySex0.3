@@ -104,3 +104,38 @@
 [02Jul2025 04:00:34.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to HEISENBERGXD]
 [02Jul2025 04:00:35.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
 [02Jul2025 04:00:35.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[02Jul2025 04:08:45.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to JAGlitsh]
+[02Jul2025 04:13:36.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to HEISENBERGXD]
+[02Jul2025 04:13:51.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[02Jul2025 04:13:51.680] [Netty Epoll Server IO #6/WARN] [emotecraft/]: Player: ServerPlayer['CHUCHIXD'/112567, l='ServerLevel[world]', x=-308.19, y=92.00, z=1035.34] does not respect server-side emote tracking. Ignoring repeat
+[02Jul2025 04:15:19.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has reached the goal [Heliomancer]
+[02Jul2025 04:19:15.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[02Jul2025 04:19:15.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[02Jul2025 04:19:26.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:55301] logged in with entity id 154597 at (-281.0975354150775, 92.0, 1049.9209020927012)
+[02Jul2025 04:19:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[02Jul2025 04:19:28.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[02Jul2025 04:19:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[02Jul2025 04:20:26.218] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[02Jul2025 04:20:26.221] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[02Jul2025 04:20:28.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD froze to death
+[02Jul2025 04:20:28.222] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[02Jul2025 04:20:36.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:61882] logged in with entity id 154932 at (-278.8781839881009, 92.0, 1056.1086421847656)
+[02Jul2025 04:20:36.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[02Jul2025 04:20:51.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported HEISENBERGXD to CHUCHIXD]
+[02Jul2025 04:20:55.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[02Jul2025 04:20:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[02Jul2025 04:22:34.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:61944] logged in with entity id 155333 at (-278.8781839881009, 92.0, 1056.1086421847656)
+[02Jul2025 04:22:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[02Jul2025 04:22:55.220] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[02Jul2025 04:22:55.222] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[02Jul2025 04:22:57.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD froze to death
+[02Jul2025 04:22:57.221] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[02Jul2025 04:23:07.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported HEISENBERGXD to CHUCHIXD]
+[02Jul2025 04:23:09.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[02Jul2025 04:23:13.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[02Jul2025 04:23:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[02Jul2025 04:23:18.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:64585] logged in with entity id 155616 at (-276.14935149879, 92.0, 1038.0952617876262)
+[02Jul2025 04:23:18.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[02Jul2025 04:25:13.669] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[02Jul2025 04:25:13.672] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[02Jul2025 04:25:49.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
