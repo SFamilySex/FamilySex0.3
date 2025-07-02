@@ -482,3 +482,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [02Jul2025 22:16:54.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:62947] logged in with entity id 704 at (-2221.201536935268, 67.0, 1750.4189367045908)
 [02Jul2025 22:16:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [02Jul2025 22:16:56.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[02Jul2025 23:19:12.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to elpepe: chamo?
