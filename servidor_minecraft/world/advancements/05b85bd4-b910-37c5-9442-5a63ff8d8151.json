@@ -6506,6 +6506,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-02 03:06:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
       "has_reinforced_cobblestone": "2025-07-02 00:42:19 +0000"

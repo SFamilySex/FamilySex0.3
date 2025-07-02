@@ -81,3 +81,12 @@
 [02Jul2025 02:59:44.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh froze to death
 [02Jul2025 02:59:44.229] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
 [02Jul2025 03:00:08.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported JAGlitsh to CHUCHIXD]
+[02Jul2025 03:06:01.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Voluntary Exile]
+[02Jul2025 03:06:04.526] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[02Jul2025 03:06:04.528] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[02Jul2025 03:14:01.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -8.912952873454742,-1.8838947626868219,-5.138014735052366
+[02Jul2025 03:18:35.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD moved wrongly!
+[02Jul2025 03:20:10.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[02Jul2025 03:20:10.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[02Jul2025 03:24:37.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:53737] logged in with entity id 126274 at (-2246.355720617548, 75.0, 1694.3867909676947)
+[02Jul2025 03:24:37.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
