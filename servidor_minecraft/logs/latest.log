@@ -498,3 +498,27 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [01Jul2025 23:16:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> maldito una y mil veces
 [01Jul2025 23:17:30.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Jennifer Dumped Me]
 [01Jul2025 23:18:53.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> maldito jose
+[01Jul2025 23:24:42.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Smoke On The Water]
+[01Jul2025 23:24:53.640] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[01Jul2025 23:24:53.697] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[01Jul2025 23:25:26.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[01Jul2025 23:25:26.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[01Jul2025 23:25:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[01Jul2025 23:29:13.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62805] logged in with entity id 10868 at (-300.5897594189655, 67.23152379758702, 1216.8193347070528)
+[01Jul2025 23:29:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[01Jul2025 23:29:41.778] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[01Jul2025 23:29:41.782] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[01Jul2025 23:30:04.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[01Jul2025 23:30:06.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! -1.2226744712266964,-1.0,-10.031845690077716
+[01Jul2025 23:38:03.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [A Small Price to Pay...]
+[01Jul2025 23:38:12.920] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[01Jul2025 23:38:12.935] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[01Jul2025 23:38:37.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Cachalot Whale
+[01Jul2025 23:45:26.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:55309] logged in with entity id 25515 at (-253.19011734685336, 71.0, 1169.8764913519644)
+[01Jul2025 23:45:26.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[01Jul2025 23:47:08.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[01Jul2025 23:47:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[01Jul2025 23:49:05.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:59398] logged in with entity id 27818 at (-253.73860502238435, 71.0, 1164.4359118430968)
+[01Jul2025 23:49:05.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[01Jul2025 23:52:45.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[01Jul2025 23:54:29.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
