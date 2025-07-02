@@ -3451,3 +3451,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jul2025 22:17:36.888] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] Start filter for minecraft:entity_type
 [02Jul2025 22:17:36.888] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] 	Negate: false, Tag      : #waila:extra/item_blacklist
 [02Jul2025 22:17:36.888] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] Finished in 0ms, id: 1061686028
+[02Jul2025 22:20:20.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 22:20:20.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 22:25:20.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 22:25:20.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
