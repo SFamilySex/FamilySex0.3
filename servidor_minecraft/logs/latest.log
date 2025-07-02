@@ -44,3 +44,14 @@
 [02Jul2025 00:33:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has completed the challenge [Village Defender]
 [02Jul2025 00:35:30.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -7.8346086728847695,-0.27251889079158786,-6.673237022796911
 [02Jul2025 00:35:39.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 8.06843190753807,-2.3100651179649816,-7.685845694540603
+[02Jul2025 01:06:56.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved wrongly!
+[02Jul2025 01:07:00.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved wrongly!
+[02Jul2025 01:07:38.313] [Netty Epoll Server IO #0/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/27818, l='ServerLevel[world]', x=-2237.57, y=67.00, z=1713.96] does not respect server-side emote tracking. Ignoring repeat
+[02Jul2025 01:08:33.977] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[02Jul2025 01:08:33.981] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[02Jul2025 01:14:16.129] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[02Jul2025 01:14:16.134] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[02Jul2025 01:15:56.626] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[02Jul2025 01:15:56.642] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[02Jul2025 01:19:12.531] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[02Jul2025 01:19:12.534] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
