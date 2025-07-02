@@ -72,3 +72,12 @@
 [02Jul2025 02:34:04.745] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [02Jul2025 02:52:15.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:63765] logged in with entity id 112567 at (-259.2789368448393, 65.0, 1165.2136110161646)
 [02Jul2025 02:52:15.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[02Jul2025 02:56:45.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[02Jul2025 02:57:17.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -266.500000, 64.500000, 1167.500000]
+[02Jul2025 02:58:09.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has completed the challenge [Village Defender]
+[02Jul2025 02:58:50.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[02Jul2025 02:59:42.226] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[02Jul2025 02:59:42.229] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[02Jul2025 02:59:44.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh froze to death
+[02Jul2025 02:59:44.229] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[02Jul2025 03:00:08.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported JAGlitsh to CHUCHIXD]

@@ -6530,6 +6530,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-07-02 02:58:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
     "criteria": {
       "has_block": "2025-07-02 00:42:19 +0000"
