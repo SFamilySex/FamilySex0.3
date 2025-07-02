@@ -61,3 +61,6 @@
 [02Jul2025 01:30:07.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
 [02Jul2025 01:31:25.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
 [02Jul2025 01:32:12.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[02Jul2025 02:00:32.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[02Jul2025 02:00:32.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[02Jul2025 02:00:57.141] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c0e5e45[id=<null>,name=elpepe,properties={},legacy=false] (/100.71.192.84:65123) lost connection: Disconnected
