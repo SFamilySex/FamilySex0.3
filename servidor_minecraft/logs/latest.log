@@ -55,3 +55,9 @@
 [02Jul2025 01:15:56.642] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
 [02Jul2025 01:19:12.531] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [02Jul2025 01:19:12.534] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[02Jul2025 01:25:31.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2199, y=67, z=1760} BlockPos{x=-2198, y=66, z=1760}
+[02Jul2025 01:28:57.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -6.309611408609726,-1.127890238205481,-7.861567880292569
+[02Jul2025 01:29:43.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to HEISENBERGXD]
+[02Jul2025 01:30:07.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[02Jul2025 01:31:25.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[02Jul2025 01:32:12.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
