@@ -6091,15 +6091,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/echolocator": {
+    "criteria": {
+      "echolocator": "2025-07-02 04:45:32 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/blood_sprayer": {
     "criteria": {
       "blood_sprayer": "2025-07-02 04:42:42 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-07-02 04:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-02 04:38:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2025-07-02 04:44:34 +0000"
     },
     "done": true
   },
