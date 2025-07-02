@@ -6524,6 +6524,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-07-02 02:44:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
     "criteria": {
       "has_block": "2025-07-02 00:42:19 +0000"
@@ -6572,6 +6578,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-07-02 02:44:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-07-02 02:44:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
       "has_reinforced_cobblestone": "2025-07-02 00:42:19 +0000"
@@ -6605,6 +6623,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-07-02 00:14:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-07-02 02:44:00 +0000"
     },
     "done": true
   },
