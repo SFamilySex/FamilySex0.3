@@ -6086,3 +6086,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jul2025 23:28:01.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jul2025 23:30:52.524] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [03Jul2025 23:30:52.526] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:31:43.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was doomed to fall by Umvuthana
+[03Jul2025 23:31:43.876] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2691, y:60, z:1703, dim:minecraft:overworld]
+[03Jul2025 23:31:52.584] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751585512584
+[03Jul2025 23:33:01.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:33:01.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 23:38:01.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:38:01.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 23:38:15.172] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:38:15.174] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:38:22.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[03Jul2025 23:38:22.176] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2690, y:72, z:1641, dim:minecraft:overworld]
+[03Jul2025 23:38:23.981] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751585903981
+[03Jul2025 23:39:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Birds of a Feather]
+[03Jul2025 23:39:57.423] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:39:57.426] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:40:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Umvuthi, the Sunbird
+[03Jul2025 23:40:19.851] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2675, y:64, z:1686, dim:minecraft:overworld]
+[03Jul2025 23:40:22.376] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751586022361

@@ -866,3 +866,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 23:27:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
 [03Jul2025 23:30:52.524] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [03Jul2025 23:30:52.526] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:31:43.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was doomed to fall by Umvuthana
+[03Jul2025 23:38:15.172] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:38:15.174] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:38:22.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[03Jul2025 23:39:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Birds of a Feather]
+[03Jul2025 23:39:57.423] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:39:57.426] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:40:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Umvuthi, the Sunbird
