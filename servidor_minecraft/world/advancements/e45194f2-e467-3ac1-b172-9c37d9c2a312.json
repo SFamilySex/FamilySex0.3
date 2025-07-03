@@ -5575,6 +5575,12 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-07-03 23:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mangrove_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-03 23:22:10 +0000"

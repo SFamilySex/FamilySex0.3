@@ -6104,3 +6104,54 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jul2025 23:40:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Umvuthi, the Sunbird
 [03Jul2025 23:40:19.851] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2675, y:64, z:1686, dim:minecraft:overworld]
 [03Jul2025 23:40:22.376] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751586022361
+[03Jul2025 23:42:44.525] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:42:44.527] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:43:01.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:43:01.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 23:43:05.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[03Jul2025 23:43:05.145] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2694, y:70, z:1657, dim:minecraft:overworld]
+[03Jul2025 23:43:06.784] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751586186784
+[03Jul2025 23:43:22.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gmg18 lost connection: Disconnected
+[03Jul2025 23:43:22.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 left the game
+[03Jul2025 23:45:08.953] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[03Jul2025 23:45:08.964] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[03Jul2025 23:45:09.015] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[03Jul2025 23:45:09.040] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[03Jul2025 23:45:09.041] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[03Jul2025 23:45:09.047] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@731e767d[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58852): Unexpected custom data from client
+[03Jul2025 23:45:09.065] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@731e767d[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58852) lost connection: Unexpected custom data from client
+[03Jul2025 23:46:46.398] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[03Jul2025 23:46:46.415] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[03Jul2025 23:46:46.465] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[03Jul2025 23:46:46.487] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[03Jul2025 23:46:46.487] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[03Jul2025 23:46:46.487] [Netty Epoll Server IO #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3489ab3c[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58869): Unexpected custom data from client
+[03Jul2025 23:46:46.515] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3489ab3c[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58869) lost connection: Unexpected custom data from client
+[03Jul2025 23:47:19.366] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:47:19.368] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:47:38.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[03Jul2025 23:47:38.618] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2719, y:66, z:1674, dim:minecraft:overworld]
+[03Jul2025 23:47:40.425] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751586460424
+[03Jul2025 23:47:47.795] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[03Jul2025 23:47:47.814] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[03Jul2025 23:47:47.865] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[03Jul2025 23:47:47.885] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[03Jul2025 23:47:47.886] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[03Jul2025 23:47:47.886] [Netty Epoll Server IO #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@16eee8f4[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58881): Unexpected custom data from client
+[03Jul2025 23:47:47.916] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16eee8f4[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58881) lost connection: Unexpected custom data from client
+[03Jul2025 23:47:53.611] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[03Jul2025 23:47:53.614] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[03Jul2025 23:47:53.663] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[03Jul2025 23:47:53.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[03Jul2025 23:47:53.687] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[03Jul2025 23:47:53.687] [Netty Epoll Server IO #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@79bfcfc3[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58887): Unexpected custom data from client
+[03Jul2025 23:47:53.716] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79bfcfc3[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58887) lost connection: Unexpected custom data from client
+[03Jul2025 23:47:58.167] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[03Jul2025 23:47:58.215] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[03Jul2025 23:47:58.266] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[03Jul2025 23:47:58.287] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[03Jul2025 23:47:58.287] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[03Jul2025 23:47:58.287] [Netty Epoll Server IO #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5057467a[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58888): Unexpected custom data from client
+[03Jul2025 23:47:58.314] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5057467a[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58888) lost connection: Unexpected custom data from client
+[03Jul2025 23:48:01.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:48:01.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
