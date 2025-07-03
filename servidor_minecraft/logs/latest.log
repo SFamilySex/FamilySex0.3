@@ -850,3 +850,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 23:04:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by Spider
 [03Jul2025 23:05:57.923] [Worker-Main-208/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
 [03Jul2025 23:06:05.291] [Worker-Main-208/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[03Jul2025 23:12:37.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[03Jul2025 23:12:37.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Jul2025 23:13:04.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:64275] logged in with entity id 99224 at (-2497.9432834665026, 68.0, 1561.9948230257721)
+[03Jul2025 23:13:04.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Jul2025 23:13:15.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[03Jul2025 23:13:15.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Jul2025 23:14:59.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:64284] logged in with entity id 99777 at (-2497.9432834665026, 68.0, 1561.9948230257721)
+[03Jul2025 23:14:59.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
