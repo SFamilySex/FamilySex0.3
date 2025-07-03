@@ -1659,3 +1659,43 @@
 [03Jul2025 02:22:30.776] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
 [03Jul2025 02:22:48.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
 [03Jul2025 02:22:54.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIxXD to JAGlitsh]
+[03Jul2025 02:23:52.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIxXD lost connection: Disconnected
+[03Jul2025 02:23:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD left the game
+[03Jul2025 02:26:01.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:59770] logged in with entity id 105471 at (-287.75841708158924, 92.0, 1043.6223914439486)
+[03Jul2025 02:26:01.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[03Jul2025 02:26:25.359] [Server thread/INFO] [Easy NPC/]: Opening menu 52bebf3f-ee4b-466d-9195-6544a55d9f43 for npc ebe6c2cc-fe28-4a5d-8e55-ca9a3eb73d3b and player ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-288.79, y=92.00, z=1041.45] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[???]}]
+[03Jul2025 02:26:27.438] [Server thread/INFO] [Easy NPC/]: Opening menu d1a24743-060b-4a88-9ef3-04c2f35d3e73 for npc ebe6c2cc-fe28-4a5d-8e55-ca9a3eb73d3b and player ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-288.79, y=92.00, z=1041.45] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[???]}]
+[03Jul2025 02:26:29.562] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC HumanoidSlim['???'/103080, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50] requested by ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-288.79, y=92.00, z=1041.45]
+[03Jul2025 02:26:31.721] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/105831, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:26:31.722] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/105831, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 02:26:31.722] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/105831, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 02:26:34.010] [Server thread/INFO] [Easy NPC/]: Opening menu ab49bf6b-98f6-400f-a7dd-5be644297e49 for npc cba7da4c-0861-4eda-bb8b-c6516193b0a3 and player ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-289.07, y=92.00, z=1042.02] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[skeleton demonia]}]
+[03Jul2025 02:26:35.764] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Skeleton['skeleton demoniaco'/105831, l='ServerLevel[world]', x=-288.50, y=91.00, z=1040.50] requested by ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-289.07, y=92.00, z=1042.02]
+[03Jul2025 02:26:36.868] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/105874, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:26:36.869] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/105874, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 02:26:36.869] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/105874, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 02:26:39.107] [Server thread/INFO] [Easy NPC/]: Opening menu 7043a31e-40f5-41cf-b943-78366011ea35 for npc 383242e1-51e7-4836-b628-4ac0b80cbee6 and player ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-289.07, y=92.00, z=1042.02] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Skeleton demonio]}]
+[03Jul2025 02:26:40.512] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Skeleton['Skeleton demonio arquero'/105874, l='ServerLevel[world]', x=-288.50, y=91.00, z=1040.50] requested by ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-289.07, y=92.00, z=1042.02]
+[03Jul2025 02:27:06.818] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/106190, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:27:06.818] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/106190, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 02:27:06.819] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/106190, l='ServerLevel[world]', x=-2179.50, y=63.00, z=1749.50].
+[03Jul2025 02:27:09.406] [Server thread/INFO] [Easy NPC/]: Opening menu 9a41a865-45f6-401d-aa23-33ecc92289b7 for npc 2245fb2d-fde9-4013-a92a-ed6d52dbe165 and player ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-288.78, y=92.00, z=1042.52] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[03Jul2025 02:28:41.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[03Jul2025 02:28:41.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[03Jul2025 02:30:48.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2248.500000, 67.500000, 1677.500000]
+[03Jul2025 02:31:09.871] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 02:31:09.875] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 02:31:19.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[03Jul2025 02:31:19.659] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 02:31:38.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 02:33:34.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Jul2025 02:34:09.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -286.500000, 64.500000, 1241.500000]
+[03Jul2025 02:34:10.464] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/109518, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:34:10.464] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/109518, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 02:34:10.464] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/109518, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[03Jul2025 02:34:11.073] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/109568, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:34:11.074] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/109568, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 02:34:11.074] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/109568, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50].
+[03Jul2025 02:35:25.552] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/110589, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:35:25.553] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/110589, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 02:35:25.553] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/110589, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50].
