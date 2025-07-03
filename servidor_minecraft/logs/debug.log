@@ -11688,3 +11688,12 @@ io.netty.handler.codec.EncoderException: String too big (was 1970482 characters,
 [03Jul2025 05:22:09.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
 [03Jul2025 05:25:20.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jul2025 05:25:20.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:28:35.996] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 05:28:35.998] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 05:28:44.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 05:30:20.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 05:30:20.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:31:56.093] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 05:31:56.096] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 05:35:20.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 05:35:20.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
