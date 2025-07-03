@@ -7496,5 +7496,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-07-03 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2025-07-03 00:25:24 +0000",
+      "tunic": "2025-07-03 00:25:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
