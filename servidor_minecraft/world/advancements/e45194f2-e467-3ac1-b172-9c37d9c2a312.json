@@ -40,11 +40,15 @@
       "minecraft:lukewarm_ocean": "2025-06-24 23:18:10 +0000",
       "minecraft:stony_shore": "2025-06-24 23:04:35 +0000",
       "minecraft:snowy_plains": "2025-07-03 21:13:11 +0000",
+      "minecraft:snowy_taiga": "2025-07-03 21:19:33 +0000",
       "minecraft:forest": "2025-06-23 23:17:14 +0000",
       "minecraft:lush_caves": "2025-06-24 02:54:48 +0000",
+      "minecraft:frozen_ocean": "2025-07-03 21:20:36 +0000",
       "minecraft:desert": "2025-06-23 03:36:00 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-03 21:22:13 +0000",
       "minecraft:jungle": "2025-06-24 23:35:46 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-03 20:47:01 +0000",
+      "minecraft:snowy_beach": "2025-07-03 21:20:24 +0000",
       "minecraft:warm_ocean": "2025-06-24 23:05:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-24 23:10:18 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-03 21:15:23 +0000",
@@ -877,6 +881,7 @@
       "minecraft:skeleton": "2025-06-23 05:21:35 +0000",
       "minecraft:ravager": "2025-06-24 02:02:19 +0000",
       "minecraft:hoglin": "2025-06-23 03:28:40 +0000",
+      "minecraft:guardian": "2025-07-03 21:36:06 +0000",
       "minecraft:spider": "2025-06-23 03:30:44 +0000",
       "minecraft:creeper": "2025-06-24 02:02:43 +0000",
       "minecraft:phantom": "2025-07-02 01:33:53 +0000",
@@ -5429,6 +5434,18 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-07-03 21:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-03 21:26:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-03 21:29:27 +0000"
     },
     "done": true
   },
