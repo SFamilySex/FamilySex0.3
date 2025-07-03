@@ -5000,5 +5000,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-07-03 00:37:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2025-07-03 00:37:33 +0000",
+      "tunic": "2025-07-03 00:37:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

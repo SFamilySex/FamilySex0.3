@@ -7496,6 +7496,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-07-03 00:30:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
       "coded_trigger": "2025-07-03 00:24:04 +0000"
