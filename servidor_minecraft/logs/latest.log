@@ -833,3 +833,20 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 22:22:25.864] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [03Jul2025 22:22:25.866] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [03Jul2025 22:25:23.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Ashes 'n Bones]
+[03Jul2025 22:33:08.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Gone Bananas!]
+[03Jul2025 22:38:36.797] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 22:38:36.798] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 22:41:43.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Isn't It Iron Pick]
+[03Jul2025 22:49:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Alex's Caves]
+[03Jul2025 22:49:52.116] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 22:49:52.117] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 22:49:57.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 drowned
+[03Jul2025 22:49:57.526] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 22:50:26.867] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 22:50:26.869] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 22:56:58.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Knowledge raises the soul]
+[03Jul2025 23:03:48.616] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 23:03:48.622] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 23:04:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by Spider
+[03Jul2025 23:05:57.923] [Worker-Main-208/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[03Jul2025 23:06:05.291] [Worker-Main-208/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}

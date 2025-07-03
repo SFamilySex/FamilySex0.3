@@ -5634,3 +5634,43 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jul2025 22:25:23.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Ashes 'n Bones]
 [03Jul2025 22:28:01.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jul2025 22:28:01.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 22:33:01.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 22:33:01.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 22:33:08.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Gone Bananas!]
+[03Jul2025 22:38:01.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 22:38:01.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 22:38:36.797] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 22:38:36.798] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 22:41:43.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Isn't It Iron Pick]
+[03Jul2025 22:43:01.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 22:43:01.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 22:48:01.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 22:48:01.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 22:49:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Alex's Caves]
+[03Jul2025 22:49:52.116] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 22:49:52.117] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 22:49:57.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 drowned
+[03Jul2025 22:49:57.525] [Server thread/DEBUG] [tombstone/]: A new grave of the player gmg18 was created at position [x:-2131, y:59, z:1775, dim:minecraft:overworld]
+[03Jul2025 22:49:57.526] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 22:50:05.850] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751583005850
+[03Jul2025 22:50:26.867] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 22:50:26.869] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 22:53:01.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 22:53:01.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 22:53:21.253] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: ca97fd61-e99e-32a9-8374-dbb1191c1009 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[03Jul2025 22:53:37.045] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: ca97fd61-e99e-32a9-8374-dbb1191c1009 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[03Jul2025 22:56:18.447] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: ca97fd61-e99e-32a9-8374-dbb1191c1009 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[03Jul2025 22:56:58.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Knowledge raises the soul]
+[03Jul2025 22:58:01.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 22:58:01.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 23:03:01.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:03:01.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 23:03:48.616] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 23:03:48.622] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 23:04:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by Spider
+[03Jul2025 23:04:48.955] [Server thread/DEBUG] [tombstone/]: A new grave of the player gmg18 was created at position [x:-2126, y:68, z:1740, dim:minecraft:overworld]
+[03Jul2025 23:05:02.750] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751583902750
+[03Jul2025 23:05:57.923] [Worker-Main-208/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[03Jul2025 23:06:05.291] [Worker-Main-208/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[03Jul2025 23:08:01.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:08:01.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
