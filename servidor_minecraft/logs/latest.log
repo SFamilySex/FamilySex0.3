@@ -652,3 +652,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 20:13:03.282] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [03Jul2025 20:13:16.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
 [03Jul2025 20:13:57.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Where Is The Stone Pen?]
+[03Jul2025 20:18:31.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:22:02.621] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:22:02.632] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:22:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:24:33.223] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:24:33.226] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:24:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2178.500000, 63.500000, 1751.500000]
+[03Jul2025 20:24:53.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2237.500000, 67.500000, 1721.500000]
+[03Jul2025 20:25:33.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Area Effect Cloud using magic
+[03Jul2025 20:26:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:26:45.916] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:26:45.928] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:27:17.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2236.500000, 67.500000, 1719.500000]

@@ -4242,3 +4242,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jul2025 20:13:57.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Where Is The Stone Pen?]
 [03Jul2025 20:17:56.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jul2025 20:17:57.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 20:18:31.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:22:02.621] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:22:02.632] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:22:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:22:56.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 20:22:56.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 20:24:33.223] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:24:33.226] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:24:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2178.500000, 63.500000, 1751.500000]
+[03Jul2025 20:24:53.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2237.500000, 67.500000, 1721.500000]
+[03Jul2025 20:25:33.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Area Effect Cloud using magic
+[03Jul2025 20:25:33.181] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2680, y:82, z:3910, dim:minecraft:overworld]
+[03Jul2025 20:25:34.753] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751574334744
+[03Jul2025 20:26:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:26:45.916] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:26:45.928] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:27:17.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2236.500000, 67.500000, 1719.500000]
+[03Jul2025 20:27:56.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 20:27:57.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
