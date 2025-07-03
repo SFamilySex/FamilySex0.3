@@ -6735,15 +6735,63 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-07-03 21:47:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-07-03 21:32:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-03 21:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-03 21:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-07-03 21:46:52 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-07-03 21:26:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-07-03 21:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-07-03 21:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-07-03 21:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-03 21:46:49 +0000"
     },
     "done": true
   },
@@ -6756,6 +6804,24 @@
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-07-03 21:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-07-03 21:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-07-03 21:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-07-03 21:46:52 +0000"
     },
     "done": true
   },
@@ -6774,6 +6840,12 @@
   "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
       "discover": "2025-07-03 21:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-07-03 21:46:49 +0000"
     },
     "done": true
   },

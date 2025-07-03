@@ -755,3 +755,21 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 21:31:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
 [03Jul2025 21:31:38.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
 [03Jul2025 21:35:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 21:41:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [A little cleaning is necessary]
+[03Jul2025 21:43:03.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 21:44:42.812] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 21:44:42.822] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 21:44:51.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 21:45:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has completed the challenge [Free Willy]
+[03Jul2025 21:46:06.710] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[03Jul2025 21:46:06.727] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[03Jul2025 21:46:14.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 21:46:20.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has completed the challenge [Almost Unkillable]
+[03Jul2025 21:46:20.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD drowned
+[03Jul2025 21:46:23.519] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[03Jul2025 21:46:25.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4214ms or 84 ticks behind
+[03Jul2025 21:46:35.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 21:47:00.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has completed the challenge [Free Willy]
+[03Jul2025 21:47:20.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
+[03Jul2025 21:48:31.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Spectator Mode]
+[03Jul2025 21:49:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
