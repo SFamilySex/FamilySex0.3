@@ -773,3 +773,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 21:47:20.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
 [03Jul2025 21:48:31.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Spectator Mode]
 [03Jul2025 21:49:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
+[03Jul2025 21:50:53.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD moved too quickly! -5.908913060728082,-0.6141873085101182,8.225081129308819
+[03Jul2025 21:52:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -6157.500000, 67.500000, 2409.500000]
+[03Jul2025 21:52:23.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 21:52:27.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Survival Mode]
+[03Jul2025 21:52:32.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gmg18[/100.82.206.85:57265] logged in with entity id 75876 at (-2156.3859259076526, 78.5625, 1751.0941444363282)
+[03Jul2025 21:52:32.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 joined the game
+[03Jul2025 21:52:38.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 21:55:32.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 21:55:33.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Opposites Attract]
+[03Jul2025 21:57:57.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Push and Pull]
+[03Jul2025 21:58:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Push and Pull]
+[03Jul2025 21:59:58.897] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[03Jul2025 21:59:58.909] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
