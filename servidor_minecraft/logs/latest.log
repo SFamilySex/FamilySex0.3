@@ -175,3 +175,31 @@
 [03Jul2025 00:10:32.526] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/30276, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
 [03Jul2025 00:10:32.526] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/30276, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
 [03Jul2025 00:10:32.527] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/30276, l='ServerLevel[world]', x=-2262.50, y=63.00, z=1776.50].
+[03Jul2025 00:10:40.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49814] logged in with entity id 30348 at (-256.87434048051415, 66.0, 1166.0491248867536)
+[03Jul2025 00:10:40.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[03Jul2025 00:10:41.007] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 00:10:41.010] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 00:10:51.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[03Jul2025 00:10:51.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[03Jul2025 00:11:07.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Skeleton demonio arquero
+[03Jul2025 00:11:26.350] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-07-03 at /workspaces/FamilySex0.3/servidor_minecraft/easy_npc/backup ...
+[03Jul2025 00:11:54.047] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 00:11:54.049] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 00:12:50.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Skeleton demonio arquero
+[03Jul2025 00:12:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to gmg18]
+[03Jul2025 00:13:41.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:52891] logged in with entity id 32071 at (-256.87434048051415, 66.0, 1166.0491248867536)
+[03Jul2025 00:13:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[03Jul2025 00:14:15.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> p
+[03Jul2025 00:14:20.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> XD
+[03Jul2025 00:14:28.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> siuuuuuuuu
+[03Jul2025 00:14:36.915] [Server thread/INFO] [Easy NPC/]: Opening menu 28c774bc-c9e3-4b53-8588-b4070c808d0a for npc 9980e2bc-4424-47fd-b9d2-d85ba968b671 and player ServerPlayer['Misterchuwa'/32071, l='ServerLevel[world]', x=-264.68, y=64.00, z=1165.03] with DialogMenuHandler{displayName=literal{???}[style={color=#FF00FF}]}
+[03Jul2025 00:14:37.068] [Server thread/INFO] [Easy NPC/]: Opening menu 109aedf2-3dfa-45d5-8720-1689501662bf for npc 9980e2bc-4424-47fd-b9d2-d85ba968b671 and player ServerPlayer['Misterchuwa'/32071, l='ServerLevel[world]', x=-264.68, y=64.00, z=1165.03] with DialogMenuHandler{displayName=literal{???}[style={color=#FF00FF}]}
+[03Jul2025 00:14:50.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> p
+[03Jul2025 00:15:06.723] [Server thread/INFO] [Easy NPC/]: Opening menu 82737e60-d623-4774-b4f1-f554921825a4 for npc 9980e2bc-4424-47fd-b9d2-d85ba968b671 and player ServerPlayer['Misterchuwa'/32071, l='ServerLevel[world]', x=-264.62, y=64.00, z=1164.53] with DialogMenuHandler{displayName=literal{???}[style={color=#FF00FF}]}
+[03Jul2025 00:15:19.418] [Server thread/INFO] [Easy NPC/]: Opening menu 09a65048-fb41-47c3-a69b-c68c1868c6e9 for npc 9980e2bc-4424-47fd-b9d2-d85ba968b671 and player ServerPlayer['Misterchuwa'/32071, l='ServerLevel[world]', x=-264.63, y=64.00, z=1164.75] with DialogMenuHandler{displayName=literal{???}[style={color=#FF00FF}]}
+[03Jul2025 00:15:51.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/29836, l='ServerLevel[world]', x=-2173.50, y=61.07, z=1754.36] died: Skeleton demonio arquero was shot by elpepe
+[03Jul2025 00:17:17.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 00:20:08.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gmg18 lost connection: Disconnected
+[03Jul2025 00:20:08.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 left the game
+[03Jul2025 00:20:42.204] [Server thread/INFO] [Easy NPC/]: Opening menu 90f27b03-f9b3-40b7-afb9-16f24e665a43 for npc 21ae82bd-e377-4d85-b68e-076683bed329 and player ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2220.11, y=67.48, z=1730.64] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Skeleton demonio]}]
+[03Jul2025 00:20:45.326] [Server thread/INFO] [Easy NPC/]: Opening menu 9a662938-19fb-4c7a-afa1-2cda575c5f90 for npc 21ae82bd-e377-4d85-b68e-076683bed329 and player ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2220.15, y=67.48, z=1731.04] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Skeleton demonio]}]
