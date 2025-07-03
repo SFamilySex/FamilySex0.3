@@ -1699,3 +1699,24 @@
 [03Jul2025 02:35:25.552] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/110589, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
 [03Jul2025 02:35:25.553] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/110589, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
 [03Jul2025 02:35:25.553] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/110589, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50].
+[03Jul2025 02:43:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to CHUCHIXD]
+[03Jul2025 02:46:31.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 02:46:49.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Jul2025 02:47:59.599] [Server thread/INFO] [Easy NPC/]: Opening menu 82a63b39-0a65-4939-8677-9e4f9800a333 for npc 51dced4c-d9d0-48a8-b81d-58b2ff6624eb and player ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-2179.25, y=63.00, z=1750.23] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[03Jul2025 02:48:01.110] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC HumanoidSlim['entity.easy_npc.humanoid_slim'/103230, l='ServerLevel[world]', x=-2179.50, y=63.00, z=1749.50] requested by ServerPlayer['CHUCHIXD'/105471, l='ServerLevel[world]', x=-2179.25, y=63.00, z=1750.23]
+[03Jul2025 02:49:11.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -264.500000, 67.500000, 1133.500000]
+[03Jul2025 02:49:11.970] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/114161, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:49:11.970] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/114161, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 02:49:11.970] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/114161, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50].
+[03Jul2025 02:49:12.409] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/114215, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:49:12.410] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/114215, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 02:49:12.410] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/114215, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[03Jul2025 02:53:18.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to JAGlitsh]
+[03Jul2025 02:57:55.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 03:09:04.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to JAGlitsh]
+[03Jul2025 03:09:18.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2370.500000, 134.500000, 1437.500000]
+[03Jul2025 03:09:46.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[03Jul2025 03:09:46.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[03Jul2025 03:09:52.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:63771] logged in with entity id 121609 at (-2373.0543801834497, 69.04834891809814, 1422.9791462693795)
+[03Jul2025 03:09:52.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[03Jul2025 03:11:29.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported JAGlitsh to CHUCHIXD]
