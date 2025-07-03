@@ -611,3 +611,44 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 19:39:24.042] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/14551, l='ServerLevel[world]', x=-2242.64, y=63.00, z=1827.91].
 [03Jul2025 19:40:47.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:59025] logged in with entity id 14804 at (-2250.057476071107, 75.0, 1702.453606317255)
 [03Jul2025 19:40:47.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[03Jul2025 19:49:14.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2758.500000, 156.500000, 3964.500000]
+[03Jul2025 19:49:14.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[03Jul2025 19:49:25.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 19:50:04.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 19:50:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 19:53:42.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2178.500000, 63.500000, 1751.500000]
+[03Jul2025 19:54:00.575] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 19:54:00.583] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 19:55:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[03Jul2025 19:55:34.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 19:57:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 19:58:08.015] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 19:58:08.033] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 19:58:19.019] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 19:58:19.030] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 19:58:24.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2178.500000, 63.500000, 1751.500000]
+[03Jul2025 19:59:07.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by skeleton demoniaco
+[03Jul2025 19:59:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[03Jul2025 20:00:27.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to gmg18]
+[03Jul2025 20:00:34.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/14507, l='ServerLevel[world]', x=-2244.44, y=63.00, z=1768.32] died: skeleton demoniaco was slain by CHUCHIXD
+[03Jul2025 20:00:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:01:43.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gmg18> oooeaaaaa
+[03Jul2025 20:02:08.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 20:04:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:04:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:07:40.054] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:07:40.056] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:07:40.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:08:40.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2245.500000, 58.500000, 1724.500000]
+[03Jul2025 20:10:56.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/14535, l='ServerLevel[world]', x=-2245.44, y=64.00, z=1794.49] died: skeleton demoniaco froze to death
+[03Jul2025 20:10:58.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/14536, l='ServerLevel[world]', x=-2240.70, y=63.00, z=1794.70] died: skeleton demoniaco froze to death
+[03Jul2025 20:11:00.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/14534, l='ServerLevel[world]', x=-2238.59, y=63.00, z=1790.57] died: skeleton demoniaco froze to death
+[03Jul2025 20:11:24.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/14551, l='ServerLevel[world]', x=-2237.64, y=63.78, z=1797.64] died: Skeleton demonio arquero froze to death
+[03Jul2025 20:12:22.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Diamonds!]
+[03Jul2025 20:12:58.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:13:00.681] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:13:00.683] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:13:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by CHUCHIXD using magic
+[03Jul2025 20:13:03.282] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:13:16.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:13:57.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Where Is The Stone Pen?]

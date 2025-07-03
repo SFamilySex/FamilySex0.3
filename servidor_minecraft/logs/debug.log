@@ -4176,3 +4176,69 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jul2025 19:40:47.419] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751571647419
 [03Jul2025 19:42:54.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jul2025 19:42:54.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 19:47:54.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 19:47:54.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 19:49:14.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2758.500000, 156.500000, 3964.500000]
+[03Jul2025 19:49:14.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[03Jul2025 19:49:25.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 19:50:04.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 19:50:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 19:52:56.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 19:52:57.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 19:53:42.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2178.500000, 63.500000, 1751.500000]
+[03Jul2025 19:54:00.575] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 19:54:00.583] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 19:55:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[03Jul2025 19:55:00.528] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2778, y:138, z:3915, dim:minecraft:overworld]
+[03Jul2025 19:55:03.169] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751572503156
+[03Jul2025 19:55:34.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 19:56:42.949] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Jul2025 19:56:43.553] [Worker-Main-68/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03Jul2025 19:56:43.555] [Worker-Main-68/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03Jul2025 19:57:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 19:57:56.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 19:57:57.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 19:58:08.015] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 19:58:08.033] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 19:58:19.019] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 19:58:19.030] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 19:58:24.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2178.500000, 63.500000, 1751.500000]
+[03Jul2025 19:59:07.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by skeleton demoniaco
+[03Jul2025 19:59:08.496] [Server thread/DEBUG] [tombstone/]: A new grave of the player gmg18 was created at position [x:-2246, y:63, z:1765, dim:minecraft:overworld]
+[03Jul2025 19:59:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[03Jul2025 19:59:08.650] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2795, y:138, z:3917, dim:minecraft:overworld]
+[03Jul2025 19:59:10.681] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751572750681
+[03Jul2025 20:00:27.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to gmg18]
+[03Jul2025 20:00:34.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/14507, l='ServerLevel[world]', x=-2244.44, y=63.00, z=1768.32] died: skeleton demoniaco was slain by CHUCHIXD
+[03Jul2025 20:00:36.485] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751572836483
+[03Jul2025 20:00:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:01:43.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gmg18> oooeaaaaa
+[03Jul2025 20:02:08.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 20:02:56.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 20:02:56.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 20:04:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:04:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:07:40.054] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:07:40.056] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:07:40.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:07:56.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 20:07:56.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 20:08:40.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2245.500000, 58.500000, 1724.500000]
+[03Jul2025 20:10:56.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/14535, l='ServerLevel[world]', x=-2245.44, y=64.00, z=1794.49] died: skeleton demoniaco froze to death
+[03Jul2025 20:10:58.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/14536, l='ServerLevel[world]', x=-2240.70, y=63.00, z=1794.70] died: skeleton demoniaco froze to death
+[03Jul2025 20:11:00.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/14534, l='ServerLevel[world]', x=-2238.59, y=63.00, z=1790.57] died: skeleton demoniaco froze to death
+[03Jul2025 20:11:24.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/14551, l='ServerLevel[world]', x=-2237.64, y=63.78, z=1797.64] died: Skeleton demonio arquero froze to death
+[03Jul2025 20:12:22.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Diamonds!]
+[03Jul2025 20:12:56.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 20:12:57.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 20:12:58.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:13:00.681] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 20:13:00.683] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:13:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by CHUCHIXD using magic
+[03Jul2025 20:13:03.279] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2752, y:150, z:3867, dim:minecraft:overworld]
+[03Jul2025 20:13:03.282] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 20:13:08.151] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751573588147
+[03Jul2025 20:13:16.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:13:57.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Where Is The Stone Pen?]
+[03Jul2025 20:17:56.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 20:17:57.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
