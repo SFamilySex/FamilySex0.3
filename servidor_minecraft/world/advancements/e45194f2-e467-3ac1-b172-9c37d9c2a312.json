@@ -695,6 +695,7 @@
       "beef": "2025-07-01 21:38:55 +0000",
       "porkchop": "2025-06-23 23:04:25 +0000",
       "apple": "2025-06-23 03:56:12 +0000",
+      "potato": "2025-07-02 23:52:10 +0000",
       "pumpkin_pie": "2025-06-23 23:25:27 +0000",
       "bread": "2025-06-23 03:44:35 +0000",
       "golden_apple": "2025-06-23 03:47:04 +0000",
@@ -4813,6 +4814,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-02 22:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-02 22:39:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
       "has_reinforced_cobblestone": "2025-07-02 22:48:41 +0000"
@@ -4825,45 +4838,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
-    "criteria": {
-      "has_block": "2025-07-02 22:50:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
     "criteria": {
       "has_block": "2025-07-02 22:48:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
-    "criteria": {
-      "has_reinforced_stone": "2025-07-02 22:50:48 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
-    "criteria": {
-      "has_block": "2025-07-02 22:50:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
     },
     "done": true
   },
@@ -4873,27 +4850,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_stone_button": {
-    "criteria": {
-      "has_block": "2025-07-02 22:50:48 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_stone": {
     "criteria": {
       "has_item": "2025-07-02 22:48:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
-    "criteria": {
-      "has_block": "2025-07-02 22:50:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-07-02 22:39:45 +0000"
     },
     "done": true
   },
@@ -4915,15 +4874,57 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-07-02 22:48:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-07-02 22:48:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-07-02 22:48:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-07-02 22:50:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-07-02 22:50:48 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/inventory_scanner": {
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
     "criteria": {
-      "has_stone": "2025-07-02 22:48:41 +0000"
+      "has_block": "2025-07-02 22:50:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-07-02 22:50:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-07-02 22:50:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-02 22:50:48 +0000"
     },
     "done": true
   },
@@ -4945,12 +4946,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
-    "criteria": {
-      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-07-02 22:50:48 +0000"
@@ -4963,27 +4958,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobblestone": "2025-07-02 22:48:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-07-02 22:50:48 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_lever": {
-    "criteria": {
-      "has_cobble": "2025-07-02 22:48:41 +0000"
     },
     "done": true
   },
@@ -4993,9 +4970,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_iron_block": "2025-07-02 22:39:45 +0000"
+      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-07-02 23:00:40 +0000"
     },
     "done": true
   },
