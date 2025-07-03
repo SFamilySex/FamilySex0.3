@@ -703,3 +703,39 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 20:56:33.808] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
 [03Jul2025 20:56:33.808] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
 [03Jul2025 20:56:33.820] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[03Jul2025 20:59:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 21:00:07.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Alex's Caves]
+[03Jul2025 21:02:54.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 21:04:58.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 21:05:21.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[03Jul2025 21:05:21.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[03Jul2025 21:06:54.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:59419] logged in with entity id 50561 at (-5267.251593114127, 65.02442408821369, 5990.300000011921)
+[03Jul2025 21:06:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[03Jul2025 21:07:09.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set own game mode to Creative Mode]
+[03Jul2025 21:08:08.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[03Jul2025 21:08:08.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[03Jul2025 21:08:42.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[03Jul2025 21:08:42.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Jul2025 21:09:10.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:59455] logged in with entity id 51973 at (-5189.428367995005, 81.68292499472547, 5888.403640391777)
+[03Jul2025 21:09:10.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[03Jul2025 21:09:18.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[03Jul2025 21:09:18.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[03Jul2025 21:10:23.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:65109] logged in with entity id 52347 at (-5189.428367995005, 81.68292499472547, 5888.403640391777)
+[03Jul2025 21:10:23.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[03Jul2025 21:10:38.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:63543] logged in with entity id 52926 at (-5029.553449642658, 63.0, 5672.297768985326)
+[03Jul2025 21:10:38.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Jul2025 21:11:32.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[03Jul2025 21:11:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Jul2025 21:13:10.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:63598] logged in with entity id 54601 at (-5063.69772890794, 65.41999998688698, 5666.22120313599)
+[03Jul2025 21:13:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Jul2025 21:13:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 21:14:15.764] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[03Jul2025 21:14:15.765] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[03Jul2025 21:14:16.297] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[03Jul2025 21:14:28.198] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jul2025 21:14:28.199] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jul2025 21:17:26.888] [Worker-Main-140/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[03Jul2025 21:17:26.933] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[03Jul2025 21:17:26.933] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[03Jul2025 21:17:29.940] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[03Jul2025 21:17:29.940] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}

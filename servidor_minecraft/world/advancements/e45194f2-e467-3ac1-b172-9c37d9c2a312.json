@@ -29,6 +29,7 @@
       "minecraft:taiga": "2025-07-03 20:45:04 +0000",
       "minecraft:eroded_badlands": "2025-06-24 02:45:03 +0000",
       "minecraft:frozen_river": "2025-07-03 20:54:03 +0000",
+      "minecraft:windswept_hills": "2025-07-03 21:15:53 +0000",
       "minecraft:wooded_badlands": "2025-06-23 04:02:16 +0000",
       "minecraft:badlands": "2025-06-23 03:05:11 +0000",
       "minecraft:beach": "2025-06-23 23:17:17 +0000",
@@ -38,6 +39,7 @@
       "minecraft:river": "2025-06-23 03:36:17 +0000",
       "minecraft:lukewarm_ocean": "2025-06-24 23:18:10 +0000",
       "minecraft:stony_shore": "2025-06-24 23:04:35 +0000",
+      "minecraft:snowy_plains": "2025-07-03 21:13:11 +0000",
       "minecraft:forest": "2025-06-23 23:17:14 +0000",
       "minecraft:lush_caves": "2025-06-24 02:54:48 +0000",
       "minecraft:desert": "2025-06-23 03:36:00 +0000",
@@ -45,6 +47,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-07-03 20:47:01 +0000",
       "minecraft:warm_ocean": "2025-06-24 23:05:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-24 23:10:18 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-03 21:15:23 +0000",
       "minecraft:savanna": "2025-07-03 04:34:09 +0000",
       "minecraft:plains": "2025-06-23 23:19:09 +0000"
     },
@@ -5315,63 +5318,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-03 20:08:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-07-03 20:36:44 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-07-03 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-03 20:08:44 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/skyroot_beehive": {
     "criteria": {
       "has_honeycomb": "2025-07-03 20:01:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-07-03 20:40:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
     },
     "done": true
   },
@@ -5381,27 +5330,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
+      "has_honeycomb": "2025-07-03 20:01:48 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_magic_tablet": "2025-07-03 20:13:57 +0000"
+      "has_polished_andesite": "2025-07-03 20:08:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_chestplate_repairing": {
-    "criteria": {
-      "has_leather_chestplate": "2025-07-03 20:21:03 +0000"
+      "has_polished_andesite": "2025-07-03 20:08:44 +0000"
     },
     "done": true
   },
@@ -5417,9 +5360,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "has_honeycomb": "2025-07-03 20:01:48 +0000"
+      "has_magic_tablet": "2025-07-03 20:13:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-07-03 20:21:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-07-03 20:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-03 20:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-03 20:41:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-03 20:46:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-07-03 21:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-07-03 21:16:27 +0000"
     },
     "done": true
   },

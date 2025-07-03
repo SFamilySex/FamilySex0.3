@@ -44,6 +44,7 @@
       "minecraft:sparse_jungle": "2025-06-23 22:42:23 +0000",
       "minecraft:lukewarm_ocean": "2025-06-24 01:39:24 +0000",
       "minecraft:river": "2025-06-23 22:13:24 +0000",
+      "minecraft:snowy_plains": "2025-07-03 21:11:18 +0000",
       "minecraft:dripstone_caves": "2025-06-28 00:26:39 +0000",
       "minecraft:snowy_taiga": "2025-07-03 20:55:43 +0000",
       "minecraft:grove": "2025-06-26 04:20:59 +0000",
@@ -51,16 +52,19 @@
       "minecraft:cold_ocean": "2025-06-26 20:59:07 +0000",
       "minecraft:forest": "2025-06-23 22:34:26 +0000",
       "minecraft:lush_caves": "2025-07-03 20:57:50 +0000",
+      "minecraft:frozen_ocean": "2025-07-03 21:16:08 +0000",
       "minecraft:desert": "2025-06-23 22:13:16 +0000",
       "minecraft:jungle": "2025-06-25 03:36:44 +0000",
       "minecraft:ocean": "2025-06-26 03:58:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-26 04:36:28 +0000",
+      "minecraft:snowy_beach": "2025-07-03 21:15:49 +0000",
       "minecraft:windswept_savanna": "2025-07-02 23:51:14 +0000",
       "minecraft:warm_ocean": "2025-07-03 00:14:22 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-28 00:47:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-26 21:08:50 +0000",
       "minecraft:deep_dark": "2025-06-27 23:35:02 +0000",
       "minecraft:meadow": "2025-06-26 04:24:31 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-03 21:14:09 +0000",
       "minecraft:savanna": "2025-06-24 00:53:01 +0000",
       "minecraft:plains": "2025-06-23 22:42:09 +0000"
     },
@@ -6548,6 +6552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-03 20:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-07-03 20:19:17 +0000"
@@ -6566,33 +6576,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-07-03 20:01:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-07-03 20:19:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-03 20:19:17 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-07-03 20:45:42 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_cartography_table": {
-    "criteria": {
-      "has_paper": "2025-07-03 20:51:42 +0000"
     },
     "done": true
   },
@@ -6611,12 +6597,6 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-07-03 20:19:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-07-03 20:51:42 +0000"
     },
     "done": true
   },
@@ -6656,21 +6636,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-07-03 20:19:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-03 20:19:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "has_paper": "2025-07-03 20:51:42 +0000"
+      "has_polished_deepslate": "2025-07-03 20:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-03 20:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-03 20:19:19 +0000"
     },
     "done": true
   },
@@ -6680,9 +6666,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_polished_deepslate": "2025-07-03 20:19:17 +0000"
+      "cave_codex": "2025-07-03 20:45:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-03 20:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-03 20:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-03 20:51:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-03 20:58:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-03 20:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-03 20:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-03 20:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-03 20:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-03 20:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-03 20:59:04 +0000"
     },
     "done": true
   },
