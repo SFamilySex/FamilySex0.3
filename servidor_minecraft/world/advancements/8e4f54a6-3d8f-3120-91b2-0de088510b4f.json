@@ -6736,6 +6736,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-07-03 22:18:39 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-07-03 21:47:00 +0000"
@@ -6745,6 +6751,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-07-03 21:32:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-07-03 22:15:10 +0000"
     },
     "done": true
   },
@@ -6850,9 +6862,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2025-07-03 22:17:14 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
       "discover": "2025-07-03 21:30:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-07-03 22:08:47 +0000"
     },
     "done": true
   },
