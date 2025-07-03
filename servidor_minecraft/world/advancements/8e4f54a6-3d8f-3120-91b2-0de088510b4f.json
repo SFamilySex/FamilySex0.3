@@ -6778,6 +6778,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-07-03 22:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2025-07-03 21:46:52 +0000"
