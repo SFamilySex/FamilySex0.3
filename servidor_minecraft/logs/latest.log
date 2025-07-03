@@ -1609,3 +1609,53 @@
 [03Jul2025 02:11:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> xdddddddddddddddddddd
 [03Jul2025 02:11:51.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> xdddddddddddddddddddddddddddddddd
 [03Jul2025 02:11:52.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIxXD to elpepe]
+[03Jul2025 02:19:15.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[03Jul2025 02:19:15.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[03Jul2025 02:19:23.416] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 02:19:23.418] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 02:19:37.769] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 02:19:37.773] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 02:19:50.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIxXD to JAGlitsh]
+[03Jul2025 02:19:54.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[03Jul2025 02:19:54.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[03Jul2025 02:20:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[03Jul2025 02:20:14.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Skeleton
+[03Jul2025 02:20:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[03Jul2025 02:21:03.476] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 02:21:03.478] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 02:21:07.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by CHUCHIxXD
+[03Jul2025 02:21:07.527] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 02:21:33.796] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 02:21:33.797] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 02:21:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[03Jul2025 02:21:35.523] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/103080, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:21:35.523] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/103080, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 02:21:35.523] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['???'/103080, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50].
+[03Jul2025 02:21:35.568] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/103103, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:21:35.568] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/103103, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 02:21:35.568] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/103103, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[03Jul2025 02:21:40.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIxXD to JAGlitsh]
+[03Jul2025 02:21:41.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by CHUCHIxXD
+[03Jul2025 02:21:42.326] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/103230, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:21:42.326] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/103230, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 02:21:42.326] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/103230, l='ServerLevel[world]', x=-2179.50, y=63.00, z=1749.50].
+[03Jul2025 02:21:42.367] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/103275, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:21:42.368] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/103275, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 02:21:42.368] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/103275, l='ServerLevel[world]', x=-2216.37, y=67.00, z=1779.33].
+[03Jul2025 02:21:42.413] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/103346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:21:42.414] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/103346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 02:21:42.414] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/103346, l='ServerLevel[world]', x=-2238.33, y=64.00, z=1818.24].
+[03Jul2025 02:21:42.414] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/103347, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:21:42.414] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/103347, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 02:21:42.415] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/103347, l='ServerLevel[world]', x=-2237.09, y=64.00, z=1818.24].
+[03Jul2025 02:21:42.415] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/103348, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:21:42.415] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/103348, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 02:21:42.415] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/103348, l='ServerLevel[world]', x=-2238.67, y=64.00, z=1817.20].
+[03Jul2025 02:21:42.424] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/103364, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 02:21:42.424] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/103364, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 02:21:42.424] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/103364, l='ServerLevel[world]', x=-2242.64, y=63.00, z=1828.64].
+[03Jul2025 02:21:47.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Jul2025 02:22:30.767] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 02:22:30.776] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 02:22:48.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[03Jul2025 02:22:54.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIxXD to JAGlitsh]
