@@ -6758,5 +6758,41 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-07-03 04:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-07-03 04:16:38 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-07-03 04:31:30 +0000"
+    },
+    "done": true
+  },
+  "aether:obsidian_armor": {
+    "criteria": {
+      "obsidian_helmet": "2025-07-03 04:32:35 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-03 04:32:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_axe_repairing": {
+    "criteria": {
+      "has_netherite_axe": "2025-07-03 04:32:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

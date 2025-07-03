@@ -2111,3 +2111,42 @@ io.netty.handler.codec.EncoderException: String too big (was 1970482 characters,
 [03Jul2025 04:14:42.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
 [03Jul2025 04:14:52.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was killed by CHUCHIXD using magic
 [03Jul2025 04:14:52.398] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 04:15:14.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1833.500000, 66.500000, 1953.500000]
+[03Jul2025 04:15:15.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Discreet Search]
+[03Jul2025 04:15:25.294] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Jul2025 04:15:25.296] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 04:15:27.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by CHUCHIXD
+[03Jul2025 04:15:27.051] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 04:16:02.297] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Jul2025 04:16:02.300] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 04:16:04.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh froze to death
+[03Jul2025 04:16:04.300] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 04:16:13.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1828.500000, 63.500000, 1951.500000]
+[03Jul2025 04:17:15.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[03Jul2025 04:17:15.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[03Jul2025 04:21:44.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:55477] logged in with entity id 143340 at (-1829.4442508738107, 64.0, 1953.4686863696418)
+[03Jul2025 04:21:44.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[03Jul2025 04:22:55.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2249.500000, 75.500000, 1707.500000]
+[03Jul2025 04:22:55.821] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/143577, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 04:22:55.822] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/143577, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 04:22:55.822] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/143577, l='ServerLevel[world]', x=-2216.37, y=67.00, z=1779.33].
+[03Jul2025 04:22:55.971] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/143603, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 04:22:55.971] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/143603, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 04:22:55.971] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/143603, l='ServerLevel[world]', x=-2238.33, y=64.00, z=1818.24].
+[03Jul2025 04:22:55.971] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/143604, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 04:22:55.972] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/143604, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 04:22:55.972] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/143604, l='ServerLevel[world]', x=-2237.22, y=64.00, z=1818.08].
+[03Jul2025 04:22:55.972] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/143605, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 04:22:55.972] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/143605, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 04:22:55.972] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/143605, l='ServerLevel[world]', x=-2238.67, y=64.00, z=1817.20].
+[03Jul2025 04:22:56.064] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/143623, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 04:22:56.065] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/143623, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 04:22:56.065] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/143623, l='ServerLevel[world]', x=-2242.64, y=63.00, z=1827.91].
+[03Jul2025 04:23:07.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1846.500000, 63.500000, 1949.500000]
+[03Jul2025 04:23:12.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Jul2025 04:26:05.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Jul2025 04:31:30.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has completed the challenge [Just a Flesh Wound]
+[03Jul2025 04:32:08.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 04:32:13.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Jul2025 04:35:15.088] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 04:35:15.095] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
