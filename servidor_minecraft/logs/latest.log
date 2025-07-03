@@ -1590,3 +1590,22 @@
 [03Jul2025 02:02:13.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:49439] logged in with entity id 91949 at (-2161.172540703934, 78.0, 1751.9823707905412)
 [03Jul2025 02:02:13.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [03Jul2025 02:02:24.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! -0.7521540469865613,0.14168517272452164,10.318654330483696
+[03Jul2025 02:03:04.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
+[03Jul2025 02:03:16.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 1.1508765526727984,-0.6709083839322858,-10.018966763507024
+[03Jul2025 02:04:55.625] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Jul2025 02:04:55.669] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 02:05:20.068] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Jul2025 02:05:20.073] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 02:05:28.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Misterchuwa using [Arco]
+[03Jul2025 02:05:28.327] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 02:07:50.817] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 02:07:50.821] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 02:09:56.676] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 02:09:56.682] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 02:11:39.516] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 02:11:39.519] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 02:11:46.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD was slain by elpepe
+[03Jul2025 02:11:46.520] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 02:11:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> xdddddddddddddddddddd
+[03Jul2025 02:11:51.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> xdddddddddddddddddddddddddddddddd
+[03Jul2025 02:11:52.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIxXD to elpepe]
