@@ -29,6 +29,7 @@
       "minecraft:wooded_badlands": "2025-06-23 04:02:16 +0000",
       "minecraft:badlands": "2025-06-23 03:05:11 +0000",
       "minecraft:beach": "2025-06-23 23:17:17 +0000",
+      "minecraft:dark_forest": "2025-07-03 04:44:38 +0000",
       "minecraft:mangrove_swamp": "2025-06-23 22:18:39 +0000",
       "minecraft:sparse_jungle": "2025-06-23 23:18:14 +0000",
       "minecraft:river": "2025-06-23 03:36:17 +0000",
@@ -5105,6 +5106,18 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-07-03 04:42:50 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-03 04:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-07-03 04:22:01 +0000"
@@ -5165,6 +5178,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-07-03 04:45:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-07-03 04:42:50 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-07-03 04:28:41 +0000"
@@ -5189,6 +5214,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-03 04:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-03 04:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-07-03 04:17:03 +0000"
@@ -5207,6 +5244,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-03 04:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-03 04:28:41 +0000"
@@ -5216,6 +5259,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-07-03 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-07-03 04:42:50 +0000"
     },
     "done": true
   },
