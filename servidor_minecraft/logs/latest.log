@@ -1546,3 +1546,47 @@
 [03Jul2025 01:52:16.464] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
 [03Jul2025 01:52:24.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD was slain by elpepe
 [03Jul2025 01:52:24.603] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:52:39.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gmg18 lost connection: Disconnected
+[03Jul2025 01:52:39.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 left the game
+[03Jul2025 01:52:46.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIxXD to JAGlitsh]
+[03Jul2025 01:52:55.209] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Jul2025 01:52:55.212] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 01:53:01.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Misterchuwa using [Arco]
+[03Jul2025 01:53:01.908] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 01:53:10.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2158.500000, 66.500000, 1739.500000]
+[03Jul2025 01:53:24.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 0.3784283837003386,1.2491870787446828,9.995112139109779
+[03Jul2025 01:53:36.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:62569] logged in with entity id 86583 at (-273.6997688557253, 70.0, 1468.300000011921)
+[03Jul2025 01:53:36.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[03Jul2025 01:53:56.772] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:53:56.773] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:54:20.962] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 01:54:20.965] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 01:54:45.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Misterchuwa
+[03Jul2025 01:55:00.571] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:55:00.573] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:56:07.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Timed out
+[03Jul2025 01:56:07.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[03Jul2025 01:56:59.621] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:56:59.623] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:57:09.204] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50471cd7[id=<null>,name=Kingg9,properties={},legacy=false] (/100.100.204.77:62579) lost connection: Disconnected
+[03Jul2025 01:57:15.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD was slain by elpepe
+[03Jul2025 01:57:15.654] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:57:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIxXD to Misterchuwa]
+[03Jul2025 01:57:28.058] [Netty Epoll Server IO #1/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/67204, l='ServerLevel[world]', x=-2166.61, y=111.00, z=1743.18] does not respect server-side emote tracking. Ignoring repeat
+[03Jul2025 01:57:31.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:62584] logged in with entity id 88931 at (-273.6997688557253, 70.0, 1468.300000011921)
+[03Jul2025 01:57:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[03Jul2025 02:00:37.091] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 02:00:37.122] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 02:00:53.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by skeleton demoniaco
+[03Jul2025 02:01:13.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[03Jul2025 02:01:13.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Jul2025 02:01:17.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/79517, l='ServerLevel[world]', x=-2196.26, y=63.92, z=1719.50] died: skeleton demoniaco blew up
+[03Jul2025 02:01:27.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:49431] logged in with entity id 91556 at (-2161.172540703934, 78.0, 1751.9823707905412)
+[03Jul2025 02:01:27.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Jul2025 02:01:58.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[03Jul2025 02:01:58.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Jul2025 02:02:05.765] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 02:02:05.769] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 02:02:13.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:49439] logged in with entity id 91949 at (-2161.172540703934, 78.0, 1751.9823707905412)
+[03Jul2025 02:02:13.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Jul2025 02:02:24.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! -0.7521540469865613,0.14168517272452164,10.318654330483696
