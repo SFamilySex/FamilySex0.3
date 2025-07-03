@@ -33,6 +33,7 @@
       "minecraft:cherry_grove": "2025-06-26 04:33:56 +0000",
       "minecraft:sunflower_plains": "2025-06-26 03:53:18 +0000",
       "minecraft:birch_forest": "2025-06-26 03:58:34 +0000",
+      "minecraft:windswept_hills": "2025-07-03 20:44:10 +0000",
       "minecraft:wooded_badlands": "2025-06-25 03:58:44 +0000",
       "minecraft:badlands": "2025-06-23 22:04:30 +0000",
       "minecraft:savanna_plateau": "2025-06-24 00:56:35 +0000",
@@ -6580,6 +6581,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-07-03 20:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-03 20:19:17 +0000"
@@ -6643,6 +6650,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-03 20:19:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-07-03 20:37:55 +0000"
     },
     "done": true
   },

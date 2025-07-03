@@ -263,6 +263,7 @@
     "criteria": {
       "cooked_beef": "2025-06-29 01:09:50 +0000",
       "baked_potato": "2025-06-29 00:41:15 +0000",
+      "apple": "2025-07-03 20:28:19 +0000",
       "bread": "2025-06-29 00:11:07 +0000"
     },
     "done": false
@@ -1840,6 +1841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 20:31:50 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-07-03 19:47:09 +0000"
@@ -2075,6 +2082,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-07-03 20:31:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-03 19:47:09 +0000"
@@ -2120,6 +2133,12 @@
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-07-03 19:47:09 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-07-03 20:31:50 +0000"
     },
     "done": true
   },
@@ -2198,6 +2217,12 @@
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-07-03 19:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-03 20:31:50 +0000"
     },
     "done": true
   },

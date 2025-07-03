@@ -665,3 +665,21 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 20:26:45.916] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [03Jul2025 20:26:45.928] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [03Jul2025 20:27:17.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2236.500000, 67.500000, 1719.500000]
+[03Jul2025 20:28:36.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:29:40.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:30:33.870] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[03Jul2025 20:30:33.875] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[03Jul2025 20:30:41.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:31:00.722] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[03Jul2025 20:31:00.725] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[03Jul2025 20:33:46.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -2688.500000, 64.500000, 3905.500000]
+[03Jul2025 20:33:53.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 20:34:00.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:41:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to -4431.500000, 109.500000, 6207.500000]
+[03Jul2025 20:43:45.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported elpepe to CHUCHIXD]
+[03Jul2025 20:44:01.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Set the time to 1000]
+[03Jul2025 20:45:41.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Gave 1 [Cave Codex] to CHUCHIXD]
+[03Jul2025 20:45:42.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Lorem Ipsum]
+[03Jul2025 20:46:12.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:46:19.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 20:47:31.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
