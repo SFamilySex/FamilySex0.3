@@ -858,3 +858,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 23:13:15.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
 [03Jul2025 23:14:59.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:64284] logged in with entity id 99777 at (-2497.9432834665026, 68.0, 1561.9948230257721)
 [03Jul2025 23:14:59.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Jul2025 23:26:00.775] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:26:00.778] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:26:15.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[03Jul2025 23:27:39.825] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:27:39.826] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:27:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[03Jul2025 23:30:52.524] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:30:52.526] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
