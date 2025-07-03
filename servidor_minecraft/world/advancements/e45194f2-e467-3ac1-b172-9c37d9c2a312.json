@@ -5441,6 +5441,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-07-03 22:18:44 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-07-03 21:45:36 +0000"
@@ -5468,6 +5474,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2025-07-03 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-07-03 22:21:28 +0000"
     },
     "done": true
   },

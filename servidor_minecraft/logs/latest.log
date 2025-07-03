@@ -829,3 +829,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Jul2025 22:19:07.421] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
 [03Jul2025 22:19:25.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
 [03Jul2025 22:19:25.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[03Jul2025 22:21:28.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has completed the challenge [Village Defender]
+[03Jul2025 22:22:25.864] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 22:22:25.866] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 22:25:23.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Ashes 'n Bones]
