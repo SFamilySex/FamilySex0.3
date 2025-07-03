@@ -1485,3 +1485,64 @@
 [03Jul2025 01:41:26.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [03Jul2025 01:41:33.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/79516, l='ServerLevel[world]', x=-2240.30, y=67.00, z=1702.48] died: 1$s has perished from holy damage
 [03Jul2025 01:41:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Ambush]
+[03Jul2025 01:43:09.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/79611, l='ServerLevel[world]', x=-2320.84, y=66.00, z=1687.15] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 01:43:12.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/79643, l='ServerLevel[world]', x=-2336.11, y=67.00, z=1680.44] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 01:43:15.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [The Lighthouse]
+[03Jul2025 01:43:31.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/79642, l='ServerLevel[world]', x=-2334.64, y=67.00, z=1696.64] died: Skeleton demonio arquero was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 01:43:38.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/79666, l='ServerLevel[world]', x=-2342.50, y=64.00, z=1670.50] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 01:43:42.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/79665, l='ServerLevel[world]', x=-2351.50, y=68.00, z=1644.50] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 01:43:53.220] [Netty Epoll Server IO #1/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/67204, l='ServerLevel[world]', x=-2158.54, y=78.00, z=1745.92] does not respect server-side emote tracking. Ignoring repeat
+[03Jul2025 01:44:30.260] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:44:30.264] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:44:53.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/79691, l='ServerLevel[world]', x=-2363.50, y=79.00, z=1798.50] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 01:44:59.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/79690, l='ServerLevel[world]', x=-2366.67, y=79.00, z=1793.53] died: Skeleton demonio arquero was shot by Misterchuwa
+[03Jul2025 01:45:07.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/79654, l='ServerLevel[world]', x=-2343.50, y=81.00, z=1810.50] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 01:45:15.411] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:45:15.416] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:45:31.608] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:45:31.613] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:45:36.066] [Netty Epoll Server IO #1/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/67204, l='ServerLevel[world]', x=-2161.51, y=78.00, z=1747.78] does not respect server-side emote tracking. Ignoring repeat
+[03Jul2025 01:45:45.105] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 01:45:45.106] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 01:47:11.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -0.0659609191434356,-10.87666565290921,-1.7951929816256325
+[03Jul2025 01:47:14.970] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:47:14.972] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:47:21.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -9.902725773196835,-1.7999999999998977,1.7034759185378334
+[03Jul2025 01:47:22.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ¡
+[03Jul2025 01:48:02.750] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:48:02.752] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:48:36.758] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Jul2025 01:48:36.767] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Jul2025 01:48:42.902] [Server thread/INFO] [Easy NPC/]: Opening menu bdd64e9e-fe92-4852-a277-876f63a69d6c for npc 51dced4c-d9d0-48a8-b81d-58b2ff6624eb and player ServerPlayer['elpepe'/81418, l='ServerLevel[world]', x=-2181.85, y=63.00, z=1751.15] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[03Jul2025 01:49:02.055] [Server thread/INFO] [Easy NPC/]: Opening menu 28d82cef-f540-4ede-8912-8ee9591f8c01 for npc ebe6c2cc-fe28-4a5d-8e55-ca9a3eb73d3b and player ServerPlayer['HEISENBERGXD'/58499, l='ServerLevel[world]', x=-289.96, y=92.00, z=1041.08] with DialogMenuHandler{displayName=literal{???}[style={color=#FF00FF}]}
+[03Jul2025 01:49:04.803] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 01:49:04.804] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 01:49:04.807] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 01:49:04.807] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 01:49:27.603] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:49:27.605] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:49:30.012] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/84654, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 01:49:30.012] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/84654, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 01:49:30.012] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/84654, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[03Jul2025 01:49:36.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Misterchuwa
+[03Jul2025 01:49:55.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[03Jul2025 01:49:55.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[03Jul2025 01:50:06.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:54028] logged in with entity id 84825 at (-291.6933841194962, 92.0, 1033.5544946056891)
+[03Jul2025 01:50:06.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[03Jul2025 01:50:06.277] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/84843, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 01:50:06.277] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/84843, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 01:50:06.277] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['???'/84843, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50].
+[03Jul2025 01:50:07.423] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/85021, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 01:50:07.423] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/85021, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 01:50:07.423] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/85021, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[03Jul2025 01:50:20.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2158.500000, 66.500000, 1736.500000]
+[03Jul2025 01:51:45.770] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 01:51:45.771] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 01:52:07.852] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 01:52:07.854] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 01:52:13.257] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[03Jul2025 01:52:13.261] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[03Jul2025 01:52:16.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 was slain by elpepe
+[03Jul2025 01:52:16.464] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 01:52:24.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD was slain by elpepe
+[03Jul2025 01:52:24.603] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved

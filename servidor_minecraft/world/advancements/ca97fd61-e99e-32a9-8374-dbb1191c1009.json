@@ -211,6 +211,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-06-29 00:39:33 +0000",
+      "minecraft:phantom": "2025-07-03 01:41:51 +0000",
       "minecraft:husk": "2025-06-29 00:42:49 +0000",
       "minecraft:zombie": "2025-06-29 00:10:47 +0000"
     },
@@ -1791,6 +1792,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-03 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-03 01:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-07-03 01:27:34 +0000"
@@ -1802,6 +1815,12 @@
       "has_netherite_ingot": "2025-07-03 01:14:37 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-07-03 01:41:51 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
