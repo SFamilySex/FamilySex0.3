@@ -5996,3 +5996,685 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jul2025 00:41:12.665] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
 [03Jul2025 00:41:12.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 joined the game
 [03Jul2025 00:41:13.209] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751503273185
+[03Jul2025 00:41:25.862] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/48465, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:41:25.863] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/48465, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:41:25.863] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/48465, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:41:26.070] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/48468, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:41:26.070] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/48468, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:41:26.071] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/48468, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:41:31.976] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/48505, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:41:31.976] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/48505, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:41:31.976] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/48505, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:41:52.955] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/48465, l='ServerLevel[world]', x=-243.60, y=63.00, z=1148.60] died: skeleton demoniaco was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:41:53.277] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/48598, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:41:53.277] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/48598, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:41:53.277] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/48598, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:41:53.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/48379, l='ServerLevel[world]', x=-243.81, y=63.00, z=1148.70] died: skeleton demoniaco was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:41:55.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/48468, l='ServerLevel[world]', x=-243.30, y=63.00, z=1148.70] died: 1$s has perished from holy damage
+[03Jul2025 00:42:00.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/48505, l='ServerLevel[world]', x=-243.64, y=63.00, z=1148.36] died: 1$s has perished from holy damage
+[03Jul2025 00:42:42.925] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/48835, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:42:42.926] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/48835, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:42:42.926] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/48835, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:42:43.679] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/48842, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:42:43.679] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/48842, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:42:43.680] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/48842, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:42:44.178] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/48848, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:42:44.179] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/48848, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:42:44.179] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/48848, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:42:45.520] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/48853, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:42:45.520] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/48853, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:42:45.520] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/48853, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:42:49.427] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/48874, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:42:49.427] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/48874, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:42:49.427] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/48874, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:43:06.970] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49003, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:43:06.970] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49003, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:43:06.971] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/49003, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:43:12.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/44506, l='ServerLevel[world]', x=-2185.63, y=64.00, z=1763.91] died: skeleton demoniaco was shot by elpepe
+[03Jul2025 00:43:13.373] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49031, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:43:13.373] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49031, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:43:13.374] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/49031, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:43:22.428] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49101, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:43:22.429] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49101, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:43:22.429] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/49101, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:43:42.949] [Server thread/WARN] [tombstone/]: The death event of the player gmg18 was canceled by another mod
+[03Jul2025 00:43:42.958] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 00:43:53.522] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49320, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:43:53.522] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49320, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:43:53.522] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/49320, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:43:55.009] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49327, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:43:55.009] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49327, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:43:55.010] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/49327, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:43:55.369] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49328, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:43:55.369] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49328, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:43:55.370] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/49328, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:43:58.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/48848, l='ServerLevel[world]', x=-269.57, y=64.00, z=1161.63] died: 1$s has perished from holy damage
+[03Jul2025 00:44:01.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/49003, l='ServerLevel[world]', x=-270.24, y=64.00, z=1162.86] died: 1$s has perished from holy damage
+[03Jul2025 00:44:05.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/48842, l='ServerLevel[world]', x=-271.71, y=64.00, z=1164.47] died: 1$s has perished from holy damage
+[03Jul2025 00:44:06.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/49101, l='ServerLevel[world]', x=-273.62, y=64.67, z=1165.69] died: 1$s has perished from holy damage
+[03Jul2025 00:44:07.957] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/48835, l='ServerLevel[world]', x=-274.29, y=64.67, z=1160.78] died: 1$s has perished from holy damage
+[03Jul2025 00:44:11.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/48853, l='ServerLevel[world]', x=-278.49, y=64.00, z=1167.60] died: 1$s has perished from holy damage
+[03Jul2025 00:44:18.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/49320, l='ServerLevel[world]', x=-277.85, y=64.59, z=1169.24] died: 1$s has perished from holy damage
+[03Jul2025 00:44:28.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/49031, l='ServerLevel[world]', x=-276.86, y=64.00, z=1168.28] died: 1$s has perished from holy damage
+[03Jul2025 00:44:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[03Jul2025 00:44:44.199] [Server thread/DEBUG] [tombstone/]: A new grave of the player gmg18 was created at position [x:-272, y:64, z:1175, dim:minecraft:overworld]
+[03Jul2025 00:44:44.201] [Server thread/INFO] [tombstone/]: The player gmg18 has successfully been saved
+[03Jul2025 00:44:53.361] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751503493340
+[03Jul2025 00:45:03.460] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/48874, l='ServerLevel[world]', x=-274.64, y=62.00, z=1183.36] died: 1$s has perished from holy damage
+[03Jul2025 00:45:04.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/49328, l='ServerLevel[world]', x=-274.52, y=62.23, z=1183.42] died: Skeleton demonio arquero was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:45:08.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/49327, l='ServerLevel[world]', x=-274.36, y=62.00, z=1184.64] died: 1$s has perished from holy damage
+[03Jul2025 00:45:13.279] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49856, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:13.279] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49856, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:13.279] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/49856, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:45:13.879] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49857, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:13.879] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49857, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:13.880] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/49857, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:45:14.729] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49861, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:14.729] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49861, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:14.730] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/49861, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:45:15.655] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49862, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:15.655] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49862, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:15.655] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/49862, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:45:20.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 00:45:20.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 00:45:22.379] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49932, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:22.379] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49932, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:22.380] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/49932, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:45:23.072] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49936, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:23.072] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49936, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:23.072] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/49936, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:45:25.321] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49944, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:25.322] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49944, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:25.322] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/49944, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:45:26.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/49856, l='ServerLevel[world]', x=-264.60, y=64.00, z=1178.00] died: skeleton demoniaco was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:45:31.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/44561, l='ServerLevel[world]', x=-2230.50, y=67.00, z=1764.49] died: skeleton demoniaco was slain by elpepe
+[03Jul2025 00:45:32.266] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/49990, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:32.267] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/49990, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:32.267] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/49990, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:45:41.206] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50044, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:41.206] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50044, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:41.207] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/50044, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:45:49.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/50044, l='ServerLevel[world]', x=-271.16, y=64.00, z=1186.56] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:45:51.656] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50127, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:51.657] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50127, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:51.657] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/50127, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:45:57.572] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50177, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:45:57.572] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50177, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:45:57.572] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/50177, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:46:00.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/49857, l='ServerLevel[world]', x=-269.63, y=64.00, z=1173.23] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:46:01.818] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50220, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:46:01.818] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50220, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:46:01.819] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/50220, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:46:06.927] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50236, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:46:06.928] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50236, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:46:06.928] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/50236, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:46:07.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/49861, l='ServerLevel[world]', x=-272.47, y=64.00, z=1168.84] died: 1$s has perished from holy damage
+[03Jul2025 00:46:16.771] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50308, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:46:16.772] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50308, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:46:16.772] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/50308, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:46:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CHUCHIXD: Teleported CHUCHIXD to elpepe]
+[03Jul2025 00:46:36.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/50177, l='ServerLevel[world]', x=-273.41, y=64.27, z=1150.59] died: skeleton demoniaco was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:46:39.144] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 00:46:39.157] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 00:46:42.448] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/49990, l='ServerLevel[world]', x=-264.36, y=64.00, z=1148.36] died: Skeleton demonio arquero was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:46:56.879] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50644, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:46:56.880] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50644, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:46:56.880] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/50644, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:47:01.679] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50707, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:47:01.679] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50707, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:47:01.679] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/50707, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:47:07.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/50308, l='ServerLevel[world]', x=-279.99, y=64.00, z=1152.18] died: Skeleton demonio arquero was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:47:11.379] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50765, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:47:11.379] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50765, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:47:11.379] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/50765, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:47:13.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gmg18 lost connection: Disconnected
+[03Jul2025 00:47:13.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 left the game
+[03Jul2025 00:47:15.702] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50787, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:47:15.702] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50787, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:47:15.703] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/50787, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:47:25.579] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/50873, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:47:25.579] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/50873, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:47:25.580] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/50873, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:47:26.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by skeleton demoniaco
+[03Jul2025 00:47:26.610] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2194, y:66, z:1753, dim:minecraft:overworld]
+[03Jul2025 00:47:28.078] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751503648055
+[03Jul2025 00:47:41.850] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51254, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:47:41.851] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51254, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:47:41.851] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/51254, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:47:49.279] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51298, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:47:49.279] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51298, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:47:49.280] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/51298, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:47:50.829] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51306, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:47:50.829] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51306, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:47:50.829] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/51306, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:48:10.254] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51491, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:48:10.255] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51491, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:48:10.255] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/51491, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:48:13.779] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51496, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:48:13.780] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51496, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:48:13.780] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/51496, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:48:28.479] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51775, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:48:28.480] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51775, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:48:28.480] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/51775, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:48:34.067] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51824, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:48:34.068] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51824, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:48:34.068] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/51824, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:48:38.679] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51863, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:48:38.679] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51863, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:48:38.680] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/51863, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:48:43.079] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51915, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:48:43.079] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51915, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:48:43.080] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/51915, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:48:47.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/50236, l='ServerLevel[world]', x=-259.95, y=64.59, z=1187.01] died: skeleton demoniaco was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:48:47.879] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51936, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:48:47.879] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51936, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:48:47.880] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/51936, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:48:50.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/50127, l='ServerLevel[world]', x=-263.41, y=64.00, z=1182.81] died: 1$s has perished from holy damage
+[03Jul2025 00:48:52.329] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/51964, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:48:52.330] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/51964, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:48:52.330] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/51964, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:48:59.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/50220, l='ServerLevel[world]', x=-258.21, y=64.00, z=1188.56] died: Skeleton demonio arquero was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:49:02.353] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/52029, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:49:02.354] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/52029, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:49:02.354] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/52029, l='ServerLevel[world]', x=-245.36, y=64.00, z=704.36].
+[03Jul2025 00:49:04.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/49944, l='ServerLevel[world]', x=-256.44, y=64.00, z=1187.90] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:49:04.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/49862, l='ServerLevel[world]', x=-256.52, y=64.00, z=1187.39] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:49:07.729] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/52063, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:49:07.730] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/52063, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:49:07.730] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/52063, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:49:22.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/44683, l='ServerLevel[world]', x=-2183.73, y=63.54, z=1762.35] died: skeleton demoniaco was slain by elpepe
+[03Jul2025 00:49:29.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/50765, l='ServerLevel[world]', x=-2189.23, y=64.00, z=1762.19] died: skeleton demoniaco was slain by elpepe
+[03Jul2025 00:49:36.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/49932, l='ServerLevel[world]', x=-240.76, y=60.00, z=1160.98] died: Skeleton demonio arquero was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:49:45.843] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/49936, l='ServerLevel[world]', x=-241.36, y=60.00, z=1164.64] died: Skeleton demonio arquero was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:50:10.429] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[03Jul2025 00:50:10.454] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[03Jul2025 00:50:10.500] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[03Jul2025 00:50:10.552] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[03Jul2025 00:50:10.552] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[03Jul2025 00:50:10.552] [Netty Epoll Server IO #7/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[03Jul2025 00:50:10.553] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[03Jul2025 00:50:10.602] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[03Jul2025 00:50:10.644] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[03Jul2025 00:50:10.644] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[03Jul2025 00:50:10.644] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [easy_npc, mowziesmobs, geckolib, playeranimator, cosycritters, aether, jei, tacz, mcwwindows, sophisticatedcore, rubidium, sodium, xaeroworldmap, citadel, alexsmobs, badpackets, yungsapi, mixinextras, sophisticatedbackpacks, mcwdoors, mahoutsukai, carryon, jeresources, exposure, paraglider, cloth_config, forge, travelerstitles, emotecraft, dungeons_arise, minecraft, alexscaves, endermanoverhaul, creativecore, resourcefulconfig, e4mc_minecraft, wthit, waila, curios, xaerominimap, oculus, iris, camera, securitycraft, tombstone, resourcefullib, cumulus_menus, deeperdarker, creeperoverhaul, architectury, otyacraftengine, iammusicplayer, appleskin, mcwfurnitures, lanserverproperties, nitrogen_internals, playerrevive]
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_npc:network' : Version test of '23' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10.0.1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure:packets' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.6' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mahoutsukai:main_channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[03Jul2025 00:50:10.645] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[03Jul2025 00:50:10.653] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[03Jul2025 00:50:10.697] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[03Jul2025 00:50:10.697] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:10.697] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:10.702] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 5
+[03Jul2025 00:50:10.738] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[03Jul2025 00:50:10.739] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:10.739] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:10.754] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 6
+[03Jul2025 00:50:10.788] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[03Jul2025 00:50:10.788] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:10.788] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:10.803] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 7
+[03Jul2025 00:50:10.858] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 8
+[03Jul2025 00:50:10.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[03Jul2025 00:50:10.956] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[03Jul2025 00:50:11.001] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[03Jul2025 00:50:11.050] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[03Jul2025 00:50:11.050] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.050] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.053] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[03Jul2025 00:50:11.091] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[03Jul2025 00:50:11.091] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.091] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.092] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[03Jul2025 00:50:11.092] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.092] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.104] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[03Jul2025 00:50:11.151] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[03Jul2025 00:50:11.187] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[03Jul2025 00:50:11.187] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.187] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.188] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[03Jul2025 00:50:11.188] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.188] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.189] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[03Jul2025 00:50:11.189] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.189] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.191] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[03Jul2025 00:50:11.191] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.191] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.191] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[03Jul2025 00:50:11.191] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.191] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.202] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[03Jul2025 00:50:11.236] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[03Jul2025 00:50:11.236] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.236] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.252] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[03Jul2025 00:50:11.301] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[03Jul2025 00:50:11.301] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.301] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.304] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[03Jul2025 00:50:11.338] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[03Jul2025 00:50:11.339] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.339] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.360] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[03Jul2025 00:50:11.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[03Jul2025 00:50:11.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.404] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 19
+[03Jul2025 00:50:11.445] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[03Jul2025 00:50:11.445] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.445] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.456] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[03Jul2025 00:50:11.498] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[03Jul2025 00:50:11.498] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.498] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.501] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[03Jul2025 00:50:11.543] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[03Jul2025 00:50:11.543] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.543] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.553] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[03Jul2025 00:50:11.587] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[03Jul2025 00:50:11.587] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.588] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.604] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[03Jul2025 00:50:11.642] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[03Jul2025 00:50:11.642] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.643] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:advancement_sound_override' to 'fml:handshake' sequence 24
+[03Jul2025 00:50:11.703] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 25
+[03Jul2025 00:50:11.720] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[03Jul2025 00:50:11.720] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:11.720] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:11.753] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 26
+[03Jul2025 00:50:11.803] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[03Jul2025 00:50:11.852] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 28
+[03Jul2025 00:50:11.902] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[03Jul2025 00:50:11.953] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mahoutsukai-server.toml' to 'fml:handshake' sequence 30
+[03Jul2025 00:50:12.001] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 31
+[03Jul2025 00:50:12.053] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config aether-server.toml' to 'fml:handshake' sequence 32
+[03Jul2025 00:50:12.102] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 33
+[03Jul2025 00:50:12.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 34
+[03Jul2025 00:50:12.204] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 35
+[03Jul2025 00:50:13.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[03Jul2025 00:50:13.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.708] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[03Jul2025 00:50:13.708] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.708] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.717] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[03Jul2025 00:50:13.717] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.717] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.717] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[03Jul2025 00:50:13.718] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.718] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.718] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[03Jul2025 00:50:13.718] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.718] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.718] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[03Jul2025 00:50:13.718] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.718] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.728] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[03Jul2025 00:50:13.728] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.728] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.729] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[03Jul2025 00:50:13.729] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.729] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.733] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[03Jul2025 00:50:13.733] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.733] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.733] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[03Jul2025 00:50:13.733] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.733] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.738] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[03Jul2025 00:50:13.738] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.738] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.744] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[03Jul2025 00:50:13.744] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 00:50:13.744] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 00:50:13.756] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[03Jul2025 00:50:13.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gmg18[/100.82.206.85:60826] logged in with entity id 52543 at (-277.98831948919695, 64.0, 1156.1792457960048)
+[03Jul2025 00:50:13.814] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@2562f242 into net.minecraft.network.Connection@24f360a
+[03Jul2025 00:50:13.815] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[03Jul2025 00:50:13.815] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[03Jul2025 00:50:13.815] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[03Jul2025 00:50:13.815] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[03Jul2025 00:50:13.815] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[03Jul2025 00:50:13.815] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[03Jul2025 00:50:13.815] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[03Jul2025 00:50:13.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 joined the game
+[03Jul2025 00:50:14.359] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751503814359
+[03Jul2025 00:50:14.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/47742, l='ServerLevel[world]', x=-280.33, y=63.00, z=1174.46] died: skeleton demoniaco was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:50:20.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 00:50:20.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 00:50:44.815] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/52870, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:50:44.815] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/52870, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:50:44.815] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/52870, l='ServerLevel[world]', x=-2366.50, y=79.00, z=1793.50].
+[03Jul2025 00:50:44.816] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/52871, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:50:44.816] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/52871, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:50:44.816] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/52871, l='ServerLevel[world]', x=-2363.50, y=79.00, z=1798.50].
+[03Jul2025 00:50:50.879] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/52895, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:50:50.880] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/52895, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:50:50.880] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/52895, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:51:00.679] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/52939, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:51:00.679] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/52939, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:51:00.679] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/52939, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:51:04.307] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/52952, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:51:04.307] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/52952, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:51:04.308] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/52952, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:51:09.917] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/52991, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:51:09.918] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/52991, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:51:09.918] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/52991, l='ServerLevel[world]', x=-2366.50, y=79.00, z=1793.50].
+[03Jul2025 00:51:09.918] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/52992, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:51:09.919] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/52992, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:51:09.919] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/52992, l='ServerLevel[world]', x=-2363.50, y=79.00, z=1798.50].
+[03Jul2025 00:51:16.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gmg18 has made the advancement [Paint It Black]
+[03Jul2025 00:51:20.857] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/53108, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:51:20.857] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/53108, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:51:20.857] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/53108, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:51:25.460] [Server thread/INFO] [Easy NPC/]: Opening menu 5ebc1214-c81e-457e-9fc2-1877a48bf929 for npc 9980e2bc-4424-47fd-b9d2-d85ba968b671 and player ServerPlayer['Misterchuwa'/32071, l='ServerLevel[world]', x=-265.23, y=64.00, z=1164.89] with DialogMenuHandler{displayName=literal{???}[style={color=#FF00FF}]}
+[03Jul2025 00:51:26.256] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/53135, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:51:26.256] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/53135, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:51:26.256] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/53135, l='ServerLevel[world]', x=-245.50, y=58.00, z=1156.50].
+[03Jul2025 00:51:59.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/47715, l='ServerLevel[world]', x=-328.50, y=67.00, z=1158.50] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:52:30.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/45613, l='ServerLevel[world]', x=-250.50, y=76.00, z=1066.50] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:52:34.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/45508, l='ServerLevel[world]', x=-243.35, y=74.00, z=1055.35] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:52:52.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/45598, l='ServerLevel[world]', x=-240.63, y=75.00, z=1059.67] died: Skeleton demonio arquero was shot by Misterchuwa
+[03Jul2025 00:53:00.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/42244, l='ServerLevel[world]', x=-245.50, y=94.00, z=1042.50] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:53:25.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/45358, l='ServerLevel[world]', x=-315.50, y=83.00, z=1062.50] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:53:34.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/45332, l='ServerLevel[world]', x=-309.50, y=86.00, z=1052.50] died: skeleton demoniaco was shot by Misterchuwa
+[03Jul2025 00:55:20.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 00:55:20.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 00:55:27.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/41871, l='ServerLevel[world]', x=-218.50, y=85.00, z=1030.40] died: skeleton demoniaco was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:55:32.062] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/41982, l='ServerLevel[world]', x=-215.34, y=85.00, z=1031.69] died: 1$s has perished from holy damage
+[03Jul2025 00:55:56.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/42028, l='ServerLevel[world]', x=-234.63, y=80.18, z=1035.04] died: 1$s has perished from holy damage
+[03Jul2025 00:56:00.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/42197, l='ServerLevel[world]', x=-237.83, y=79.00, z=1031.83] died: Skeleton demonio arquero was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:56:01.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/42184, l='ServerLevel[world]', x=-238.36, y=78.00, z=1029.36] died: 1$s has perished from holy damage
+[03Jul2025 00:56:39.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/42060, l='ServerLevel[world]', x=-266.37, y=86.00, z=1004.42] died: skeleton demoniaco was shot by Misterchuwa using [Arco]
+[03Jul2025 00:56:43.392] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 00:56:43.405] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 00:56:50.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by skeleton demoniaco
+[03Jul2025 00:56:50.314] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2161, y:66, z:1748, dim:minecraft:overworld]
+[03Jul2025 00:56:52.110] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751504212096
+[03Jul2025 00:56:52.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/42135, l='ServerLevel[world]', x=-261.10, y=80.00, z=1015.88] died: 1$s has perished from holy damage
+[03Jul2025 00:56:55.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/42157, l='ServerLevel[world]', x=-262.44, y=80.00, z=1015.46] died: skeleton demoniaco was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:57:25.070] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/55627, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:57:25.070] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/55627, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 00:57:25.071] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/55627, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[03Jul2025 00:57:25.071] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/55628, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:57:25.071] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/55628, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:57:25.072] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/55628, l='ServerLevel[world]', x=-382.50, y=64.00, z=1230.50].
+[03Jul2025 00:57:33.412] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/55685, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:57:33.412] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/55685, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:57:33.413] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/55685, l='ServerLevel[world]', x=-394.50, y=67.00, z=1233.50].
+[03Jul2025 00:57:33.413] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/55686, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:57:33.413] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/55686, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:57:33.413] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/55686, l='ServerLevel[world]', x=-389.50, y=68.00, z=1244.50].
+[03Jul2025 00:57:33.414] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/55687, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:57:33.414] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/55687, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 00:57:33.415] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/55687, l='ServerLevel[world]', x=-375.50, y=68.00, z=1239.50].
+[03Jul2025 00:57:51.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/52952, l='ServerLevel[world]', x=-2159.09, y=66.00, z=1748.51] died: skeleton demoniaco was slain by elpepe
+[03Jul2025 00:59:05.359] [Server thread/INFO] [Easy NPC/]: Opening menu cd5017c9-948e-4687-9d70-d100930f3dc7 for npc a03e1230-7b6a-4379-99a5-a0b9bddb72ae and player ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2253.99, y=75.00, z=1700.30] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[skeleton demonia]}]
+[03Jul2025 00:59:07.057] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Skeleton['skeleton demoniaco'/51491, l='ServerLevel[world]', x=-2253.50, y=75.00, z=1702.50] requested by ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2253.99, y=75.00, z=1700.30]
+[03Jul2025 00:59:08.756] [Server thread/INFO] [Easy NPC/]: Opening menu 84ff2ed6-09db-4b0c-bff9-311c2ccf84b7 for npc 2ceb0b27-a2f4-406c-b6b8-78e24e2f4286 and player ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2250.87, y=75.00, z=1699.90] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Skeleton demonio]}]
+[03Jul2025 00:59:10.412] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Skeleton['Skeleton demonio arquero'/51496, l='ServerLevel[world]', x=-2248.50, y=75.00, z=1698.50] requested by ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2250.86, y=75.00, z=1699.89]
+[03Jul2025 00:59:18.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/39412, l='ServerLevel[world]', x=-328.50, y=64.00, z=1185.50] died: Skeleton demonio arquero was shot by Misterchuwa
+[03Jul2025 00:59:25.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/47653, l='ServerLevel[world]', x=-299.69, y=65.00, z=1175.57] died: skeleton demoniaco was killed by magic whilst trying to escape Misterchuwa
+[03Jul2025 00:59:58.555] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/56744, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 00:59:58.555] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/56744, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 00:59:58.555] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/56744, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50].
+[03Jul2025 01:00:00.429] [Server thread/INFO] [Easy NPC/]: Opening menu f048b978-4e43-452b-9926-9f87b66ef40b for npc e719ccc5-c373-451f-8b92-995bff61d977 and player ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2181.63, y=63.00, z=1748.65] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[03Jul2025 01:00:02.008] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC HumanoidSlim['entity.easy_npc.humanoid_slim'/56744, l='ServerLevel[world]', x=-2179.50, y=62.00, z=1749.50] requested by ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2181.63, y=63.00, z=1748.65]
+[03Jul2025 01:00:02.817] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/56756, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 01:00:02.817] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/56756, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 01:00:02.817] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/56756, l='ServerLevel[world]', x=-284.50, y=88.00, z=999.50].
+[03Jul2025 01:00:02.818] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/56757, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 01:00:02.818] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/56757, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 01:00:02.818] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/56757, l='ServerLevel[world]', x=-281.33, y=90.00, z=1000.37].
+[03Jul2025 01:00:02.818] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/56758, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 01:00:02.819] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/56758, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 01:00:02.819] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/56758, l='ServerLevel[world]', x=-287.50, y=92.00, z=1005.50].
+[03Jul2025 01:00:02.819] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/56760, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 01:00:02.819] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/56760, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[03Jul2025 01:00:02.820] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/56760, l='ServerLevel[world]', x=-290.50, y=92.00, z=1006.50].
+[03Jul2025 01:00:03.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/52939, l='ServerLevel[world]', x=-2145.04, y=48.00, z=1789.97] died: skeleton demoniaco drowned
+[03Jul2025 01:00:08.656] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/56809, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Jul2025 01:00:08.656] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/56809, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[03Jul2025 01:00:08.657] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/56809, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50].
+[03Jul2025 01:00:14.865] [Server thread/INFO] [Easy NPC/]: Opening menu 3b545b4f-87ca-4c9e-b059-9c4186588d4f for npc 51dced4c-d9d0-48a8-b81d-58b2ff6624eb and player ServerPlayer['elpepe'/23421, l='ServerLevel[world]', x=-2181.42, y=63.00, z=1749.99] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[03Jul2025 01:00:15.903] [Server thread/INFO] [Easy NPC/]: Opening menu f1d58db3-6b6b-45f7-95ff-1a06c7be56bd for npc 51dced4c-d9d0-48a8-b81d-58b2ff6624eb and player ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2181.61, y=63.00, z=1749.13] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[03Jul2025 01:00:17.602] [Server thread/INFO] [Easy NPC/]: Opening menu 519b7a91-ef39-46c9-a18e-59c02ab0fe6a for npc 51dced4c-d9d0-48a8-b81d-58b2ff6624eb and player ServerPlayer['CHUCHIXD'/13306, l='ServerLevel[world]', x=-2181.61, y=63.00, z=1749.13] with ConfigurationMenu.BASIC_DIALOG[translation{key='text.easy_npc.config.basic_dialog.title', args=[entity.easy_npc.]}]
+[03Jul2025 01:00:20.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 01:00:20.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 01:01:06.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[03Jul2025 01:01:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Jul2025 01:01:16.509] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[03Jul2025 01:01:16.554] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[03Jul2025 01:01:16.600] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[03Jul2025 01:01:16.649] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[03Jul2025 01:01:16.649] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[03Jul2025 01:01:16.650] [Netty Epoll Server IO #0/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[03Jul2025 01:01:16.654] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[03Jul2025 01:01:16.705] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [easy_npc, mowziesmobs, geckolib, playeranimator, cosycritters, aether, jei, tacz, mcwwindows, sophisticatedcore, rubidium, sodium, xaeroworldmap, citadel, alexsmobs, badpackets, yungsapi, mixinextras, sophisticatedbackpacks, mcwdoors, mahoutsukai, carryon, jeresources, exposure, paraglider, cloth_config, forge, travelerstitles, emotecraft, dungeons_arise, minecraft, alexscaves, endermanoverhaul, creativecore, resourcefulconfig, e4mc_minecraft, wthit, waila, curios, xaerominimap, oculus, iris, camera, securitycraft, tombstone, resourcefullib, cumulus_menus, deeperdarker, creeperoverhaul, architectury, otyacraftengine, iammusicplayer, appleskin, mcwfurnitures, lanserverproperties, nitrogen_internals, playerrevive]
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_npc:network' : Version test of '23' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10.0.1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure:packets' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.6' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mahoutsukai:main_channel' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[03Jul2025 01:01:16.736] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[03Jul2025 01:01:16.737] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[03Jul2025 01:01:16.753] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[03Jul2025 01:01:16.782] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[03Jul2025 01:01:16.782] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:16.782] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:16.804] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 5
+[03Jul2025 01:01:16.835] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[03Jul2025 01:01:16.835] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:16.835] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:16.852] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 6
+[03Jul2025 01:01:16.888] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[03Jul2025 01:01:16.888] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:16.888] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:16.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 7
+[03Jul2025 01:01:16.948] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 8
+[03Jul2025 01:01:17.005] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[03Jul2025 01:01:17.053] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[03Jul2025 01:01:17.100] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[03Jul2025 01:01:17.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[03Jul2025 01:01:17.161] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[03Jul2025 01:01:17.161] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.162] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.162] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[03Jul2025 01:01:17.162] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.162] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.162] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[03Jul2025 01:01:17.162] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.162] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.202] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[03Jul2025 01:01:17.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[03Jul2025 01:01:17.294] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[03Jul2025 01:01:17.294] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.294] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.294] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[03Jul2025 01:01:17.294] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.294] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.295] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[03Jul2025 01:01:17.295] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.295] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.295] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[03Jul2025 01:01:17.296] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.296] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.296] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[03Jul2025 01:01:17.296] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.296] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.302] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[03Jul2025 01:01:17.324] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[03Jul2025 01:01:17.324] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.324] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.350] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[03Jul2025 01:01:17.399] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[03Jul2025 01:01:17.452] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[03Jul2025 01:01:17.470] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[03Jul2025 01:01:17.470] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.470] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.471] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[03Jul2025 01:01:17.471] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.471] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.473] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[03Jul2025 01:01:17.473] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.473] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 19
+[03Jul2025 01:01:17.525] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[03Jul2025 01:01:17.525] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.525] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.550] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[03Jul2025 01:01:17.573] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[03Jul2025 01:01:17.573] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.573] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.604] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[03Jul2025 01:01:17.626] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[03Jul2025 01:01:17.626] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.626] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.651] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[03Jul2025 01:01:17.680] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[03Jul2025 01:01:17.680] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.680] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.698] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[03Jul2025 01:01:17.725] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[03Jul2025 01:01:17.725] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.725] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.751] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:advancement_sound_override' to 'fml:handshake' sequence 24
+[03Jul2025 01:01:17.777] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[03Jul2025 01:01:17.777] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:17.777] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:17.799] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 25
+[03Jul2025 01:01:17.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 26
+[03Jul2025 01:01:17.899] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[03Jul2025 01:01:17.952] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 28
+[03Jul2025 01:01:18.004] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[03Jul2025 01:01:18.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mahoutsukai-server.toml' to 'fml:handshake' sequence 30
+[03Jul2025 01:01:18.101] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 31
+[03Jul2025 01:01:18.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config aether-server.toml' to 'fml:handshake' sequence 32
+[03Jul2025 01:01:18.203] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 33
+[03Jul2025 01:01:18.251] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 34
+[03Jul2025 01:01:18.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 35
+[03Jul2025 01:01:20.017] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[03Jul2025 01:01:20.017] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.018] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.024] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[03Jul2025 01:01:20.024] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.024] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.027] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[03Jul2025 01:01:20.027] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.028] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.029] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[03Jul2025 01:01:20.029] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jul2025 01:01:20.029] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jul2025 01:01:20.052] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[03Jul2025 01:01:20.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:64072] logged in with entity id 57199 at (-2160.0720136286523, 67.25220334025373, 1737.560197561563)
+[03Jul2025 01:01:20.112] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@52276491 into net.minecraft.network.Connection@66af00b4
+[03Jul2025 01:01:20.112] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[03Jul2025 01:01:20.112] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[03Jul2025 01:01:20.112] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[03Jul2025 01:01:20.112] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[03Jul2025 01:01:20.112] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[03Jul2025 01:01:20.112] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[03Jul2025 01:01:20.113] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[03Jul2025 01:01:20.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Jul2025 01:01:20.518] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751504480518
