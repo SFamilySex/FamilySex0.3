@@ -119,3 +119,20 @@
 [04Jul2025 01:08:22.890] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/139711, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
 [04Jul2025 01:08:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Ender Distancing]
 [04Jul2025 01:08:51.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Capsid-19]
+[04Jul2025 01:13:39.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Jul2025 01:14:03.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Jul2025 01:14:33.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[04Jul2025 01:14:37.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Leeroy Is Back]
+[04Jul2025 01:14:47.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ¡
+[04Jul2025 01:14:56.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Jul2025 01:15:21.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Jul2025 01:15:39.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04Jul2025 01:21:13.935] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/144871, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[04Jul2025 01:21:13.938] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/144871, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[04Jul2025 01:21:13.938] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/144871, l='ServerLevel[world]', x=-91.64, y=52.00, z=1084.64].
+[04Jul2025 01:21:13.939] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/144872, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[04Jul2025 01:21:13.939] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/144872, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[04Jul2025 01:21:13.939] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/144872, l='ServerLevel[world]', x=-89.64, y=50.00, z=1079.36].
+[04Jul2025 01:21:13.939] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/144873, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[04Jul2025 01:21:13.940] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/144873, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[04Jul2025 01:21:13.940] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/144873, l='ServerLevel[world]', x=-89.64, y=50.00, z=1079.36].
