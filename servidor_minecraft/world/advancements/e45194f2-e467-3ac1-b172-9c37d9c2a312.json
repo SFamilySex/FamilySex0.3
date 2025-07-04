@@ -5587,5 +5587,11 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-04 00:27:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
