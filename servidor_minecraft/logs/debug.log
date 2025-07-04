@@ -7308,3 +7308,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jul2025 01:21:13.940] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/144873, l='ServerLevel[world]', x=-89.64, y=50.00, z=1079.36].
 [04Jul2025 01:23:13.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 01:23:13.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 01:26:50.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Race Against The Clock]
+[04Jul2025 01:27:00.626] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[04Jul2025 01:27:00.630] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[04Jul2025 01:27:32.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Ender Distancing]
+[04Jul2025 01:28:13.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 01:28:13.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 01:29:48.245] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/147906, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[04Jul2025 01:29:48.245] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/147906, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[04Jul2025 01:29:48.246] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/147906, l='ServerLevel[world]', x=-91.64, y=52.00, z=1084.64].
+[04Jul2025 01:29:48.246] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/147907, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[04Jul2025 01:29:48.246] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/147907, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[04Jul2025 01:29:48.247] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/147907, l='ServerLevel[world]', x=-89.64, y=50.00, z=1079.36].
+[04Jul2025 01:29:48.247] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/147908, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[04Jul2025 01:29:48.247] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/147908, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[04Jul2025 01:29:48.247] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/147908, l='ServerLevel[world]', x=-89.64, y=50.00, z=1079.36].
+[04Jul2025 01:31:49.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Capsid-19]
+[04Jul2025 01:32:17.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has reached the goal [Bound Forever]
+[04Jul2025 01:32:17.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Let The Magic Happen]
+[04Jul2025 01:32:26.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [It Is Wednesday]
+[04Jul2025 01:33:13.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 01:33:13.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
