@@ -258,3 +258,7 @@
 [04Jul2025 02:11:59.873] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [04Jul2025 02:13:32.716] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [04Jul2025 02:13:32.718] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[04Jul2025 02:19:41.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[04Jul2025 02:19:41.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[04Jul2025 02:20:01.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[04Jul2025 02:20:01.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game

@@ -5611,5 +5611,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-04 02:17:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
