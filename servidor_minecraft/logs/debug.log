@@ -6155,3 +6155,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jul2025 23:47:58.314] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5057467a[id=<null>,name=BALDUINO,properties={},legacy=false] (/100.122.200.99:58888) lost connection: Unexpected custom data from client
 [03Jul2025 23:48:01.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jul2025 23:48:01.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 23:53:01.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:53:01.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 23:55:26.413] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:55:26.420] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:55:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Umvuthana
+[03Jul2025 23:55:38.604] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2709, y:64, z:1688, dim:minecraft:overworld]
+[03Jul2025 23:55:40.512] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751586940512
+[03Jul2025 23:56:39.968] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Jul2025 23:56:39.970] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Jul2025 23:56:53.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[03Jul2025 23:56:53.150] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2694, y:70, z:1663, dim:minecraft:overworld]
+[03Jul2025 23:56:54.968] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751587014959
+[03Jul2025 23:58:01.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:58:01.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
